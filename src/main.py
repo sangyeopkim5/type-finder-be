@@ -69,6 +69,7 @@ def split_box_by_index(box, formula_index, total_parts=2):
 
     return formula_box, text_box
 
+
 def extract_parts(equation):
     match = re.search(r'(\$.*?\$)', equation)
     if match:
