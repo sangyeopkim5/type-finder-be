@@ -1,5 +1,3 @@
-##TS 중간폴더 정리코드
-
 import os
 import shutil
 

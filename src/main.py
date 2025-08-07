@@ -1,3 +1,5 @@
+#1개 변환 콛,
+
 import os, json, re, base64, shutil, uuid
 from PIL import Image
 from dotenv import load_dotenv
