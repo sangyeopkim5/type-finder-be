@@ -5,6 +5,7 @@
   background-image: radial-gradient(circle, #e5e5e5 1px, transparent 1px);
   background-size: 16px 16px;
   position: relative;
+  overflow: hidden;
 }
 
 .canvas-grid {
@@ -28,12 +29,14 @@
   gap: 6px;
   cursor: grab;
   animation: nodeAdd 0.3s ease-out;
+  z-index: 10;
 }
 
 .canvas-node:active {
   cursor: grabbing;
 }
 
+/* Node positioning to match Figma design */
 .problem-node {
   left: 234px;
   top: 274px;
@@ -41,6 +44,26 @@
 
 .concept-canvas-node {
   left: 234px;
+  top: 390px;
+}
+
+.strategy-node {
+  left: 400px;
+  top: 274px;
+}
+
+.visualization-node {
+  left: 400px;
+  top: 390px;
+}
+
+.video-node {
+  left: 566px;
+  top: 274px;
+}
+
+.summary-node {
+  left: 566px;
   top: 390px;
 }
 
@@ -55,6 +78,8 @@
   font-weight: 600;
   font-size: 10px;
   color: #18181b;
+  text-align: center;
+  line-height: 1.2;
 }
 
 .connection-shapes,
@@ -65,15 +90,72 @@
   display: flex;
   flex-direction: column;
   gap: 3px;
+  z-index: 5;
 }
 
-.connection-shapes { right: -16px; }
-.connection-shapes-left { left: -16px; }
+.connection-shapes { 
+  right: -16px; 
+}
+
+.connection-shapes-left { 
+  left: -16px; 
+}
 
 .shape {
   transition: transform 0.2s ease;
+  cursor: pointer;
 }
 
 .shape:hover {
   transform: scale(1.1);
+}
+
+/* Node type specific styling */
+.concept-node {
+  background-color: #ffffff;
+}
+
+.strategy-node {
+  background-color: #ffffff;
+}
+
+.visualization-node {
+  background-color: #ffffff;
+}
+
+.video-node {
+  background-color: #ffffff;
+}
+
+.summary-node {
+  background-color: #ffffff;
+}
+
+/* SVG icon styling */
+.magnifying-glass,
+.lightbulb,
+.compass-icon,
+.graph-icon,
+.video-icon,
+.microphone-icon {
+  color: #000000;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .problem-node { left: 200px; }
+  .concept-canvas-node { left: 200px; }
+  .strategy-node { left: 350px; }
+  .visualization-node { left: 350px; }
+  .video-node { left: 500px; }
+  .summary-node { left: 500px; }
+}
+
+@media (max-width: 900px) {
+  .problem-node { left: 150px; }
+  .concept-canvas-node { left: 150px; }
+  .strategy-node { left: 280px; }
+  .visualization-node { left: 280px; }
+  .video-node { left: 410px; }
+  .summary-node { left: 410px; }
 }

@@ -9,6 +9,7 @@ const rootElement = document.getElementById('root');
 // 2. React가 제어할 수 있는 'root'를 생성합니다.
 const root = ReactDOM.createRoot(rootElement);
 
+
 // 3. 생성된 root에 App 컴포넌트를 렌더링(그려넣기)합니다.
 root.render(
   <React.StrictMode>

@@ -23,22 +23,33 @@ function Footer() {
 
   return (
     <div className="right-sidebar">
-      {/* Video section can also be made dynamic later */}
       <div className="sidebar-section video-section">
-        {/* ... Video section JSX ... */}
+        <div className="section-header">
+          <h3>영상</h3>
+        </div>
+        <div className="video-content">
+          <div className="video-placeholder">
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M24 4L44 24L24 44L4 24L24 4Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+            <span>영상이 없습니다</span>
+          </div>
+        </div>
       </div>
 
       <div className="sidebar-section chat-section">
         <div className="section-header">
-          {/* ... Chat header JSX ... */}
+          <h3>채팅</h3>
         </div>
         <div className="chat-content">
           <div className="chat-title">피타고라스 정리의 증명</div>
           <div className="chat-messages">
             {messages.map((msg, index) => (
               <div key={index} className={`chat-message ${msg.sender}`}>
-                <p>{msg.text}</p>
-                <span>{msg.time}</span>
+                <div className="message-content">
+                  <p>{msg.text}</p>
+                  <span className="message-time">{msg.time}</span>
+                </div>
               </div>
             ))}
           </div>
@@ -59,7 +70,9 @@ function Footer() {
       </div>
       
       <button className="collapse-btn">
-        {/* Collapse button SVG */}
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M15 18L9 12L15 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+        </svg>
       </button>
     </div>
   );
