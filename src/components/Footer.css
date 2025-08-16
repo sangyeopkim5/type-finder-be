@@ -1,0 +1,170 @@
+.right-sidebar {
+  width: 256px;
+  height: 100vh;
+  background-color: #f8f8f8;
+  flex-shrink: 0;
+  position: relative;
+  padding: 16px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sidebar-section {
+  background-color: #ffffff;
+  border-radius: 13px;
+  border: 1px solid #e5e5e5;
+  overflow: hidden;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 10px 14px;
+}
+
+.node-icon-small {
+  width: 24px;
+  height: 24px;
+}
+
+.node-title-small {
+  font-weight: 600;
+  font-size: 10px;
+  margin-bottom: 3px;
+}
+
+.node-description-small {
+  font-size: 9px;
+  color: #71717a;
+}
+
+.output-section {
+  padding: 0 14px;
+  margin-bottom: 13px;
+}
+
+.output-label {
+  font-size: 9px;
+  color: #71717a;
+  margin-bottom: 6px;
+}
+
+.output-content {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.output-title, .output-time {
+  font-size: 9px;
+}
+
+.video-player {
+  height: 160px;
+  background-color: #f0f0f0;
+  margin: 0 14px 13px;
+  border-radius: 6px;
+  position: relative;
+}
+
+.video-controls {
+  position: absolute;
+  bottom: 6px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 6px;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 6px 10px;
+  border-radius: 16px;
+}
+
+.control-btn {
+  width: 19px;
+  height: 19px;
+  background: none;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.keywords-section {
+  padding: 0 14px 14px;
+}
+
+.keywords-label {
+  font-size: 9px;
+  color: #71717a;
+  margin-bottom: 6px;
+}
+
+.keywords-input {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #dbdbdb;
+  border-radius: 4px;
+  padding: 5px 6px;
+}
+
+.keyword-tag {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 8px;
+}
+
+.dropdown-btn {
+  margin-left: auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.chat-content {
+  padding: 0 14px;
+}
+
+.chat-title {
+  font-size: 9px;
+  margin-bottom: 13px;
+}
+
+.chat-messages {
+  height: 240px;
+  background-color: #f9f9f9;
+  border-radius: 6px;
+  padding: 13px;
+}
+
+.question-input-container {
+  padding: 9px 12px;
+}
+
+.question-input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 10px;
+  background: none;
+}
+
+.suggested-question {
+  font-size: 9px;
+  margin-top: 4px;
+}
+
+.collapse-btn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 19px;
+  height: 19px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
