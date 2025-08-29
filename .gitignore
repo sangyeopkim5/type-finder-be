@@ -1,0 +1,4 @@
+# Environment variables
+.env
+*.env
+# Python cache files (optional, commonly ignored)
