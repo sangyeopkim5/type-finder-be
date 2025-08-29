@@ -1,0 +1,13 @@
+# Core dependencies for Manion CAS-Compiler
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Mathematical computation and symbolic algebra
+sympy>=1.12
+
+# Standard library dependencies (usually included with Python)
+# pathlib - for file path operations
+# json - for JSON handling
+# os - for environment variables
+# re - for regular expressions
+# typing - for type hints
