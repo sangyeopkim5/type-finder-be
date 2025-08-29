@@ -1,0 +1,90 @@
+{
+  "problem_id": "중3-1객관식 (0)",
+  "reconstructed": {
+    "text_markdown": "$$ \\sqrt{15}/\\sqrt{28} = \\frac{\\sqrt{3}}{4}/\\sqrt{7} \\times \\frac{\\sqrt{5}}{6} = \\frac{\\sqrt{35}}{28} $$\n\n① $\\frac{\\sqrt{6}}{3}$ ② $\\sqrt{6}$ ③ $\\frac{3\\sqrt{6}}{2}$ ④ $\\frac{5\\sqrt{6}}{3}$ ⑤ $2\\sqrt{6}$",
+    "latex_blocks": [
+      "\\sqrt{15}/\\sqrt{28}",
+      "\\frac{\\sqrt{3}}{4}/\\sqrt{7} \\times \\frac{\\sqrt{5}}{6}",
+      "\\frac{\\sqrt{35}}{28}",
+      "\\frac{\\sqrt{6}}{3}",
+      "\\sqrt{6}",
+      "\\frac{3\\sqrt{6}}{2}",
+      "\\frac{5\\sqrt{6}}{3}",
+      "2\\sqrt{6}"
+    ],
+    "choices": [
+      "① $\\frac{\\sqrt{6}}{3}$",
+      "② $\\sqrt{6}$",
+      "③ $\\frac{3\\sqrt{6}}{2}$",
+      "④ $\\frac{5\\sqrt{6}}{3}$",
+      "⑤ $2\\sqrt{6}$"
+    ]
+  },
+  "context": {
+    "task": "simplify",
+    "target_expr": "\\frac{\\sqrt{15}}{\\sqrt{28}}",
+    "variables": [],
+    "constraints": [],
+    "assumptions": "default real domain"
+  },
+  "branches": [
+    {
+      "branch_id": "B1",
+      "strategy": "Simplify the expression",
+      "steps": [
+        {
+          "step_id": "S1",
+          "label": "Simplify the square root expression",
+          "op": "algebra.simplify",
+          "before": "$$ \\sqrt{15}/\\sqrt{28} $$",
+          "after_expected": "$$ \\frac{\\sqrt{15}}{\\sqrt{28}} $$",
+          "cas": {
+            "fn": "simplify",
+            "args": [
+              "sqrt(15)/sqrt(28)"
+            ],
+            "kwargs": {}
+          }
+        }
+      ],
+      "full_run": {
+        "lang": "python(sympy)",
+        "code": "from sympy import *\nresult = simplify(sqrt(15)/sqrt(28))",
+        "exec": null,
+        "error": null
+      }
+    },
+    {
+      "branch_id": "B2",
+      "strategy": "Evaluate the expression",
+      "steps": [
+        {
+          "step_id": "S1",
+          "label": "Evaluate the square root expression",
+          "op": "algebra.evaluate",
+          "before": "$$ \\sqrt{15}/\\sqrt{28} $$",
+          "after_expected": "$$ \\frac{\\sqrt{15}}{\\sqrt{28}} $$",
+          "cas": {
+            "fn": "evaluate",
+            "args": [
+              "sqrt(15)/sqrt(28)"
+            ],
+            "kwargs": {}
+          }
+        }
+      ],
+      "full_run": {
+        "lang": "python(sympy)",
+        "code": "from sympy import *\nresult = sqrt(15)/sqrt(28)",
+        "exec": null,
+        "error": null
+      }
+    }
+  ],
+  "selected_branch_id": "B1",
+  "candidate_answer": {
+    "value_type": "expr",
+    "expr_str": "sqrt(15)/sqrt(28)",
+    "latex": "$$ \\frac{\\sqrt{15}}{\\sqrt{28}} $$"
+  }
+}
