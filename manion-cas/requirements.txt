@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic>=2
+httpx
+python-dotenv
+sympy
+Pillow
+openai>=1.40.0
+

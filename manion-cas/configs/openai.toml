@@ -1,0 +1,7 @@
+[models]
+codegen = "gpt-4o"
+
+[gen]
+temperature = 0.1
+max_tokens  = 4096
+
