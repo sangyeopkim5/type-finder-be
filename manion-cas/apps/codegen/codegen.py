@@ -66,12 +66,22 @@ def generate_manim(doc: ProblemDoc) -> CodegenJob:
     with_image = bool(doc.image_path) or any(i.category in IMAGE_CATS for i in doc.items)
     messages = _build_messages(doc, with_image)
 
+    # GPT-5 모델에서는 max_completion_tokens 사용
+    kwargs = {
+        "model": cfg["models"]["codegen"],
+        "messages": messages,
+        "temperature": cfg["gen"]["temperature"],
+    }
+    
+    # 모델별로 다른 파라미터 사용
+    if "gpt-5" in cfg["models"]["codegen"]:
+        kwargs["max_completion_tokens"] = cfg["gen"]["max_tokens"]
+    else:
+        kwargs["max_tokens"] = cfg["gen"]["max_tokens"]
+    
     resp = _chat_completion_with_retry(
         client,
-        model=cfg["models"]["codegen"],
-        messages=messages,
-        temperature=cfg["gen"]["temperature"],
-        max_tokens=cfg["gen"]["max_tokens"],
+        **kwargs
     )
     text = resp.choices[0].message.content.strip()
 

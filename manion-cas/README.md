@@ -5,7 +5,7 @@
 ## Features
 
 - 수학 문제 이미지 분석 및 OCR
-- GPT-4o를 사용한 Manim 코드 생성
+- GPT-5를 사용한 Manim 코드 생성
 - CAS(Computer Algebra System) 계산 지원
 - 자동 placeholder 치환 및 최종 코드 생성
 
@@ -22,7 +22,7 @@ Probleminput/ 폴더의 문제 데이터
 ```
 server.py → /e2e 엔드포인트
 ├── 1단계: route_problem() - 문제 분류 및 라우팅
-├── 2단계: generate_manim() - GPT-4o를 사용한 Manim 코드 생성
+├── 2단계: generate_manim() - GPT-5를 사용한 Manim 코드 생성
 ├── 3단계: run_cas() - CAS 계산 실행
 └── 4단계: fill_placeholders() - 최종 코드 생성
 ```
@@ -30,7 +30,7 @@ server.py → /e2e 엔드포인트
 ### 3. 코드 생성 단계 (Code Generation)
 ```
 apps/codegen/codegen.py
-├── 이미지 처리: base64 인코딩 → GPT-4o Vision API 전송
+├── 이미지 처리: base64 인코딩 → GPT-5 Vision API 전송
 ├── 프롬프트 구성: base_text.md 또는 base_vision.md 템플릿 사용
 ├── GPT 응답 파싱: "---CAS-JOBS---" 구분자로 분리
 └── CAS 작업 추출: [[CAS:id:expression]] 형식 파싱
@@ -81,7 +81,7 @@ FastAPI 기반 모듈화된 구조:
 ### 9. 데이터 흐름 요약
 ```
 Input (이미지+JSON) 
-→ GPT-4o Vision API (코드 생성)
+→ GPT-5 Vision API (코드 생성)
 → CAS 계산 (SymPy)
 → Placeholder 치환
 → Output (완성된 Manim 코드)
