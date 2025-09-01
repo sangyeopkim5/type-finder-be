@@ -1,4 +1,7 @@
 import pathlib, sys
+import pathlib
+import sys
+
 sys.path.append(str(pathlib.Path(__file__).resolve().parents[3]))
 
 import types
@@ -49,14 +52,17 @@ def test_codegen_sort_and_parse(monkeypatch):
     assert "[[CAS:a]]" in res.manim_code_draft
 
 
-def test_codegen_error_on_missing(monkeypatch):
+def test_codegen_no_cas_block(monkeypatch):
+    """When the CAS block is missing the function should return empty jobs."""
+
     monkeypatch.setattr(codegen, "reading_order", lambda x: x)
     monkeypatch.setattr(codegen, "get_openai_client", lambda: object())
 
     class Resp:
-        choices = [types.SimpleNamespace(message=types.SimpleNamespace(content="no jobs"))]
+        choices = [types.SimpleNamespace(message=types.SimpleNamespace(content="print('hi')"))]
 
     monkeypatch.setattr(codegen, "_chat_completion_with_retry", lambda *a, **k: Resp())
-    doc = ProblemDoc(items=[OCRItem(bbox=[0,0,1,1], category="Text")])
-    with pytest.raises(ValueError):
-        codegen.generate_manim(doc)
+    doc = ProblemDoc(items=[OCRItem(bbox=[0, 0, 1, 1], category="Text")])
+    res = codegen.generate_manim(doc)
+    assert res.cas_jobs == []
+    assert res.manim_code_draft.strip() == "print('hi')"

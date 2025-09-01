@@ -4,6 +4,17 @@ from libs.schemas import CASResult, RenderOutput
 
 
 def fill_placeholders(draft: str, repls: List[CASResult]) -> RenderOutput:
+    """Replace CAS placeholders in ``draft`` using ``repls``.
+
+    When no placeholders are present in the input ``draft`` the function simply
+    returns the original code unchanged. This makes it safe to call even when
+    the code generation step produced no CAS jobs.
+    """
+
+    # Fast path: if there are no CAS placeholders, return as-is
+    if "[[CAS:" not in draft:
+        return RenderOutput(manim_code_final=draft)
+
     code = draft
     seen = set()
     for r in repls:
