@@ -75,10 +75,11 @@ def generate_manim(doc: ProblemDoc) -> CodegenJob:
     )
     text = resp.choices[0].message.content.strip()
 
+    # "---CAS-JOBS---" 구분자가 없으면 CAS 작업이 없는 것으로 처리한다.
     if "---CAS-JOBS---" in text:
         manim_code, jobs_block = text.split("---CAS-JOBS---", 1)
     else:
-        raise ValueError("Codegen output missing ---CAS-JOBS--- separator")
+        manim_code, jobs_block = text, ""
     
     # 코드 블록 마커 제거 (맨 처음과 맨 마지막만)
     manim_code = manim_code.strip()
@@ -104,13 +105,15 @@ def generate_manim(doc: ProblemDoc) -> CodegenJob:
         m = re.match(r"\[\[CAS:(?P<id>[A-Za-z0-9_]+):(?P<expr>.+)\]\]$", line.strip())
         if m:
             jobs.append({"id": m["id"], "expr": m["expr"]})
-    if not jobs:
-        raise ValueError("No CAS jobs parsed")
 
     def _strip_expr(match):
         return f"[[CAS:{match.group('id')}]]"
 
-    draft = re.sub(r"\[\[CAS:(?P<id>[A-Za-z0-9_]+):(?P<expr>.*?)\]\]", _strip_expr, manim_code)
+    draft = re.sub(
+        r"\[\[CAS:(?P<id>[A-Za-z0-9_]+):(?P<expr>.*?)\]\]",
+        _strip_expr,
+        manim_code,
+    )
 
     return CodegenJob(manim_code_draft=draft, cas_jobs=jobs)
 
