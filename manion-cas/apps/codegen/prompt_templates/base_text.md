@@ -15,7 +15,9 @@ Return ONLY this layout:
 ...
 
 Rules:
-- <MANIM_CODE> is valid Python for Manim (one Scene). Sections: PROBLEM, GIVENS, WORK, ANSWER (as comments).
+- <MANIM_CODE> is valid Python for Manim (one Scene).
+- Start each section with a comment "# SECTION: NAME -- description" followed by self.next_section("NAME -- description") for PROBLEM, GIVENS, WORK, ANSWER.
+- Mark individual actions with "# STEP: n -- description" comments.
 - In formulas, place a trailing equality that shows the placeholder: r" = [[CAS:S1]]"
 - Each algebraic result must be deferred to CAS via placeholders.
 - Keep variables symbolic (x, a, ...). No numeric substitution.
