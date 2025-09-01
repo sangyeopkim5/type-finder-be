@@ -58,6 +58,8 @@
 **Step 6: Manim 코드**
 - Scene: 문제 1개 → 영상 1개
 - Section: SEC_PROBLEM / SEC_GIVENS / SEC_WORK / SEC_RESULT
+- 섹션 전환은 self.next_section("SEC_NAME -- 설명")으로 명시하고, 바로 위에 "# SECTION: SEC_NAME -- 설명" 주석을 추가한다.
+- 각 동작은 "# STEP: n -- 설명" 주석으로 기록한다.
 - 좌측 패널: 도형/그래프 (ValueTracker, always_redraw로 동기화)
 - 우측 패널: 수식 RollingBoard로 전개
 - 정답은 마지막에 큰 박스로 강조
