@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+pydantic>=2
+httpx
+python-dotenv
+sympy
+openai>=1.42.0
+numpy>=1.24
+scipy>=1.11
+svgpathtools>=1.6.1
+opencv-python>=4.9
+Pillow>=10.0
+shapely>=2.0
+loguru>=0.7
+rich>=13
+pytest>=7   # (선택, 개발/테스트용)
+black       # (선택, 코드 포맷팅용)
+isort       # (선택, import 정리용)

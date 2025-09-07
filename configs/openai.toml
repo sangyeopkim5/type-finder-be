@@ -1,0 +1,6 @@
+[models]
+codegen = "gpt-5"
+
+[gen]
+max_tokens  = 4096
+

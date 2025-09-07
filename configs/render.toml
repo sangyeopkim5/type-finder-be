@@ -1,0 +1,4 @@
+on_missing = "fail_build"  # warn_token | fail_build
+
+# 소수점 자리: 6은 합리적, 그대로 둬도 좋음
+decimal_digits_default = 6
