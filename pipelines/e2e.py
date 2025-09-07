@@ -1,6 +1,7 @@
 from __future__ import annotations
 import os
 import json
+import math
 from pathlib import Path
 from typing import Dict, Any
 
@@ -139,6 +140,30 @@ def run_pipeline(doc: ProblemDoc) -> str:
                 "GeoCAS could not solve coordinates for: "
                 f"{unsolved}. Check ConstraintSpec constraints."
             )
+
+    # Degeneracy/Incidence guards
+    def _dist(p, q):
+        return math.hypot(p[0] - q[0], p[1] - q[1])
+
+    def _collinear(p, a, b, eps=1e-9):
+        return abs((a[0] - p[0]) * (b[1] - p[1]) - (a[1] - p[1]) * (b[0] - p[0])) < eps
+
+    pts = (exact.get("points") or {})
+    labels = list(pts.keys())
+    for i in range(len(labels)):
+        for j in range(i + 1, len(labels)):
+            if _dist(pts[labels[i]], pts[labels[j]]) < 1e-6:
+                raise ValueError(
+                    f"Degenerate geometry: {labels[i]} ≈ {labels[j]} (distance < 1e-6)"
+                )
+
+    spec = constraint_spec or {}
+    for c in (spec.get("constraints") or []):
+        if c.get("type") == "noncollinear":
+            X, Y, Z = c.get("points", [None, None, None])
+            if X in pts and Y in pts and Z in pts:
+                if _collinear(pts[X], pts[Y], pts[Z]):
+                    raise ValueError(f"Noncollinear violated: {X},{Y},{Z} are collinear")
 
     # GEO 치환 맵
     geo_repls = build_geo_replacements(exact=exact, hint=geometry_hint, decimals=6)

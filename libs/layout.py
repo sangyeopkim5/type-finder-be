@@ -396,7 +396,7 @@ def _collect_point_pairs(exact_points: Dict[str, Sequence[float]], hint: Dict) -
 def compute_similarity_transform(exact_points: Dict[str, Sequence[float]], hint: Optional[Dict]):
     if np is None or not hint:
         def identity(p): return (float(p[0]), float(p[1]))
-        return identity, {"scale": 1.0, "R": [[1.0, 0.0], [0.0, 1.0]], "t": [0.0, 0.0], "used_labels": []}
+    return identity, {"scale": 1.0, "R": [[1.0, 0.0], [0.0, 1.0]], "t": [0.0, 0.0], "used_labels": []}
 
     ex_xy, hint_xy = _collect_point_pairs(exact_points, hint)
     if len(ex_xy) < 2:
@@ -425,6 +425,19 @@ def compute_similarity_transform(exact_points: Dict[str, Sequence[float]], hint:
                "t": [float(t[0]), float(t[1])],
                "used_labels": []}
 
+
+# === points_hint_map 적용 ============================================
+def _apply_points_hint_map(hint: dict, keypoints: dict) -> dict:
+    """Map label→point-id to coordinates using hint.keypoints."""
+    if not hint:
+        return {}
+    m = hint.get("points_hint_map") or {}
+    out = {}
+    for lab, pid in m.items():
+        if pid in keypoints:
+            out[lab] = tuple(keypoints[pid])
+    return out
+
 # ============================================================
 # GEO 치환 맵 빌더
 # ============================================================
@@ -448,7 +461,14 @@ def build_geo_replacements(exact: Dict, hint: Optional[Dict] = None, decimals: i
     """
     repl: Dict[str, str] = {}
 
+    label_pins: Dict[str, Tuple[float, float]] = {}
+    if hint:
+        keypoints = hint.get("keypoints") or {}
+        label_pins = _apply_points_hint_map(hint, keypoints)
+
     mapped = map_exact_points_to_layout(exact, hint)
+    for lab, xy in label_pins.items():
+        mapped.setdefault(lab, xy)
     for label, (x, y) in mapped.items():
         repl[f"point:{label}"] = _fmt_tuple(x, y, nd=decimals)
 

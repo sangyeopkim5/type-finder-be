@@ -189,6 +189,51 @@ def _extract_text_from_responses(resp) -> str:
     raise ValueError("No textual content found in Responses API output")
 
 # -------------------------------
+# GEO-JOBS Sanity helpers
+# -------------------------------
+
+def _ensure(lst, item):
+    if item not in lst:
+        lst.append(item)
+
+
+def _geojobs_sanity(constraint_spec: Optional[dict], draft_code: str) -> Optional[dict]:
+    if not constraint_spec:
+        return constraint_spec
+    cs = dict(constraint_spec)
+    ents = cs.setdefault("entities", {})
+    pts = set(ents.get("points", []) or [])
+    cons = cs.setdefault("constraints", [])
+
+    # 1) gather used point labels from draft and ensure declaration
+    import re
+    used = set(re.findall(r"\[\[GEO:point:([A-Za-z0-9_]+)\]\]", draft_code))
+    for p in used:
+        if p not in pts:
+            pts.add(p)
+    ents["points"] = sorted(list(pts))
+
+    # 2) basic guards: distinct & noncollinear
+    if len(pts) >= 3:
+        _ensure(cons, {"type": "distinct", "points": sorted(list(pts))})
+        lab = sorted(list(pts))
+        if len(lab) >= 4:
+            a, b, c, d = lab[0], lab[1], lab[2], lab[3]
+            _ensure(cons, {"type": "noncollinear", "points": [a, c, d]})
+            _ensure(cons, {"type": "noncollinear", "points": [b, a, d]})
+
+    # 3) polygon_order hint if Polygon(...) detected in draft
+    poly_match = re.search(r"Polygon\(\s*([A-Za-z0-9_,\s]+)\s*\)", draft_code)
+    if poly_match:
+        seq = [s.strip() for s in poly_match.group(1).split(",") if s.strip()]
+        seq = [s for s in seq if re.fullmatch(r"[A-Za-z0-9_]+", s)]
+        if len(seq) >= 3:
+            _ensure(cons, {"type": "polygon_order", "points": seq, "convex": True})
+
+    cs["constraints"] = cons
+    return cs
+
+# -------------------------------
 # 본체
 # -------------------------------
 
@@ -290,6 +335,9 @@ def generate_manim(doc: ProblemDoc) -> CodegenJob:
     def _strip_expr(match):
         return f"[[CAS:{match.group('id')}]]"
     draft = re.sub(r"\[\[CAS:(?P<id>[A-Za-z0-9_]+):(?P<expr>.*?)\]\]", _strip_expr, manim_code)
+
+    # Sanity pass for GEO-JOBS (auto guards)
+    constraint_spec = _geojobs_sanity(constraint_spec, draft)
 
     # -------------------------------
     # HARD GUARD (codegen-level)
