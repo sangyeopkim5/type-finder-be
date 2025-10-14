@@ -1,0 +1,317 @@
+=== 문제별 답변 차이점 분석 리포트 ===
+생성 시간: {
+  "timestamp": "2025-10-12T19:55:41.674747"
+}
+
+=== 요약 ===
+총 문제 수: 318
+동일한 답변: 285
+다른 답변: 33
+누락된 문제: 0
+
+=== 답변이 다른 문제들 ===
+
+문제 0343:
+  다른 답변들: ['㉢, ㉣, ㉠', '(ㄷ), (ㄹ), (ㄱ)', '(㉢), (㉣), (㉡)']
+  response_1: ㉢, ㉣, ㉠
+  response_2: (㉢), (㉣), (㉡)
+  response_3: (ㄷ), (ㄹ), (ㄱ)
+  문제 유형: 객관식
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0344:
+  다른 답변들: ['\\overrightarrow{OY}, \\overline{PD}', '\\overline{OY}, \\overline{PD}']
+  response_1: \overrightarrow{OY}, \overline{PD}
+  response_2: \overline{OY}, \overline{PD}
+  response_3: \overrightarrow{OY}, \overline{PD}
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0346:
+  다른 답변들: ['(㉠), (㉢), (㉣)', '㉠, ㉢, ㉡', '(ㄱ), (ㄷ), (ㄴ)']
+  response_1: ㉠, ㉢, ㉡
+  response_2: (㉠), (㉢), (㉣)
+  response_3: (ㄱ), (ㄷ), (ㄴ)
+  문제 유형: 객관식
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0348:
+  다른 답변들: ['㉢, ㉠, ㉣', '(ㄷ), (ㄱ), (ㄹ)', '(㉡), (㉢), (㉣)']
+  response_1: ㉢, ㉠, ㉣
+  response_2: (㉡), (㉢), (㉣)
+  response_3: (ㄷ), (ㄱ), (ㄹ)
+  문제 유형: 객관식
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0366:
+  다른 답변들: ['\\triangle ABC \\equiv \\triangle DFE', '△ABC≡△DFE', '\\triangle ABC\\equiv\\triangle DFE']
+  response_1: \triangle ABC \equiv \triangle DFE
+  response_2: △ABC≡△DFE
+  response_3: \triangle ABC\equiv\triangle DFE
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0380:
+  다른 답변들: ['\\triangle ABC\\equiv\\triangle DEF, SSS 합동', '△ABC≡△DEF, SSS 합동', '\\triangle ABC \\equiv \\triangle DEF, SSS 합동']
+  response_1: \triangle ABC \equiv \triangle DEF, SSS 합동
+  response_2: △ABC≡△DEF, SSS 합동
+  response_3: \triangle ABC\equiv\triangle DEF, SSS 합동
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0381:
+  다른 답변들: ['\\triangle ABC\\equiv\\triangle DEF, SAS 합동', '△ABC≡△DEF, SAS 합동', '\\triangle ABC \\equiv \\triangle DEF, SAS 합동']
+  response_1: \triangle ABC \equiv \triangle DEF, SAS 합동
+  response_2: △ABC≡△DEF, SAS 합동
+  response_3: \triangle ABC\equiv\triangle DEF, SAS 합동
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: A
+
+문제 0384:
+  다른 답변들: ['(㉡)→(㉣)→(㉠)→(㉢)', '(ㄴ)→(ㄹ)→(ㄱ)→(ㄷ)→(ㅁ)', '㉡→㉢→㉠→㉣']
+  response_1: ㉡→㉢→㉠→㉣
+  response_2: (㉡)→(㉣)→(㉠)→(㉢)
+  response_3: (ㄴ)→(ㄹ)→(ㄱ)→(ㄷ)→(ㅁ)
+  문제 유형: 객관식
+  단원: 04 작도와 합동
+  난이도: B
+
+문제 0391:
+  다른 답변들: ['ㅂ', '(ㅂ)', '5']
+  response_1: ㅂ
+  response_2: 5
+  response_3: (ㅂ)
+  문제 유형: 객관식
+  단원: 04 작도와 합동
+  난이도: B
+
+문제 0424:
+  다른 답변들: ['△ACD, SAS 합동', '\\triangle ACD, SAS 합동']
+  response_1: \triangle ACD, SAS 합동
+  response_2: △ACD, SAS 합동
+  response_3: \triangle ACD, SAS 합동
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: B
+
+문제 0457:
+  다른 답변들: ['\\triangle BCG, \\triangle CDH, \\triangle DAE', '△BCG, △CDH, △DAE']
+  response_1: \triangle BCG, \triangle CDH, \triangle DAE
+  response_2: △BCG, △CDH, △DAE
+  response_3: \triangle BCG, \triangle CDH, \triangle DAE
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: C
+
+문제 0463:
+  다른 답변들: ['(1) △ABD≡△CAE (2) 13 cm', '(1) \\triangle ABD\\equiv\\triangle CAE (2) 13 cm', '(1) \\triangle ABD \\equiv \\triangle CAE (2) 13 cm']
+  response_1: (1) \triangle ABD \equiv \triangle CAE (2) 13 cm
+  response_2: (1) △ABD≡△CAE (2) 13 cm
+  response_3: (1) \triangle ABD\equiv\triangle CAE (2) 13 cm
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: C
+
+문제 0464:
+  다른 답변들: ['(1) △BCE, SAS 합동 (2) 120^\\circ', '(1) \\triangle BCE, SAS 합동 (2) 120^\\circ']
+  response_1: (1) \triangle BCE, SAS 합동 (2) 120^\circ
+  response_2: (1) △BCE, SAS 합동 (2) 120^\circ
+  response_3: (1) \triangle BCE, SAS 합동 (2) 120^\circ
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: C
+
+문제 0468:
+  다른 답변들: ['(1) △ABG, SAS 합동 (2) 90^\\circ', '(1) \\triangle ABG, SAS 합동 (2) 90^\\circ']
+  response_1: (1) \triangle ABG, SAS 합동 (2) 90^\circ
+  response_2: (1) △ABG, SAS 합동 (2) 90^\circ
+  response_3: (1) \triangle ABG, SAS 합동 (2) 90^\circ
+  문제 유형: 단답형
+  단원: 04 작도와 합동
+  난이도: C
+
+문제 0469:
+  다른 답변들: ['3, 육각형', '(3), 육각형']
+  response_1: (3), 육각형
+  response_2: 3, 육각형
+  response_3: (3), 육각형
+  문제 유형: 단답형
+  단원: 05 다각형
+  난이도: A
+
+문제 0491:
+  다른 답변들: ['(차례로) 2, 4, 9, 360^\\circ, 720^\\circ, 1620^\\circ', '2, 4, 9, 360^\\circ, 720^\\circ, 1620^\\circ']
+  response_1: 2, 4, 9, 360^\circ, 720^\circ, 1620^\circ
+  response_2: (차례로) 2, 4, 9, 360^\circ, 720^\circ, 1620^\circ
+  response_3: 2, 4, 9, 360^\circ, 720^\circ, 1620^\circ
+  문제 유형: 단답형
+  단원: 05 다각형
+  난이도: A
+
+문제 0503:
+  다른 답변들: ['정십각형', '정이십각형']
+  response_1: 정십각형
+  response_2: 정이십각형
+  response_3: 정이십각형
+  문제 유형: 단답형
+  단원: 05 다각형
+  난이도: A
+
+문제 0534:
+  다른 답변들: ['4', '0', '0^\\circ']
+  response_1: 0^\circ
+  response_2: 4
+  response_3: 0
+  문제 유형: 단답형
+  단원: 05 다각형
+  난이도: B
+
+문제 0553:
+  다른 답변들: ['14', '14번']
+  response_1: 14
+  response_2: 14번
+  response_3: 14번
+  문제 유형: 단답형
+  단원: 05 다각형
+  난이도: B
+
+문제 0583:
+  다른 답변들: ['정십팔각형', '정십각형']
+  response_1: 정십각형
+  response_2: 정십각형
+  response_3: 정십팔각형
+  문제 유형: 단답형
+  단원: 05 다각형
+  난이도: B
+
+문제 0616:
+  다른 답변들: ['(1) 현 CD (2) 호 BC (3) 부채꼴 AOD (4) 활꼴', '(1) 호, (2) 현, (3) 중심각, (4) 부채꼴', '(1) 호 (2) 현 (3) 중심각 (4) 호']
+  response_1: (1) 호, (2) 현, (3) 중심각, (4) 부채꼴
+  response_2: (1) 호 (2) 현 (3) 중심각 (4) 호
+  response_3: (1) 현 CD (2) 호 BC (3) 부채꼴 AOD (4) 활꼴
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0617:
+  다른 답변들: ['(1) \\overline{AB} (2) \\overline{CD} (3) \\angle AOD', '(1) \\overline{AB} (2) \\overleftrightarrow{CD} (3) \\angle AOD']
+  response_1: (1) \overline{AB} (2) \overleftrightarrow{CD} (3) \angle AOD
+  response_2: (1) \overline{AB} (2) \overline{CD} (3) \angle AOD
+  response_3: (1) \overline{AB} (2) \overline{CD} (3) \angle AOD
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0633:
+  다른 답변들: ['l=8\\pi cm, S=16\\pi cm^2', 'l=8π cm, S=16π cm^2']
+  response_1: l=8\pi cm, S=16\pi cm^2
+  response_2: l=8π cm, S=16π cm^2
+  response_3: l=8\pi cm, S=16\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0634:
+  다른 답변들: ['l=12\\pi cm, S=36\\pi cm^2', 'l=12π cm, S=36π cm^2']
+  response_1: l=12\pi cm, S=36\pi cm^2
+  response_2: l=12π cm, S=36π cm^2
+  response_3: l=12\pi cm, S=36\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0639:
+  다른 답변들: ['(1) 14\\pi cm (2) 7\\pi cm (3) (21\\pi+14) cm', '(1) 14π cm (2) 7π cm (3) (21π+14) cm']
+  response_1: (1) 14\pi cm (2) 7\pi cm (3) (21\pi+14) cm
+  response_2: (1) 14π cm (2) 7π cm (3) (21π+14) cm
+  response_3: (1) 14\pi cm (2) 7\pi cm (3) (21\pi+14) cm
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0640:
+  다른 답변들: ['(1) 16\\pi cm^2 (2) 4\\pi cm^2 (3) 12\\pi cm^2', '(1) 16π cm^2 (2) 4π cm^2 (3) 12π cm^2']
+  response_1: (1) 16\pi cm^2 (2) 4\pi cm^2 (3) 12\pi cm^2
+  response_2: (1) 16π cm^2 (2) 4π cm^2 (3) 12π cm^2
+  response_3: (1) 16\pi cm^2 (2) 4\pi cm^2 (3) 12\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0641:
+  다른 답변들: ['l=\\pi cm, S=2\\pi cm^2', 'l=π cm, S=2π cm^2']
+  response_1: l=\pi cm, S=2\pi cm^2
+  response_2: l=π cm, S=2π cm^2
+  response_3: l=\pi cm, S=2\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0642:
+  다른 답변들: ['l=4\\pi cm, S=6\\pi cm^2', 'l=4π cm, S=6π cm^2']
+  response_1: l=4\pi cm, S=6\pi cm^2
+  response_2: l=4π cm, S=6π cm^2
+  response_3: l=4\pi cm, S=6\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0643:
+  다른 답변들: ['(3\\pi+18) cm', '(3π+18) cm']
+  response_1: (3\pi+18) cm
+  response_2: (3π+18) cm
+  response_3: (3\pi+18) cm
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0644:
+  다른 답변들: ['(4π+10) cm', '(4\\pi+10) cm']
+  response_1: (4\pi+10) cm
+  response_2: (4π+10) cm
+  response_3: (4\pi+10) cm
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0645:
+  다른 답변들: ['(가) 9 (나) 27π (다) 120', '(가) 9 (나) 27\\pi (다) 120']
+  response_1: (가) 9 (나) 27\pi (다) 120
+  response_2: (가) 9 (나) 27π (다) 120
+  response_3: (가) 9 (나) 27\pi (다) 120
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0646:
+  다른 답변들: ['18π cm^2', '18\\pi cm^2']
+  response_1: 18\pi cm^2
+  response_2: 18π cm^2
+  response_3: 18\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+문제 0647:
+  다른 답변들: ['27π cm^2', '27\\pi cm^2']
+  response_1: 27\pi cm^2
+  response_2: 27π cm^2
+  response_3: 27\pi cm^2
+  문제 유형: 단답형
+  단원: 06 원과 부채꼴
+  난이도: A
+
+=== 동일한 답변을 가진 문제들 (샘플) ===
+동일한 문제 수: 285
+샘플 문제 코드: ['0330', '0331', '0332', '0333', '0334', '0335', '0336', '0337', '0338', '0339']
+
+=== 통계 ===
+일치율: 89.6%
+불일치율: 10.4%

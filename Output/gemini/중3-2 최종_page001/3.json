@@ -1,0 +1,1822 @@
+[
+  {
+    "problem_code": "0001",
+    "question_type": "단답형",
+    "answer": "sin A=\\frac{5}{13}, cos A=\\frac{12}{13}, tan A=\\frac{5}{12}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0002",
+    "question_type": "단답형",
+    "answer": "sin B=\\frac{12}{13}, cos B=\\frac{5}{13}, tan B=\\frac{12}{5}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0003",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{5}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0004",
+    "question_type": "단답형",
+    "answer": "sin C=\\frac{\\sqrt{5}}{5}, cos C=\\frac{2\\sqrt{5}}{5}, tan C=\\frac{1}{2}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0005",
+    "question_type": "객관식",
+    "answer": "6",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0006",
+    "question_type": "단답형",
+    "answer": "3\\sqrt{5}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0007",
+    "question_type": "단답형",
+    "answer": "\\angle C",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0008",
+    "question_type": "단답형",
+    "answer": "sin x=\\frac{4}{5}, cos x=\\frac{3}{5}, tan x=\\frac{4}{3}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0009",
+    "question_type": "단답형",
+    "answer": "\\frac{5\\sqrt{3}}{6}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0010",
+    "question_type": "객관식",
+    "answer": "0",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0011",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0012",
+    "question_type": "단답형",
+    "answer": "\\sqrt{2}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0013",
+    "question_type": "단답형",
+    "answer": "\\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0014",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0015",
+    "question_type": "단답형",
+    "answer": "45^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0016",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0017",
+    "question_type": "단답형",
+    "answer": "x=4, y=4\\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0018",
+    "question_type": "단답형",
+    "answer": "x=2\\sqrt{2}, y=4",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0019",
+    "question_type": "단답형",
+    "answer": "0.5736",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0020",
+    "question_type": "단답형",
+    "answer": "0.8192",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0021",
+    "question_type": "단답형",
+    "answer": "0.7002",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0022",
+    "question_type": "단답형",
+    "answer": "0.8192",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0023",
+    "question_type": "단답형",
+    "answer": "0.5736",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0024",
+    "question_type": "단답형",
+    "answer": "sin A: 0, \\frac{1}{2}, \\frac{\\sqrt{2}}{2}, \\frac{\\sqrt{3}}{2}, 1 / cos A: 1, \\frac{\\sqrt{3}}{2}, \\frac{\\sqrt{2}}{2}, \\frac{1}{2}, 0 / tan A: 0, \\frac{\\sqrt{3}}{3}, 1, \\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0025",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0026",
+    "question_type": "객관식",
+    "answer": "0",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0027",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0028",
+    "question_type": "객관식",
+    "answer": "0",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0029",
+    "question_type": "객관식",
+    "answer": "<",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0030",
+    "question_type": "객관식",
+    "answer": ">",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0031",
+    "question_type": "객관식",
+    "answer": "<",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0032",
+    "question_type": "객관식",
+    "answer": "<",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0033",
+    "question_type": "객관식",
+    "answer": ">",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0034",
+    "question_type": "객관식",
+    "answer": "<",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0035",
+    "question_type": "객관식",
+    "answer": "<",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0036",
+    "question_type": "단답형",
+    "answer": "22",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0037",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0038",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "01 삼각비",
+    "level": "A"
+  },
+  {
+    "problem_code": "0039",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0040",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{2}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0041",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0042",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{6}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0043",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0044",
+    "question_type": "단답형",
+    "answer": "\\frac{4}{5}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0045",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0046",
+    "question_type": "단답형",
+    "answer": "54",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0047",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0048",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{2}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0049",
+    "question_type": "단답형",
+    "answer": "\\frac{8}{15}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0050",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{5}}{5}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0051",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0052",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0053",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{11}}{6}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0054",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0055",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0056",
+    "question_type": "단답형",
+    "answer": "\\frac{15}{8}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0057",
+    "question_type": "단답형",
+    "answer": "\\frac{7}{5}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0058",
+    "question_type": "단답형",
+    "answer": "\\frac{24}{25}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0059",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0060",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{5}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0061",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{39}}{5}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0062",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0063",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0064",
+    "question_type": "단답형",
+    "answer": "\\frac{7}{9}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0065",
+    "question_type": "단답형",
+    "answer": "\\frac{3\\sqrt{7}}{16}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0066",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0067",
+    "question_type": "단답형",
+    "answer": "\\frac{5\\sqrt{29}}{29}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0068",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0069",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0070",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{6}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0071",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0072",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{3}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0073",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0074",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{6}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0075",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0076",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0077",
+    "question_type": "객관식",
+    "answer": "2, 5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0078",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0079",
+    "question_type": "단답형",
+    "answer": "-4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0080",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0081",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0082",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0083",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0084",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0085",
+    "question_type": "단답형",
+    "answer": "10^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0086",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0087",
+    "question_type": "단답형",
+    "answer": "8\\sqrt{6}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0088",
+    "question_type": "단답형",
+    "answer": "5\\sqrt{7} cm",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0089",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0090",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0091",
+    "question_type": "단답형",
+    "answer": "\\frac{16\\sqrt{3}}{3} cm^2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0092",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0093",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0094",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0095",
+    "question_type": "단답형",
+    "answer": "2+\\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0096",
+    "question_type": "단답형",
+    "answer": "\\sqrt{2}+1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0097",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0098",
+    "question_type": "단답형",
+    "answer": "y=x-3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0099",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{3}}{2}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0100",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0101",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0102",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0103",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0104",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0105",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0106",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{4}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0107",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0108",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0109",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{2}",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0110",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0111",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0112",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0113",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0114",
+    "question_type": "단답형",
+    "answer": "sin 23^\\circ, cos 0^\\circ, tan 50^\\circ, tan 75^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0115",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0116",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0117",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0118",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0119",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0120",
+    "question_type": "단답형",
+    "answer": "1.345",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0121",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0122",
+    "question_type": "단답형",
+    "answer": "24^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0123",
+    "question_type": "단답형",
+    "answer": "4.695",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0124",
+    "question_type": "단답형",
+    "answer": "36.325",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0125",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "B"
+  },
+  {
+    "problem_code": "0126",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0127",
+    "question_type": "단답형",
+    "answer": "\\frac{5\\sqrt{3}}{9}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0128",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0129",
+    "question_type": "단답형",
+    "answer": "\\frac{8\\sqrt{5}}{5}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0130",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0131",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{2}}{2}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0132",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0133",
+    "question_type": "단답형",
+    "answer": "75(\\sqrt{3}-1)",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0134",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0135",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0136",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{6}-\\sqrt{2}}{4}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0137",
+    "question_type": "단답형",
+    "answer": "\\frac{3+2\\sqrt{3}}{6}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0138",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0139",
+    "question_type": "단답형",
+    "answer": "\\frac{15}{17}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0140",
+    "question_type": "단답형",
+    "answer": "42^\\circ",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0141",
+    "question_type": "단답형",
+    "answer": "(1) -2+2\\sqrt{5} (2) \\frac{1+\\sqrt{5}}{4}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0142",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{13}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0143",
+    "question_type": "단답형",
+    "answer": "y=\\frac{3}{4}x+\\frac{7}{2}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0144",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{2}}{3}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0145",
+    "question_type": "단답형",
+    "answer": "-\\frac{\\sqrt{3}}{12}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0146",
+    "question_type": "단답형",
+    "answer": "\\frac{9\\sqrt{3}}{2} cm^2",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0147",
+    "question_type": "단답형",
+    "answer": "36\\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0148",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{2}+\\sqrt{6}}{4}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0149",
+    "question_type": "단답형",
+    "answer": "-\\sqrt{3}",
+    "unit_path": "01 삼각비",
+    "level": "C"
+  },
+  {
+    "problem_code": "0150",
+    "question_type": "단답형",
+    "answer": "(1) 10, 5\\sqrt{3} (2) 10, 5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0151",
+    "question_type": "단답형",
+    "answer": "(1) 4, 4 (2) 4, 4\\sqrt{2}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0152",
+    "question_type": "단답형",
+    "answer": "3.84",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0153",
+    "question_type": "단답형",
+    "answer": "5.74",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0154",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0155",
+    "question_type": "단답형",
+    "answer": "(1) 2\\sqrt{3} (2) 2 (3) 4 (4) 2\\sqrt{7}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0156",
+    "question_type": "단답형",
+    "answer": "\\sqrt{10}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0157",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0158",
+    "question_type": "단답형",
+    "answer": "(1) 12 (2) 60^\\circ (3) 8\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0159",
+    "question_type": "단답형",
+    "answer": "6\\sqrt{2}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0160",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{6}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0161",
+    "question_type": "단답형",
+    "answer": "(1) \\angle BAH=60^\\circ, \\angle CAH=45^\\circ (2) \\overline{BH}=\\sqrt{3}h, \\overline{CH}=h (3) 5(\\sqrt{3}-1)",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0162",
+    "question_type": "단답형",
+    "answer": "(1) \\angle BAH=60^\\circ, \\angle CAH=30^\\circ (2) \\overline{BH}=\\sqrt{3}h, \\overline{CH}=\\frac{\\sqrt{3}}{3}h (3) \\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0163",
+    "question_type": "단답형",
+    "answer": "14 cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0164",
+    "question_type": "단답형",
+    "answer": "15\\sqrt{2} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0165",
+    "question_type": "단답형",
+    "answer": "(가) \\frac{1}{2}ab \\sin(180^\\circ-x) (나) ab \\sin(180^\\circ-x)",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0166",
+    "question_type": "단답형",
+    "answer": "21\\sqrt{2} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0167",
+    "question_type": "단답형",
+    "answer": "55\\sqrt{3} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0168",
+    "question_type": "단답형",
+    "answer": "(가) \\frac{1}{2} (나) \\frac{1}{2}ab",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0169",
+    "question_type": "단답형",
+    "answer": "33\\sqrt{3} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0170",
+    "question_type": "단답형",
+    "answer": "16 cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0171",
+    "question_type": "객관식",
+    "answer": "3, 4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0172",
+    "question_type": "단답형",
+    "answer": "7.11",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0173",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0174",
+    "question_type": "단답형",
+    "answer": "(1) 4.32 (2) 5.76",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0175",
+    "question_type": "단답형",
+    "answer": "2(\\sqrt{6}-\\sqrt{2})",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0176",
+    "question_type": "단답형",
+    "answer": "45\\sqrt{3} cm^3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0177",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0178",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0179",
+    "question_type": "단답형",
+    "answer": "72\\sqrt{3}\\pi cm^3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0180",
+    "question_type": "단답형",
+    "answer": "4 cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0181",
+    "question_type": "단답형",
+    "answer": "(1) 6\\sqrt{6} cm (2) 288\\sqrt{6} cm^3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0182",
+    "question_type": "단답형",
+    "answer": "30.2 m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0183",
+    "question_type": "단답형",
+    "answer": "67.5 m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0184",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0185",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0186",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0187",
+    "question_type": "단답형",
+    "answer": "50\\sqrt{3} m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0188",
+    "question_type": "단답형",
+    "answer": "35초",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0189",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{7} cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0190",
+    "question_type": "단답형",
+    "answer": "5\\sqrt{3} cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0191",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0192",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0193",
+    "question_type": "단답형",
+    "answer": "\\sqrt{91}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0194",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0195",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{6} cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0196",
+    "question_type": "단답형",
+    "answer": "14 cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0197",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0198",
+    "question_type": "단답형",
+    "answer": "5\\sqrt{6} m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0199",
+    "question_type": "단답형",
+    "answer": "40(\\sqrt{2}+\\sqrt{6}) m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0200",
+    "question_type": "단답형",
+    "answer": "6(3-\\sqrt{3}) cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0201",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0202",
+    "question_type": "단답형",
+    "answer": "10 m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0203",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0204",
+    "question_type": "단답형",
+    "answer": "16(3-\\sqrt{3}) cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0205",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0206",
+    "question_type": "단답형",
+    "answer": "3\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0207",
+    "question_type": "단답형",
+    "answer": "3-\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0208",
+    "question_type": "단답형",
+    "answer": "7 cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0209",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0210",
+    "question_type": "단답형",
+    "answer": "9(3+\\sqrt{3}) cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0211",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0212",
+    "question_type": "단답형",
+    "answer": "6\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0213",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0214",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0215",
+    "question_type": "단답형",
+    "answer": "6\\sqrt{2} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0216",
+    "question_type": "단답형",
+    "answer": "36 cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0217",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0218",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0219",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{3} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0220",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0221",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0222",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0223",
+    "question_type": "단답형",
+    "answer": "4\\pi-3\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0224",
+    "question_type": "단답형",
+    "answer": "32\\sqrt{2} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0225",
+    "question_type": "단답형",
+    "answer": "12\\sqrt{3} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0226",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0227",
+    "question_type": "단답형",
+    "answer": "18+12\\sqrt{2}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0228",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0229",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0230",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0231",
+    "question_type": "단답형",
+    "answer": "40+3\\sqrt{51}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0232",
+    "question_type": "단답형",
+    "answer": "32\\sqrt{2} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0233",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{3} cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0234",
+    "question_type": "단답형",
+    "answer": "135^\\circ",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0235",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0236",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0237",
+    "question_type": "단답형",
+    "answer": "15\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0238",
+    "question_type": "단답형",
+    "answer": "60 cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0239",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0240",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0241",
+    "question_type": "단답형",
+    "answer": "45^\\circ",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0242",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0243",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0244",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0245",
+    "question_type": "단답형",
+    "answer": "50\\sqrt{2} m",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0246",
+    "question_type": "단답형",
+    "answer": "6\\sqrt{13}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0247",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0248",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{3}+4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0249",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0250",
+    "question_type": "단답형",
+    "answer": "7 cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0251",
+    "question_type": "단답형",
+    "answer": "(48+16\\sqrt{3}) cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0252",
+    "question_type": "단답형",
+    "answer": "\\frac{3}{5}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0253",
+    "question_type": "단답형",
+    "answer": "18\\sqrt{3} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0254",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0255",
+    "question_type": "단답형",
+    "answer": "(1) 20 cm (2) 4 cm",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0256",
+    "question_type": "단답형",
+    "answer": "\\frac{3\\sqrt{3}}{2}(2-\\sqrt{3})",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0257",
+    "question_type": "단답형",
+    "answer": "36\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0258",
+    "question_type": "단답형",
+    "answer": "\\frac{99\\sqrt{3}}{2} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0259",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{3} cm^2",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0260",
+    "question_type": "단답형",
+    "answer": "99\\sqrt{3}",
+    "unit_path": "02 삼각비의 활용",
+    "level": "C"
+  }
+]

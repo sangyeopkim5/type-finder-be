@@ -1,0 +1,4435 @@
+Gemini 응답 불일치/실패 리포트
+총 호출 수: 3
+성공한 호출 수: 3
+
+[응답 1]
+[
+  {
+    "problem_code": "1114",
+    "question_type": "단답형",
+    "answer": "x=1, y=2",
+    "unit_path": "09 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1115",
+    "question_type": "단답형",
+    "answer": "x=3, y=-1",
+    "unit_path": "09 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1116",
+    "question_type": "단답형",
+    "answer": "x=\\frac{1}{2}, y=1",
+    "unit_path": "09 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1117",
+    "question_type": "단답형",
+    "answer": "x=-\\frac{1}{3}, y=1",
+    "unit_path": "09 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1118",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{x^2-x+1}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1119",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1120",
+    "question_type": "단답형",
+    "answer": "\\frac{6x^2+6x-6}{x(x+3)(x+1)(x-2)}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1121",
+    "question_type": "단답형",
+    "answer": "\\frac{a}{a+1}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1122",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{6}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1123",
+    "question_type": "단답형",
+    "answer": "\\frac{x-1}{x+2}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1124",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1125",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1126",
+    "question_type": "단답형",
+    "answer": "64",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1127",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1128",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1129",
+    "question_type": "단답형",
+    "answer": "\\frac{11x-9}{x(x+1)(3x-1)}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1130",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1131",
+    "question_type": "단답형",
+    "answer": "\\frac{-2x}{x^4+x^2+1}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1132",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1133",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1134",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1135",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1136",
+    "question_type": "단답형",
+    "answer": "\\frac{49}{99}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1137",
+    "question_type": "단답형",
+    "answer": "\\frac{x-1}{x}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1138",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1139",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1140",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1141",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1142",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{6}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1143",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1144",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{3}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1145",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1146",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1147",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1148",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1149",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1150",
+    "question_type": "단답형",
+    "answer": "-7",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1151",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1152",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1153",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1154",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1155",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1156",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1157",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1158",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1159",
+    "question_type": "단답형",
+    "answer": "-\\frac{3}{2}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1160",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1161",
+    "question_type": "단답형",
+    "answer": "제1사분면",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1162",
+    "question_type": "단답형",
+    "answer": "a≤-2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1163",
+    "question_type": "단답형",
+    "answer": "k>4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1164",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1165",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1166",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1167",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1168",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1169",
+    "question_type": "단답형",
+    "answer": "a<b<c<d",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1170",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{3}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1171",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1172",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1173",
+    "question_type": "단답형",
+    "answer": "-\\frac{7}{8}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1174",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1175",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1176",
+    "question_type": "단답형",
+    "answer": "a<0",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1177",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1178",
+    "question_type": "단답형",
+    "answer": "-3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1179",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1180",
+    "question_type": "단답형",
+    "answer": "\\sqrt{10}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1181",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1182",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1183",
+    "question_type": "단답형",
+    "answer": "\\frac{7}{8}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1184",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1185",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1186",
+    "question_type": "단답형",
+    "answer": "0",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1187",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1188",
+    "question_type": "단답형",
+    "answer": "-24",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1189",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1190",
+    "question_type": "단답형",
+    "answer": "-8",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1191",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1192",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{3}",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1193",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "09 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1194",
+    "question_type": "단답형",
+    "answer": "\\frac{11}{6}",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1195",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1196",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1197",
+    "question_type": "단답형",
+    "answer": "88",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1198",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1199",
+    "question_type": "단답형",
+    "answer": "102",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1200",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1201",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1202",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1203",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1204",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1205",
+    "question_type": "단답형",
+    "answer": "192",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1206",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1207",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1208",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1209",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1210",
+    "question_type": "단답형",
+    "answer": "x≥-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1211",
+    "question_type": "단답형",
+    "answer": "x≥1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1212",
+    "question_type": "단답형",
+    "answer": "2≤x<3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1213",
+    "question_type": "단답형",
+    "answer": "x≥0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1214",
+    "question_type": "단답형",
+    "answer": "-1≤x<5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1215",
+    "question_type": "단답형",
+    "answer": "2a-3b",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1216",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1217",
+    "question_type": "단답형",
+    "answer": "x-10",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1218",
+    "question_type": "단답형",
+    "answer": "-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1219",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1220",
+    "question_type": "단답형",
+    "answer": "\\sqrt{x+1}-\\sqrt{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1221",
+    "question_type": "단답형",
+    "answer": "\\sqrt{x+2}+\\sqrt{x-2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1222",
+    "question_type": "단답형",
+    "answer": "\\frac{a-2\\sqrt{ab}+b}{a-b}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1223",
+    "question_type": "단답형",
+    "answer": "-2x+1-2\\sqrt{x(x-1)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1224",
+    "question_type": "단답형",
+    "answer": "2x^2-1+2x\\sqrt{x^2-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1225",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{a}}{a-b}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1226",
+    "question_type": "단답형",
+    "answer": "\\frac{x+3}{x-3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1227",
+    "question_type": "단답형",
+    "answer": "\\frac{-2(x+\\sqrt{x+1})}{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1228",
+    "question_type": "단답형",
+    "answer": "\\frac{-\\sqrt{x}+\\sqrt{x+6}}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1229",
+    "question_type": "단답형",
+    "answer": "2(2+\\sqrt{2})",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1230",
+    "question_type": "단답형",
+    "answer": "ㄱ, ㄷ, ㅁ, ㅂ",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1231",
+    "question_type": "단답형",
+    "answer": "{x|x≥-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1232",
+    "question_type": "단답형",
+    "answer": "{x|x≤0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1233",
+    "question_type": "단답형",
+    "answer": "{x|x≥\\frac{3}{2}}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1234",
+    "question_type": "단답형",
+    "answer": "{x|-2≤x≤2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1235",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≥0}, 치역: {y|y≥0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1236",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≥0}, 치역: {y|y≤0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1237",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≤0}, 치역: {y|y≥0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1238",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≤0}, 치역: {y|y≤0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1239",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{-3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1240",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1241",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1242",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{x-3}-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1243",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{-4x-4}+5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1244",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{7x+42}-4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1245",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{4(x+2)}-6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1246",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{-5(x-\\frac{3}{5})}+1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1247",
+    "question_type": "단답형",
+    "answer": "a=2, b=2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1248",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≥2}, 치역: {y|y≥0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1249",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≥-\\frac{3}{2}}, 치역: {y|y≤1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1250",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≤1}, 치역: {y|y≥-2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1251",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≤\\frac{4}{3}}, 치역: {y|y≤-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1252",
+    "question_type": "단답형",
+    "answer": "x≤-\\frac{4}{3} 또는 x≥\\frac{1}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1253",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1254",
+    "question_type": "단답형",
+    "answer": "-x",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1255",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1256",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1257",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1258",
+    "question_type": "단답형",
+    "answer": "3a",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1259",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1260",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1261",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1262",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1263",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1264",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{5}}{5}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1265",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1266",
+    "question_type": "단답형",
+    "answer": "82",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1267",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1268",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1269",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{3}}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1270",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1271",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1272",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1273",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1274",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x≤\\frac{4}{3}}, 치역: {y|y≥-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1275",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1276",
+    "question_type": "단답형",
+    "answer": "9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1277",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1278",
+    "question_type": "단답형",
+    "answer": "-5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1279",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1280",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1281",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1282",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1283",
+    "question_type": "단답형",
+    "answer": "-4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1284",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1285",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1286",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1287",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1288",
+    "question_type": "단답형",
+    "answer": "a<0, b<0, c<0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1289",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1290",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1291",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1292",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1293",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1294",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1295",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1296",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1297",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1298",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1299",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1300",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1301",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1302",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1303",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1304",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1305",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1306",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1307",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1308",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1309",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1310",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1311",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1312",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1313",
+    "question_type": "단답형",
+    "answer": "{y|2<y<3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1314",
+    "question_type": "단답형",
+    "answer": "bc-ad-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1315",
+    "question_type": "단답형",
+    "answer": "45",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1316",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1317",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1318",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1319",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1320",
+    "question_type": "단답형",
+    "answer": "\\frac{9}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1321",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1322",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1323",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  }
+]
+
+[응답 2]
+[
+  {
+    "problem_code": "1114",
+    "question_type": "단답형",
+    "answer": "x=1, y=2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1115",
+    "question_type": "단답형",
+    "answer": "x=3, y=-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1116",
+    "question_type": "단답형",
+    "answer": "x=\\frac{1}{2}, y=1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1117",
+    "question_type": "단답형",
+    "answer": "x=-\\frac{1}{3}, y=1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1118",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{x^2-x+1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1119",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1120",
+    "question_type": "단답형",
+    "answer": "\\frac{6x^2+6x-6}{x(x+3)(x+1)(x-2)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1121",
+    "question_type": "단답형",
+    "answer": "\\frac{a}{a+1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1122",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{6}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1123",
+    "question_type": "단답형",
+    "answer": "\\frac{x-1}{x+2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1124",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1125",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1126",
+    "question_type": "단답형",
+    "answer": "64",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1127",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1128",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1129",
+    "question_type": "단답형",
+    "answer": "\\frac{11x-9}{x(x+1)(3x-1)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1130",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1131",
+    "question_type": "단답형",
+    "answer": "\\frac{-2x}{x^4+x^2+1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1132",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1133",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1134",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1135",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1136",
+    "question_type": "단답형",
+    "answer": "\\frac{49}{99}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1137",
+    "question_type": "단답형",
+    "answer": "\\frac{x-1}{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1138",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1139",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1140",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1141",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1142",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{6}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1143",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1144",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1145",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1146",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1147",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1148",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1149",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1150",
+    "question_type": "단답형",
+    "answer": "-7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1151",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1152",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1153",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1154",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1155",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1156",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1157",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1158",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1159",
+    "question_type": "단답형",
+    "answer": "-\\frac{3}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1160",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1161",
+    "question_type": "단답형",
+    "answer": "제1사분면",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1162",
+    "question_type": "단답형",
+    "answer": "a\\le-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1163",
+    "question_type": "단답형",
+    "answer": "k>4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1164",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1165",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1166",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1167",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1168",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1169",
+    "question_type": "단답형",
+    "answer": "a<b<c<d",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1170",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1171",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1172",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1173",
+    "question_type": "단답형",
+    "answer": "-\\frac{7}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1174",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1175",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1176",
+    "question_type": "단답형",
+    "answer": "a<0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1177",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1178",
+    "question_type": "단답형",
+    "answer": "-3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1179",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1180",
+    "question_type": "단답형",
+    "answer": "\\sqrt{10}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1181",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1182",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1183",
+    "question_type": "단답형",
+    "answer": "\\frac{7}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1184",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1185",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1186",
+    "question_type": "단답형",
+    "answer": "0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1187",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1188",
+    "question_type": "단답형",
+    "answer": "-24",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1189",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1190",
+    "question_type": "단답형",
+    "answer": "-8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1191",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1192",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1193",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1194",
+    "question_type": "단답형",
+    "answer": "\\frac{11}{6}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1195",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1196",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1197",
+    "question_type": "단답형",
+    "answer": "88",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1198",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1199",
+    "question_type": "단답형",
+    "answer": "102",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1200",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1201",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1202",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1203",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1204",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1205",
+    "question_type": "단답형",
+    "answer": "192",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1206",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1207",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1208",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1209",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1210",
+    "question_type": "단답형",
+    "answer": "x\\ge-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1211",
+    "question_type": "단답형",
+    "answer": "x\\ge1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1212",
+    "question_type": "단답형",
+    "answer": "2\\le x<3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1213",
+    "question_type": "단답형",
+    "answer": "x\\ge0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1214",
+    "question_type": "단답형",
+    "answer": "-1\\le x<5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1215",
+    "question_type": "단답형",
+    "answer": "2a-3b",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1216",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1217",
+    "question_type": "단답형",
+    "answer": "x-10",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1218",
+    "question_type": "단답형",
+    "answer": "-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1219",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1220",
+    "question_type": "단답형",
+    "answer": "\\sqrt{x+1}-\\sqrt{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1221",
+    "question_type": "단답형",
+    "answer": "\\sqrt{x+2}+\\sqrt{x-2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1222",
+    "question_type": "단답형",
+    "answer": "\\frac{a-2\\sqrt{ab}+b}{a-b}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1223",
+    "question_type": "단답형",
+    "answer": "-2x+1-2\\sqrt{x(x-1)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1224",
+    "question_type": "단답형",
+    "answer": "2x^2-1+2x\\sqrt{x^2-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1225",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{a}}{a-b}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1226",
+    "question_type": "단답형",
+    "answer": "\\frac{x+3}{x-3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1227",
+    "question_type": "단답형",
+    "answer": "\\frac{-2(x+\\sqrt{x+1})}{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1228",
+    "question_type": "단답형",
+    "answer": "-\\frac{\\sqrt{x}+\\sqrt{x+6}}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1229",
+    "question_type": "단답형",
+    "answer": "2(2+\\sqrt{2})",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1230",
+    "question_type": "단답형",
+    "answer": "ㄱ, ㄷ, ㅁ, ㅂ",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1231",
+    "question_type": "단답형",
+    "answer": "{x|x\\ge-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1232",
+    "question_type": "단답형",
+    "answer": "{x|x\\le0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1233",
+    "question_type": "단답형",
+    "answer": "{x|x\\ge\\frac{3}{2}}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1234",
+    "question_type": "단답형",
+    "answer": "{x|-2\\le x\\le2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1235",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ge0}, 치역: {y|y\\ge0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1236",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ge0}, 치역: {y|y\\le0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1237",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\le0}, 치역: {y|y\\ge0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1238",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\le0}, 치역: {y|y\\le0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1239",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{-3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1240",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1241",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1242",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{x-3}-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1243",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{-4x-4}+5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1244",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{7x+42}-4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1245",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{4(x+2)}-6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1246",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{-5(x-\\frac{3}{5})}+1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1247",
+    "question_type": "단답형",
+    "answer": "a=2, b=2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1248",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ge2}, 치역: {y|y\\ge0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1249",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ge-\\frac{3}{2}}, 치역: {y|y\\le1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1250",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\le1}, 치역: {y|y\\ge-2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1251",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\le\\frac{4}{3}}, 치역: {y|y\\le-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1252",
+    "question_type": "단답형",
+    "answer": "x\\le-\\frac{4}{3} 또는 x\\ge\\frac{1}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1253",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1254",
+    "question_type": "단답형",
+    "answer": "-x",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1255",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1256",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1257",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1258",
+    "question_type": "단답형",
+    "answer": "3a",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1259",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1260",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1261",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1262",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1263",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1264",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{5}}{5}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1265",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1266",
+    "question_type": "단답형",
+    "answer": "82",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1267",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1268",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1269",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1270",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1271",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1272",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1273",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1274",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\le\\frac{4}{5}}, 치역: {y|y\\ge-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1275",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1276",
+    "question_type": "단답형",
+    "answer": "9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1277",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1278",
+    "question_type": "단답형",
+    "answer": "-5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1279",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1280",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1281",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1282",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1283",
+    "question_type": "단답형",
+    "answer": "-4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1284",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1285",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1286",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1287",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1288",
+    "question_type": "단답형",
+    "answer": "a<0, b<0, c<0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1289",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1290",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1291",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1292",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1293",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1294",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1295",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1296",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1297",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1298",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1299",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1300",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1301",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1302",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1303",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1304",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1305",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1306",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1307",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1308",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1309",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1310",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1311",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1312",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1313",
+    "question_type": "단답형",
+    "answer": "{y|2<y<3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1314",
+    "question_type": "단답형",
+    "answer": "bc-ad-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1315",
+    "question_type": "단답형",
+    "answer": "45",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1316",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1317",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1318",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1319",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1320",
+    "question_type": "단답형",
+    "answer": "\\frac{9}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1321",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1322",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1323",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  }
+]
+
+[응답 3]
+[
+  {
+    "problem_code": "1114",
+    "question_type": "단답형",
+    "answer": "x=1, y=2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1115",
+    "question_type": "단답형",
+    "answer": "x=3, y=-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1116",
+    "question_type": "단답형",
+    "answer": "x=\\frac{1}{2}, y=1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1117",
+    "question_type": "단답형",
+    "answer": "x=-\\frac{1}{3}, y=1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1118",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{x^2-x+1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1119",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1120",
+    "question_type": "단답형",
+    "answer": "\\frac{6x^2+6x-6}{x(x+3)(x+1)(x-2)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1121",
+    "question_type": "단답형",
+    "answer": "\\frac{a}{a+1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1122",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{6}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1123",
+    "question_type": "단답형",
+    "answer": "\\frac{x-1}{x+2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1124",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1125",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1126",
+    "question_type": "단답형",
+    "answer": "64",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1127",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1128",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1129",
+    "question_type": "단답형",
+    "answer": "\\frac{11x-9}{x(x+1)(3x-1)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1130",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1131",
+    "question_type": "단답형",
+    "answer": "\\frac{-2x}{x^4+x^2+1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1132",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1133",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1134",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1135",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1136",
+    "question_type": "단답형",
+    "answer": "\\frac{49}{99}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1137",
+    "question_type": "단답형",
+    "answer": "\\frac{x-1}{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1138",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1139",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1140",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1141",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1142",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{6}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1143",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1144",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1145",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1146",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1147",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1148",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1149",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1150",
+    "question_type": "단답형",
+    "answer": "-7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1151",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1152",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1153",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1154",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1155",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1156",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1157",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1158",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1159",
+    "question_type": "단답형",
+    "answer": "-\\frac{3}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1160",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1161",
+    "question_type": "단답형",
+    "answer": "제1사분면",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1162",
+    "question_type": "단답형",
+    "answer": "a\\leq -2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1163",
+    "question_type": "단답형",
+    "answer": "k>4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1164",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1165",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1166",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1167",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1168",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1169",
+    "question_type": "단답형",
+    "answer": "a<b<c<d",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1170",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1171",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1172",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1173",
+    "question_type": "단답형",
+    "answer": "-\\frac{7}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1174",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1175",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1176",
+    "question_type": "단답형",
+    "answer": "a<0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1177",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1178",
+    "question_type": "단답형",
+    "answer": "-3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1179",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1180",
+    "question_type": "단답형",
+    "answer": "\\sqrt{10}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1181",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1182",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1183",
+    "question_type": "단답형",
+    "answer": "\\frac{7}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1184",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1185",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1186",
+    "question_type": "단답형",
+    "answer": "0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1187",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1188",
+    "question_type": "단답형",
+    "answer": "-24",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1189",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1190",
+    "question_type": "단답형",
+    "answer": "-8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1191",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1192",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1193",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1194",
+    "question_type": "단답형",
+    "answer": "\\frac{11}{6}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1195",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1196",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1197",
+    "question_type": "단답형",
+    "answer": "88",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1198",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1199",
+    "question_type": "단답형",
+    "answer": "102",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1200",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1201",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1202",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1203",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1204",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1205",
+    "question_type": "단답형",
+    "answer": "192",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1206",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1207",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1208",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1209",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1210",
+    "question_type": "단답형",
+    "answer": "x\\geq -2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1211",
+    "question_type": "단답형",
+    "answer": "x\\geq 1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1212",
+    "question_type": "단답형",
+    "answer": "2\\leq x<3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1213",
+    "question_type": "단답형",
+    "answer": "x\\geq 0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1214",
+    "question_type": "단답형",
+    "answer": "-1\\leq x<5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1215",
+    "question_type": "단답형",
+    "answer": "2a-3b",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1216",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1217",
+    "question_type": "단답형",
+    "answer": "x-10",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1218",
+    "question_type": "단답형",
+    "answer": "-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1219",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1220",
+    "question_type": "단답형",
+    "answer": "\\sqrt{x+1}-\\sqrt{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1221",
+    "question_type": "단답형",
+    "answer": "\\sqrt{x+2}+\\sqrt{x-2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1222",
+    "question_type": "단답형",
+    "answer": "\\frac{a-2\\sqrt{ab}+b}{a-b}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1223",
+    "question_type": "단답형",
+    "answer": "-2x+1-2\\sqrt{x(x-1)}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1224",
+    "question_type": "단답형",
+    "answer": "2x^2-1+2x\\sqrt{x^2-1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1225",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{a}}{a-b}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1226",
+    "question_type": "단답형",
+    "answer": "\\frac{x+3}{x-3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1227",
+    "question_type": "단답형",
+    "answer": "\\frac{-2(x+\\sqrt{x+1})}{x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1228",
+    "question_type": "단답형",
+    "answer": "-\\frac{\\sqrt{x}+\\sqrt{x+6}}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1229",
+    "question_type": "단답형",
+    "answer": "2(2+\\sqrt{2})",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1230",
+    "question_type": "단답형",
+    "answer": "ㄱ, ㄷ, ㅁ, ㅂ",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1231",
+    "question_type": "단답형",
+    "answer": "{x|x\\geq -1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1232",
+    "question_type": "단답형",
+    "answer": "{x|x\\leq 0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1233",
+    "question_type": "단답형",
+    "answer": "{x|x\\geq \\frac{3}{2}}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1234",
+    "question_type": "단답형",
+    "answer": "{x|-2\\leq x\\leq 2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1235",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\geq 0}, 치역: {y|y\\geq 0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1236",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\geq 0}, 치역: {y|y\\leq 0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1237",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\leq 0}, 치역: {y|y\\geq 0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1238",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\leq 0}, 치역: {y|y\\leq 0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1239",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{-3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1240",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1241",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{3x}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1242",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{x-3}-2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1243",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{-4x-4}+5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1244",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{7x+42}-4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1245",
+    "question_type": "단답형",
+    "answer": "y=\\sqrt{4(x+2)}-6",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1246",
+    "question_type": "단답형",
+    "answer": "y=-\\sqrt{-5(x-\\frac{3}{5})}+1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1247",
+    "question_type": "단답형",
+    "answer": "a=2, b=2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1248",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\geq 2}, 치역: {y|y\\geq 0}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1249",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\geq -\\frac{3}{2}}, 치역: {y|y\\leq 1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1250",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\leq 1}, 치역: {y|y\\geq -2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1251",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\leq \\frac{4}{3}}, 치역: {y|y\\leq -1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1252",
+    "question_type": "단답형",
+    "answer": "x\\leq -\\frac{4}{3} 또는 x\\geq \\frac{1}{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1253",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1254",
+    "question_type": "단답형",
+    "answer": "-x",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1255",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1256",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1257",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1258",
+    "question_type": "단답형",
+    "answer": "3a",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1259",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1260",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1261",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1262",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{2}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1263",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1264",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{5}}{5}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1265",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1266",
+    "question_type": "단답형",
+    "answer": "82",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1267",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1268",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1269",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1270",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1271",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1272",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1273",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1274",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\leq \\frac{4}{3}}, 치역: {y|y\\geq -1}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1275",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1276",
+    "question_type": "단답형",
+    "answer": "9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1277",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1278",
+    "question_type": "단답형",
+    "answer": "-5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1279",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1280",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1281",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1282",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1283",
+    "question_type": "단답형",
+    "answer": "-4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1284",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1285",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1286",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1287",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1288",
+    "question_type": "단답형",
+    "answer": "a<0, b<0, c<0",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1289",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1290",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1291",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1292",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1293",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1294",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1295",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1296",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1297",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1298",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1299",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1300",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1301",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1302",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1303",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1304",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1305",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1306",
+    "question_type": "단답형",
+    "answer": "-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1307",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1308",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1309",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1310",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1311",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1312",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1313",
+    "question_type": "단답형",
+    "answer": "{y|2<y<3}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1314",
+    "question_type": "단답형",
+    "answer": "bc-ad-1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1315",
+    "question_type": "단답형",
+    "answer": "45",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1316",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1317",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1318",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1319",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1320",
+    "question_type": "단답형",
+    "answer": "\\frac{9}{8}",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1321",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1322",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1323",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "10 무리식과 무리함수",
+    "level": "C"
+  }
+]
+
+=== 응답 그룹 ===
+응답 동일 그룹: 호출 [1]
+[{"answer": "x=1, y=2", "level": "A", "problem_code": "1114", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "x=3, y=-1", "level": "A", "problem_code": "1115", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "x=\\frac{1}{2}, y=1", "level": "A", "problem_code": "1116", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "x=-\\frac{1}{3}, y=1", "level": "A", "problem_code": "1117", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{1}{x^2-x+1}", "level": "B", "problem_code": "1118", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1119", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "\\frac{6x^2+6x-6}{x(x+3)(x+1)(x-2)}", "level": "B", "problem_code": "1120", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{a}{a+1}", "level": "B", "problem_code": "1121", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{5}{6}", "level": "B", "problem_code": "1122", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{x-1}{x+2}", "level": "B", "problem_code": "1123", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1124", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "1", "level": "B", "problem_code": "1125", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "64", "level": "B", "problem_code": "1126", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "2", "level": "B", "problem_code": "1127", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "1", "level": "B", "problem_code": "1128", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "\\frac{11x-9}{x(x+1)(3x-1)}", "level": "B", "problem_code": "1129", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "-1", "level": "B", "problem_code": "1130", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{-2x}{x^4+x^2+1}", "level": "B", "problem_code": "1131", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "18", "level": "B", "problem_code": "1132", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "6", "level": "B", "problem_code": "1133", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1134", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "6", "level": "B", "problem_code": "1135", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{49}{99}", "level": "B", "problem_code": "1136", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{x-1}{x}", "level": "B", "problem_code": "1137", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1138", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1139", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1140", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1141", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "\\frac{1}{6}", "level": "B", "problem_code": "1142", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "1", "level": "B", "problem_code": "1143", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{1}{3}", "level": "B", "problem_code": "1144", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "7", "level": "B", "problem_code": "1145", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1146", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1147", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1148", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "5", "level": "B", "problem_code": "1149", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "-7", "level": "B", "problem_code": "1150", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1151", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1152", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "2", "level": "B", "problem_code": "1153", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "24", "level": "B", "problem_code": "1154", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "2", "level": "B", "problem_code": "1155", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1156", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "2", "level": "B", "problem_code": "1157", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "2", "level": "B", "problem_code": "1158", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-\\frac{3}{2}", "level": "B", "problem_code": "1159", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "5", "level": "B", "problem_code": "1160", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "제1사분면", "level": "B", "problem_code": "1161", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "a≤-2", "level": "B", "problem_code": "1162", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "k>4", "level": "B", "problem_code": "1163", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "8", "level": "B", "problem_code": "1164", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "2", "level": "B", "problem_code": "1165", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1166", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1167", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1168", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "a<b<c<d", "level": "B", "problem_code": "1169", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{5}{3}", "level": "B", "problem_code": "1170", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1171", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-1", "level": "B", "problem_code": "1172", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "-\\frac{7}{8}", "level": "B", "problem_code": "1173", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "12", "level": "B", "problem_code": "1174", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "-1", "level": "B", "problem_code": "1175", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "a<0", "level": "B", "problem_code": "1176", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1177", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-3", "level": "B", "problem_code": "1178", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1179", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "\\sqrt{10}", "level": "B", "problem_code": "1180", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "18", "level": "B", "problem_code": "1181", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1182", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "\\frac{7}{8}", "level": "B", "problem_code": "1183", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1184", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-9", "level": "B", "problem_code": "1185", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "0", "level": "B", "problem_code": "1186", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "1", "level": "B", "problem_code": "1187", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-24", "level": "B", "problem_code": "1188", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "B", "problem_code": "1189", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-8", "level": "B", "problem_code": "1190", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "B", "problem_code": "1191", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "\\frac{5}{3}", "level": "B", "problem_code": "1192", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "-1", "level": "B", "problem_code": "1193", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "\\frac{11}{6}", "level": "C", "problem_code": "1194", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "50", "level": "C", "problem_code": "1195", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "5", "level": "C", "problem_code": "1196", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "88", "level": "C", "problem_code": "1197", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "4", "level": "C", "problem_code": "1198", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "102", "level": "C", "problem_code": "1199", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "24", "level": "C", "problem_code": "1200", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "11", "level": "C", "problem_code": "1201", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "3", "level": "C", "problem_code": "1202", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "-1", "level": "C", "problem_code": "1203", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "1", "level": "C", "problem_code": "1204", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "192", "level": "C", "problem_code": "1205", "question_type": "단답형", "unit_path": "09 유리함수"}, {"answer": "5", "level": "C", "problem_code": "1206", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "5", "level": "C", "problem_code": "1207", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "3", "level": "C", "problem_code": "1208", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "5", "level": "C", "problem_code": "1209", "question_type": "객관식", "unit_path": "09 유리함수"}, {"answer": "x≥-2", "level": "A", "problem_code": "1210", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x≥1", "level": "A", "problem_code": "1211", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2≤x<3", "level": "A", "problem_code": "1212", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x≥0", "level": "A", "problem_code": "1213", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1≤x<5", "level": "A", "problem_code": "1214", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2a-3b", "level": "A", "problem_code": "1215", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "A", "problem_code": "1216", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x-10", "level": "A", "problem_code": "1217", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-2", "level": "A", "problem_code": "1218", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "A", "problem_code": "1219", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{x+1}-\\sqrt{x}", "level": "A", "problem_code": "1220", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{x+2}+\\sqrt{x-2}", "level": "A", "problem_code": "1221", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{a-2\\sqrt{ab}+b}{a-b}", "level": "A", "problem_code": "1222", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-2x+1-2\\sqrt{x(x-1)}", "level": "A", "problem_code": "1223", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2x^2-1+2x\\sqrt{x^2-1}", "level": "A", "problem_code": "1224", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{2\\sqrt{a}}{a-b}", "level": "A", "problem_code": "1225", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x+3}{x-3}", "level": "A", "problem_code": "1226", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{-2(x+\\sqrt{x+1})}{x}", "level": "A", "problem_code": "1227", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{-\\sqrt{x}+\\sqrt{x+6}}{2}", "level": "A", "problem_code": "1228", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2(2+\\sqrt{2})", "level": "A", "problem_code": "1229", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "ㄱ, ㄷ, ㅁ, ㅂ", "level": "A", "problem_code": "1230", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x≥-1}", "level": "A", "problem_code": "1231", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x≤0}", "level": "A", "problem_code": "1232", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x≥\\frac{3}{2}}", "level": "A", "problem_code": "1233", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|-2≤x≤2}", "level": "A", "problem_code": "1234", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≥0}, 치역: {y|y≥0}", "level": "A", "problem_code": "1235", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≥0}, 치역: {y|y≤0}", "level": "A", "problem_code": "1236", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≤0}, 치역: {y|y≥0}", "level": "A", "problem_code": "1237", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≤0}, 치역: {y|y≤0}", "level": "A", "problem_code": "1238", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{-3x}", "level": "A", "problem_code": "1239", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{3x}", "level": "A", "problem_code": "1240", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{3x}", "level": "A", "problem_code": "1241", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{x-3}-2", "level": "A", "problem_code": "1242", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{-4x-4}+5", "level": "A", "problem_code": "1243", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{7x+42}-4", "level": "A", "problem_code": "1244", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{4(x+2)}-6", "level": "A", "problem_code": "1245", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{-5(x-\\frac{3}{5})}+1", "level": "A", "problem_code": "1246", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a=2, b=2", "level": "A", "problem_code": "1247", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≥2}, 치역: {y|y≥0}", "level": "A", "problem_code": "1248", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≥-\\frac{3}{2}}, 치역: {y|y≤1}", "level": "A", "problem_code": "1249", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≤1}, 치역: {y|y≥-2}", "level": "A", "problem_code": "1250", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≤\\frac{4}{3}}, 치역: {y|y≤-1}", "level": "A", "problem_code": "1251", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x≤-\\frac{4}{3} 또는 x≥\\frac{1}{2}", "level": "B", "problem_code": "1252", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "12", "level": "B", "problem_code": "1253", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-x", "level": "B", "problem_code": "1254", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1255", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1256", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1257", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3a", "level": "B", "problem_code": "1258", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1259", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1260", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1261", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\sqrt{2}", "level": "B", "problem_code": "1262", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1263", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{\\sqrt{5}}{5}", "level": "B", "problem_code": "1264", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1265", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "82", "level": "B", "problem_code": "1266", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1267", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1268", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{2\\sqrt{3}}{3}", "level": "B", "problem_code": "1269", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1270", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1271", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1272", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1273", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x≤\\frac{4}{3}}, 치역: {y|y≥-1}", "level": "B", "problem_code": "1274", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1275", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "9", "level": "B", "problem_code": "1276", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1277", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-5", "level": "B", "problem_code": "1278", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1279", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1280", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1281", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1282", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-4", "level": "B", "problem_code": "1283", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1284", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1285", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1286", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "B", "problem_code": "1287", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<0, b<0, c<0", "level": "B", "problem_code": "1288", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1289", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1290", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1291", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1292", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1293", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1294", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1295", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1296", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "8", "level": "B", "problem_code": "1297", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "20", "level": "B", "problem_code": "1298", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1299", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1300", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1301", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1302", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1303", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-9", "level": "B", "problem_code": "1304", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1305", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1306", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1307", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1308", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1309", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1310", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1311", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1312", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{y|2<y<3}", "level": "B", "problem_code": "1313", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "bc-ad-1", "level": "C", "problem_code": "1314", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "45", "level": "C", "problem_code": "1315", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "C", "problem_code": "1316", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1317", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "C", "problem_code": "1318", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1319", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{9}{8}", "level": "C", "problem_code": "1320", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "C", "problem_code": "1321", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "C", "problem_code": "1322", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1323", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}]
+
+응답 동일 그룹: 호출 [2]
+[{"answer": "x=1, y=2", "level": "B", "problem_code": "1114", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x=3, y=-1", "level": "B", "problem_code": "1115", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x=\\frac{1}{2}, y=1", "level": "B", "problem_code": "1116", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x=-\\frac{1}{3}, y=1", "level": "B", "problem_code": "1117", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{1}{x^2-x+1}", "level": "B", "problem_code": "1118", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1119", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{6x^2+6x-6}{x(x+3)(x+1)(x-2)}", "level": "B", "problem_code": "1120", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{a}{a+1}", "level": "B", "problem_code": "1121", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{5}{6}", "level": "B", "problem_code": "1122", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x-1}{x+2}", "level": "B", "problem_code": "1123", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1124", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1125", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "64", "level": "B", "problem_code": "1126", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1127", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1128", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{11x-9}{x(x+1)(3x-1)}", "level": "B", "problem_code": "1129", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1130", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{-2x}{x^4+x^2+1}", "level": "B", "problem_code": "1131", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "18", "level": "B", "problem_code": "1132", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "6", "level": "B", "problem_code": "1133", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1134", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "6", "level": "B", "problem_code": "1135", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{49}{99}", "level": "B", "problem_code": "1136", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x-1}{x}", "level": "B", "problem_code": "1137", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1138", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1139", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1140", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1141", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{1}{6}", "level": "B", "problem_code": "1142", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1143", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{1}{3}", "level": "B", "problem_code": "1144", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "B", "problem_code": "1145", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1146", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1147", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1148", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1149", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-7", "level": "B", "problem_code": "1150", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1151", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1152", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1153", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "24", "level": "B", "problem_code": "1154", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1155", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1156", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1157", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1158", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-\\frac{3}{2}", "level": "B", "problem_code": "1159", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1160", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "제1사분면", "level": "B", "problem_code": "1161", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a\\le-2", "level": "B", "problem_code": "1162", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "k>4", "level": "B", "problem_code": "1163", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "8", "level": "B", "problem_code": "1164", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1165", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1166", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1167", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1168", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<b<c<d", "level": "B", "problem_code": "1169", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{5}{3}", "level": "B", "problem_code": "1170", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1171", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1172", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-\\frac{7}{8}", "level": "B", "problem_code": "1173", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "12", "level": "B", "problem_code": "1174", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1175", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<0", "level": "B", "problem_code": "1176", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1177", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-3", "level": "B", "problem_code": "1178", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1179", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{10}", "level": "B", "problem_code": "1180", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "18", "level": "B", "problem_code": "1181", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1182", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{7}{8}", "level": "B", "problem_code": "1183", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1184", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-9", "level": "B", "problem_code": "1185", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "0", "level": "B", "problem_code": "1186", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1187", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-24", "level": "B", "problem_code": "1188", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1189", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-8", "level": "B", "problem_code": "1190", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1191", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{5}{3}", "level": "B", "problem_code": "1192", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1193", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{11}{6}", "level": "C", "problem_code": "1194", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "50", "level": "C", "problem_code": "1195", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1196", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "88", "level": "C", "problem_code": "1197", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "C", "problem_code": "1198", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "102", "level": "C", "problem_code": "1199", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "24", "level": "C", "problem_code": "1200", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "11", "level": "C", "problem_code": "1201", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1202", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "C", "problem_code": "1203", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "C", "problem_code": "1204", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "192", "level": "C", "problem_code": "1205", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1206", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1207", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1208", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1209", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\ge-2", "level": "A", "problem_code": "1210", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\ge1", "level": "A", "problem_code": "1211", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\le x<3", "level": "A", "problem_code": "1212", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\ge0", "level": "A", "problem_code": "1213", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1\\le x<5", "level": "A", "problem_code": "1214", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2a-3b", "level": "A", "problem_code": "1215", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "A", "problem_code": "1216", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x-10", "level": "A", "problem_code": "1217", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-2", "level": "A", "problem_code": "1218", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "A", "problem_code": "1219", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{x+1}-\\sqrt{x}", "level": "A", "problem_code": "1220", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{x+2}+\\sqrt{x-2}", "level": "A", "problem_code": "1221", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{a-2\\sqrt{ab}+b}{a-b}", "level": "A", "problem_code": "1222", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-2x+1-2\\sqrt{x(x-1)}", "level": "A", "problem_code": "1223", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2x^2-1+2x\\sqrt{x^2-1}", "level": "A", "problem_code": "1224", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{2\\sqrt{a}}{a-b}", "level": "A", "problem_code": "1225", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x+3}{x-3}", "level": "A", "problem_code": "1226", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{-2(x+\\sqrt{x+1})}{x}", "level": "A", "problem_code": "1227", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-\\frac{\\sqrt{x}+\\sqrt{x+6}}{2}", "level": "A", "problem_code": "1228", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2(2+\\sqrt{2})", "level": "A", "problem_code": "1229", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "ㄱ, ㄷ, ㅁ, ㅂ", "level": "A", "problem_code": "1230", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x\\ge-1}", "level": "A", "problem_code": "1231", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x\\le0}", "level": "A", "problem_code": "1232", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x\\ge\\frac{3}{2}}", "level": "A", "problem_code": "1233", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|-2\\le x\\le2}", "level": "A", "problem_code": "1234", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\ge0}, 치역: {y|y\\ge0}", "level": "B", "problem_code": "1235", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\ge0}, 치역: {y|y\\le0}", "level": "B", "problem_code": "1236", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\le0}, 치역: {y|y\\ge0}", "level": "B", "problem_code": "1237", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\le0}, 치역: {y|y\\le0}", "level": "B", "problem_code": "1238", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{-3x}", "level": "B", "problem_code": "1239", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{3x}", "level": "B", "problem_code": "1240", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{3x}", "level": "B", "problem_code": "1241", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{x-3}-2", "level": "B", "problem_code": "1242", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{-4x-4}+5", "level": "B", "problem_code": "1243", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{7x+42}-4", "level": "B", "problem_code": "1244", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{4(x+2)}-6", "level": "B", "problem_code": "1245", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{-5(x-\\frac{3}{5})}+1", "level": "B", "problem_code": "1246", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a=2, b=2", "level": "B", "problem_code": "1247", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\ge2}, 치역: {y|y\\ge0}", "level": "B", "problem_code": "1248", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\ge-\\frac{3}{2}}, 치역: {y|y\\le1}", "level": "B", "problem_code": "1249", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\le1}, 치역: {y|y\\ge-2}", "level": "B", "problem_code": "1250", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\le\\frac{4}{3}}, 치역: {y|y\\le-1}", "level": "B", "problem_code": "1251", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\le-\\frac{4}{3} 또는 x\\ge\\frac{1}{2}", "level": "B", "problem_code": "1252", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "12", "level": "B", "problem_code": "1253", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-x", "level": "B", "problem_code": "1254", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1255", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1256", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1257", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3a", "level": "B", "problem_code": "1258", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1259", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1260", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1261", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\sqrt{2}", "level": "B", "problem_code": "1262", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1263", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{\\sqrt{5}}{5}", "level": "B", "problem_code": "1264", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1265", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "82", "level": "B", "problem_code": "1266", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1267", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1268", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\sqrt{3}", "level": "B", "problem_code": "1269", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1270", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1271", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1272", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1273", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\le\\frac{4}{5}}, 치역: {y|y\\ge-1}", "level": "B", "problem_code": "1274", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1275", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "9", "level": "B", "problem_code": "1276", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1277", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-5", "level": "B", "problem_code": "1278", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1279", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1280", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1281", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1282", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-4", "level": "B", "problem_code": "1283", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1284", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1285", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1286", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "B", "problem_code": "1287", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<0, b<0, c<0", "level": "B", "problem_code": "1288", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1289", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1290", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1291", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1292", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1293", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1294", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1295", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1296", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "8", "level": "B", "problem_code": "1297", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "20", "level": "B", "problem_code": "1298", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1299", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1300", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1301", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1302", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1303", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-9", "level": "B", "problem_code": "1304", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1305", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1306", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1307", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1308", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1309", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1310", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1311", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1312", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{y|2<y<3}", "level": "B", "problem_code": "1313", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "bc-ad-1", "level": "C", "problem_code": "1314", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "45", "level": "C", "problem_code": "1315", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "C", "problem_code": "1316", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1317", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "C", "problem_code": "1318", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1319", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{9}{8}", "level": "C", "problem_code": "1320", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "C", "problem_code": "1321", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "C", "problem_code": "1322", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1323", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}]
+
+응답 동일 그룹: 호출 [3]
+[{"answer": "x=1, y=2", "level": "B", "problem_code": "1114", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x=3, y=-1", "level": "B", "problem_code": "1115", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x=\\frac{1}{2}, y=1", "level": "B", "problem_code": "1116", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x=-\\frac{1}{3}, y=1", "level": "B", "problem_code": "1117", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{1}{x^2-x+1}", "level": "B", "problem_code": "1118", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1119", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{6x^2+6x-6}{x(x+3)(x+1)(x-2)}", "level": "B", "problem_code": "1120", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{a}{a+1}", "level": "B", "problem_code": "1121", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{5}{6}", "level": "B", "problem_code": "1122", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x-1}{x+2}", "level": "B", "problem_code": "1123", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1124", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1125", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "64", "level": "B", "problem_code": "1126", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1127", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1128", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{11x-9}{x(x+1)(3x-1)}", "level": "B", "problem_code": "1129", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1130", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{-2x}{x^4+x^2+1}", "level": "B", "problem_code": "1131", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "18", "level": "B", "problem_code": "1132", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "6", "level": "B", "problem_code": "1133", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1134", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "6", "level": "B", "problem_code": "1135", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{49}{99}", "level": "B", "problem_code": "1136", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x-1}{x}", "level": "B", "problem_code": "1137", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1138", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1139", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1140", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1141", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{1}{6}", "level": "B", "problem_code": "1142", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1143", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{1}{3}", "level": "B", "problem_code": "1144", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "B", "problem_code": "1145", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1146", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1147", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1148", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1149", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-7", "level": "B", "problem_code": "1150", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1151", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1152", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1153", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "24", "level": "B", "problem_code": "1154", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1155", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1156", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1157", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1158", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-\\frac{3}{2}", "level": "B", "problem_code": "1159", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1160", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "제1사분면", "level": "B", "problem_code": "1161", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a\\leq -2", "level": "B", "problem_code": "1162", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "k>4", "level": "B", "problem_code": "1163", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "8", "level": "B", "problem_code": "1164", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1165", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1166", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1167", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1168", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<b<c<d", "level": "B", "problem_code": "1169", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{5}{3}", "level": "B", "problem_code": "1170", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1171", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1172", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-\\frac{7}{8}", "level": "B", "problem_code": "1173", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "12", "level": "B", "problem_code": "1174", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1175", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<0", "level": "B", "problem_code": "1176", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1177", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-3", "level": "B", "problem_code": "1178", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1179", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{10}", "level": "B", "problem_code": "1180", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "18", "level": "B", "problem_code": "1181", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1182", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{7}{8}", "level": "B", "problem_code": "1183", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1184", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-9", "level": "B", "problem_code": "1185", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "0", "level": "B", "problem_code": "1186", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1187", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-24", "level": "B", "problem_code": "1188", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1189", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-8", "level": "C", "problem_code": "1190", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "C", "problem_code": "1191", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{5}{3}", "level": "C", "problem_code": "1192", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "C", "problem_code": "1193", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{11}{6}", "level": "C", "problem_code": "1194", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "50", "level": "C", "problem_code": "1195", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1196", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "88", "level": "C", "problem_code": "1197", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "C", "problem_code": "1198", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "102", "level": "C", "problem_code": "1199", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "24", "level": "C", "problem_code": "1200", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "11", "level": "C", "problem_code": "1201", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1202", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "C", "problem_code": "1203", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "C", "problem_code": "1204", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "192", "level": "C", "problem_code": "1205", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1206", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1207", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1208", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1209", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\geq -2", "level": "A", "problem_code": "1210", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\geq 1", "level": "A", "problem_code": "1211", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\leq x<3", "level": "A", "problem_code": "1212", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\geq 0", "level": "A", "problem_code": "1213", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1\\leq x<5", "level": "A", "problem_code": "1214", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2a-3b", "level": "A", "problem_code": "1215", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "A", "problem_code": "1216", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x-10", "level": "A", "problem_code": "1217", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-2", "level": "A", "problem_code": "1218", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "A", "problem_code": "1219", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{x+1}-\\sqrt{x}", "level": "A", "problem_code": "1220", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\sqrt{x+2}+\\sqrt{x-2}", "level": "A", "problem_code": "1221", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{a-2\\sqrt{ab}+b}{a-b}", "level": "A", "problem_code": "1222", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-2x+1-2\\sqrt{x(x-1)}", "level": "A", "problem_code": "1223", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2x^2-1+2x\\sqrt{x^2-1}", "level": "A", "problem_code": "1224", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{2\\sqrt{a}}{a-b}", "level": "A", "problem_code": "1225", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{x+3}{x-3}", "level": "A", "problem_code": "1226", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{-2(x+\\sqrt{x+1})}{x}", "level": "A", "problem_code": "1227", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-\\frac{\\sqrt{x}+\\sqrt{x+6}}{2}", "level": "A", "problem_code": "1228", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2(2+\\sqrt{2})", "level": "A", "problem_code": "1229", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "ㄱ, ㄷ, ㅁ, ㅂ", "level": "A", "problem_code": "1230", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x\\geq -1}", "level": "A", "problem_code": "1231", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x\\leq 0}", "level": "A", "problem_code": "1232", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|x\\geq \\frac{3}{2}}", "level": "A", "problem_code": "1233", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{x|-2\\leq x\\leq 2}", "level": "A", "problem_code": "1234", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\geq 0}, 치역: {y|y\\geq 0}", "level": "B", "problem_code": "1235", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\geq 0}, 치역: {y|y\\leq 0}", "level": "B", "problem_code": "1236", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\leq 0}, 치역: {y|y\\geq 0}", "level": "B", "problem_code": "1237", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\leq 0}, 치역: {y|y\\leq 0}", "level": "B", "problem_code": "1238", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{-3x}", "level": "B", "problem_code": "1239", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{3x}", "level": "B", "problem_code": "1240", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{3x}", "level": "B", "problem_code": "1241", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{x-3}-2", "level": "B", "problem_code": "1242", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{-4x-4}+5", "level": "B", "problem_code": "1243", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{7x+42}-4", "level": "B", "problem_code": "1244", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=\\sqrt{4(x+2)}-6", "level": "B", "problem_code": "1245", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "y=-\\sqrt{-5(x-\\frac{3}{5})}+1", "level": "B", "problem_code": "1246", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a=2, b=2", "level": "B", "problem_code": "1247", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\geq 2}, 치역: {y|y\\geq 0}", "level": "B", "problem_code": "1248", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\geq -\\frac{3}{2}}, 치역: {y|y\\leq 1}", "level": "B", "problem_code": "1249", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\leq 1}, 치역: {y|y\\geq -2}", "level": "B", "problem_code": "1250", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\leq \\frac{4}{3}}, 치역: {y|y\\leq -1}", "level": "B", "problem_code": "1251", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "x\\leq -\\frac{4}{3} 또는 x\\geq \\frac{1}{2}", "level": "B", "problem_code": "1252", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "12", "level": "B", "problem_code": "1253", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-x", "level": "B", "problem_code": "1254", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1255", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1256", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1257", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3a", "level": "B", "problem_code": "1258", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1259", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1260", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1261", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\sqrt{2}", "level": "B", "problem_code": "1262", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1263", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{\\sqrt{5}}{5}", "level": "B", "problem_code": "1264", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1265", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "82", "level": "B", "problem_code": "1266", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1267", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1268", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2\\sqrt{3}", "level": "B", "problem_code": "1269", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1270", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1271", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1272", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1273", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "정의역: {x|x\\leq \\frac{4}{3}}, 치역: {y|y\\geq -1}", "level": "B", "problem_code": "1274", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1275", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "9", "level": "B", "problem_code": "1276", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1277", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-5", "level": "B", "problem_code": "1278", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1279", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1280", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1281", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1282", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-4", "level": "B", "problem_code": "1283", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1284", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1285", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1286", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "B", "problem_code": "1287", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "a<0, b<0, c<0", "level": "B", "problem_code": "1288", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1289", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1290", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1291", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1292", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1293", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1294", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1295", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1296", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "8", "level": "B", "problem_code": "1297", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "20", "level": "B", "problem_code": "1298", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1299", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1300", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1301", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1302", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1303", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "-9", "level": "B", "problem_code": "1304", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1305", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "-1", "level": "B", "problem_code": "1306", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "4", "level": "B", "problem_code": "1307", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "B", "problem_code": "1308", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1309", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "B", "problem_code": "1310", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "B", "problem_code": "1311", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "B", "problem_code": "1312", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "{y|2<y<3}", "level": "B", "problem_code": "1313", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "bc-ad-1", "level": "C", "problem_code": "1314", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "45", "level": "C", "problem_code": "1315", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "C", "problem_code": "1316", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "5", "level": "C", "problem_code": "1317", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "1", "level": "C", "problem_code": "1318", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1319", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "\\frac{9}{8}", "level": "C", "problem_code": "1320", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "7", "level": "C", "problem_code": "1321", "question_type": "단답형", "unit_path": "10 무리식과 무리함수"}, {"answer": "2", "level": "C", "problem_code": "1322", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}, {"answer": "3", "level": "C", "problem_code": "1323", "question_type": "객관식", "unit_path": "10 무리식과 무리함수"}]

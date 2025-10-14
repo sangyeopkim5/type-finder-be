@@ -1,0 +1,119 @@
+=== 문제별 답변 차이점 분석 리포트 ===
+생성 시간: {
+  "timestamp": "2025-10-12T19:44:15.920072"
+}
+
+=== 요약 ===
+총 문제 수: 329
+동일한 답변: 318
+다른 답변: 11
+누락된 문제: 0
+
+=== 답변이 다른 문제들 ===
+
+문제 0012:
+  다른 답변들: ['\\overline{PQ}', 'PQ']
+  response_1: PQ
+  response_2: \overline{PQ}
+  response_3: \overline{PQ}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0013:
+  다른 답변들: ['\\overline{PQ}', '\\overleftrightarrow{PQ}']
+  response_1: \overline{PQ}
+  response_2: \overline{PQ}
+  response_3: \overleftrightarrow{PQ}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0014:
+  다른 답변들: ['\\overrightarrow{QP}', '\\overline{QP}']
+  response_1: \overline{QP}
+  response_2: \overline{QP}
+  response_3: \overrightarrow{QP}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0015:
+  다른 답변들: ['\\overline{PQ}', '\\overrightarrow{PQ}', '\\overleftrightarrow{PQ}']
+  response_1: \overleftrightarrow{PQ}
+  response_2: \overrightarrow{PQ}
+  response_3: \overline{PQ}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0017:
+  다른 답변들: ['\\overrightarrow{AB}, \\overrightarrow{AC}, \\overrightarrow{BA}, \\overrightarrow{BC}, \\overrightarrow{CA}, \\overrightarrow{CB}', '\\overline{AB}, \\overline{AC}, \\overline{BA}, \\overline{BC}, \\overline{CA}, \\overline{CB}']
+  response_1: \overrightarrow{AB}, \overrightarrow{AC}, \overrightarrow{BA}, \overrightarrow{BC}, \overrightarrow{CA}, \overrightarrow{CB}
+  response_2: \overline{AB}, \overline{AC}, \overline{BA}, \overline{BC}, \overline{CA}, \overline{CB}
+  response_3: \overrightarrow{AB}, \overrightarrow{AC}, \overrightarrow{BA}, \overrightarrow{BC}, \overrightarrow{CA}, \overrightarrow{CB}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0018:
+  다른 답변들: ['\\overleftrightarrow{AB}, \\overleftrightarrow{AC}, \\overleftrightarrow{BC}', '\\overrightarrow{AB}, \\overrightarrow{AC}, \\overrightarrow{BC}']
+  response_1: \overleftrightarrow{AB}, \overleftrightarrow{AC}, \overleftrightarrow{BC}
+  response_2: \overrightarrow{AB}, \overrightarrow{AC}, \overrightarrow{BC}
+  response_3: \overleftrightarrow{AB}, \overleftrightarrow{AC}, \overleftrightarrow{BC}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0019:
+  다른 답변들: ['\\overleftrightarrow{AB}와 \\overleftrightarrow{BD}, \\overleftrightarrow{AC}와 \\overleftrightarrow{CA}, \\overleftrightarrow{DB}와 \\overleftrightarrow{DC}', '\\overline{AB}와 \\overline{BD}, \\overline{AC}와 \\overline{CA}, \\overline{DB}와 \\overline{DC}', '\\overrightarrow{AB}와 \\overrightarrow{BD}, \\overrightarrow{AC}와 \\overrightarrow{CA}, \\overrightarrow{DB}와 \\overrightarrow{DC}']
+  response_1: \overline{AB}와 \overline{BD}, \overline{AC}와 \overline{CA}, \overline{DB}와 \overline{DC}
+  response_2: \overrightarrow{AB}와 \overrightarrow{BD}, \overrightarrow{AC}와 \overrightarrow{CA}, \overrightarrow{DB}와 \overrightarrow{DC}
+  response_3: \overleftrightarrow{AB}와 \overleftrightarrow{BD}, \overleftrightarrow{AC}와 \overleftrightarrow{CA}, \overleftrightarrow{DB}와 \overleftrightarrow{DC}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0052:
+  다른 답변들: ['\\overleftrightarrow{AB} \\perp \\overleftrightarrow{CD}', '\\overline{AB} \\perp \\overleftrightarrow{CD}']
+  response_1: \overleftrightarrow{AB} \perp \overleftrightarrow{CD}
+  response_2: \overline{AB} \perp \overleftrightarrow{CD}
+  response_3: \overleftrightarrow{AB} \perp \overleftrightarrow{CD}
+  문제 유형: 단답형
+  단원: 기본 도형
+  난이도: A
+
+문제 0229:
+  다른 답변들: ['l \\perp P', 'l \\parallel P']
+  response_1: l \perp P
+  response_2: l \parallel P
+  response_3: l \parallel P
+  문제 유형: 단답형
+  단원: 위치 관계
+  난이도: B
+
+문제 0247:
+  다른 답변들: ['\\overleftrightarrow{GH}', '\\overline{GH}']
+  response_1: \overleftrightarrow{GH}
+  response_2: \overline{GH}
+  response_3: \overleftrightarrow{GH}
+  문제 유형: 단답형
+  단원: 위치 관계
+  난이도: C
+
+문제 0285:
+  다른 답변들: ['90^\\circ', '40^\\circ']
+  response_1: 90^\circ
+  response_2: 90^\circ
+  response_3: 40^\circ
+  문제 유형: 단답형
+  단원: 평행선
+  난이도: B
+
+=== 동일한 답변을 가진 문제들 (샘플) ===
+동일한 문제 수: 318
+샘플 문제 코드: ['0001', '0002', '0003', '0004', '0005', '0006', '0007', '0008', '0009', '0010']
+
+=== 통계 ===
+일치율: 96.7%
+불일치율: 3.3%

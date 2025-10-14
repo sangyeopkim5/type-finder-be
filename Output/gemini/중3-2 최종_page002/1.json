@@ -1,0 +1,2340 @@
+[
+  {
+    "problem_code": "0261",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0262",
+    "question_type": "단답형",
+    "answer": "22",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0263",
+    "question_type": "단답형",
+    "answer": "18 cm",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0264",
+    "question_type": "단답형",
+    "answer": "14 cm",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0265",
+    "question_type": "단답형",
+    "answer": "(1) \\sqrt{65} cm (2) 2\\sqrt{65} cm",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0266",
+    "question_type": "단답형",
+    "answer": "16",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0267",
+    "question_type": "단답형",
+    "answer": "10\\sqrt{2}",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0268",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{14}",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0269",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0270",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0271",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0272",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0273",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0274",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0275",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{5}",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0276",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0277",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{2}",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0278",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ), (ㄷ), (ㅁ)",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0279",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0280",
+    "question_type": "단답형",
+    "answer": "5\\sqrt{3}",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0281",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0282",
+    "question_type": "단답형",
+    "answer": "70^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0283",
+    "question_type": "단답형",
+    "answer": "16",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0284",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0285",
+    "question_type": "단답형",
+    "answer": "(가) 8-x (나) \\overline{CF} (다) 3",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0286",
+    "question_type": "단답형",
+    "answer": "(1) 13 (2) \\overline{AF}=5-r, \\overline{CF}=12-r (3) 2",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0287",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0288",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "A"
+  },
+  {
+    "problem_code": "0289",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0290",
+    "question_type": "단답형",
+    "answer": "10 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0291",
+    "question_type": "단답형",
+    "answer": "48 cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0292",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0293",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{21} cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0294",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0295",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0296",
+    "question_type": "단답형",
+    "answer": "\\frac{15}{2} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0297",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0298",
+    "question_type": "단답형",
+    "answer": "12\\sqrt{2} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0299",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0300",
+    "question_type": "단답형",
+    "answer": "65\\pi",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0301",
+    "question_type": "단답형",
+    "answer": "10 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0302",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0303",
+    "question_type": "단답형",
+    "answer": "25\\pi cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0304",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0305",
+    "question_type": "단답형",
+    "answer": "8\\sqrt{3} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0306",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0307",
+    "question_type": "단답형",
+    "answer": "25\\sqrt{3} cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0308",
+    "question_type": "단답형",
+    "answer": "\\frac{32}{3}\\pi cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0309",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0310",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0311",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0312",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{5} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0313",
+    "question_type": "단답형",
+    "answer": "9\\sqrt{3}+4\\pi",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0314",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0315",
+    "question_type": "단답형",
+    "answer": "80^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0316",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0317",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0318",
+    "question_type": "단답형",
+    "answer": "12\\pi cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0319",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{2}+2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0320",
+    "question_type": "단답형",
+    "answer": "9 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0321",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0322",
+    "question_type": "단답형",
+    "answer": "25\\pi cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0323",
+    "question_type": "단답형",
+    "answer": "15 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0324",
+    "question_type": "단답형",
+    "answer": "8 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0325",
+    "question_type": "단답형",
+    "answer": "6\\sqrt{3} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0326",
+    "question_type": "단답형",
+    "answer": "12 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0327",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0328",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0329",
+    "question_type": "단답형",
+    "answer": "26^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0330",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0331",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0332",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{2} cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0333",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0334",
+    "question_type": "단답형",
+    "answer": "40^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0335",
+    "question_type": "단답형",
+    "answer": "12\\sqrt{3} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0336",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0337",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0338",
+    "question_type": "단답형",
+    "answer": "4\\sqrt{5} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0339",
+    "question_type": "단답형",
+    "answer": "(72+16\\sqrt{3}\\pi) cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0340",
+    "question_type": "단답형",
+    "answer": "5 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0341",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0342",
+    "question_type": "단답형",
+    "answer": "12 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0343",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0344",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0345",
+    "question_type": "단답형",
+    "answer": "8\\sqrt{3} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0346",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0347",
+    "question_type": "단답형",
+    "answer": "12 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0348",
+    "question_type": "단답형",
+    "answer": "90^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0349",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0350",
+    "question_type": "단답형",
+    "answer": "32\\sqrt{15} cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0351",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0352",
+    "question_type": "단답형",
+    "answer": "11\\sqrt{6} cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0353",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0354",
+    "question_type": "단답형",
+    "answer": "16",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0355",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0356",
+    "question_type": "단답형",
+    "answer": "7 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0357",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0358",
+    "question_type": "단답형",
+    "answer": "3\\sqrt{5} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0359",
+    "question_type": "단답형",
+    "answer": "4\\pi cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0360",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0361",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0362",
+    "question_type": "단답형",
+    "answer": "16 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0363",
+    "question_type": "단답형",
+    "answer": "28 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0364",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0365",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{10} cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0366",
+    "question_type": "단답형",
+    "answer": "(68-16\\pi) cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0367",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0368",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0369",
+    "question_type": "단답형",
+    "answer": "36 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0370",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0371",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0372",
+    "question_type": "단답형",
+    "answer": "2 cm",
+    "unit_path": "03 원과 직선",
+    "level": "B"
+  },
+  {
+    "problem_code": "0373",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0374",
+    "question_type": "단답형",
+    "answer": "(6+3\\sqrt{3}) cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0375",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0376",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0377",
+    "question_type": "단답형",
+    "answer": "9\\sqrt{3} cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0378",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0379",
+    "question_type": "단답형",
+    "answer": "\\frac{16\\sqrt{5}}{3} cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0380",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0381",
+    "question_type": "단답형",
+    "answer": "\\frac{3}{2} cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0382",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0383",
+    "question_type": "단답형",
+    "answer": "\\frac{8\\sqrt{5}}{5} cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0384",
+    "question_type": "단답형",
+    "answer": "7 cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0385",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0386",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0387",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0388",
+    "question_type": "단답형",
+    "answer": "12\\pi-9\\sqrt{3}",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0389",
+    "question_type": "단답형",
+    "answer": "\\frac{15}{2} cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0390",
+    "question_type": "단답형",
+    "answer": "50^\\circ",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0391",
+    "question_type": "단답형",
+    "answer": "(16\\sqrt{3}-\\frac{16}{3}\\pi) cm^2",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0392",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0393",
+    "question_type": "단답형",
+    "answer": "\\sqrt{6}+\\sqrt{3}-1",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0394",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0395",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0396",
+    "question_type": "단답형",
+    "answer": "(16-8\\sqrt{3}) cm",
+    "unit_path": "03 원과 직선",
+    "level": "C"
+  },
+  {
+    "problem_code": "0397",
+    "question_type": "단답형",
+    "answer": "(가) \\angle PAO (나) \\angle BPO (다) \\angle AOB",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0398",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0399",
+    "question_type": "단답형",
+    "answer": "120^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0400",
+    "question_type": "단답형",
+    "answer": "108^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0401",
+    "question_type": "단답형",
+    "answer": "230^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0402",
+    "question_type": "단답형",
+    "answer": "47^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0403",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0404",
+    "question_type": "단답형",
+    "answer": "33^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0405",
+    "question_type": "단답형",
+    "answer": "56^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0406",
+    "question_type": "단답형",
+    "answer": "\\angle x=55^\\circ, \\angle y=42^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0407",
+    "question_type": "단답형",
+    "answer": "\\angle x=27^\\circ, \\angle y=54^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0408",
+    "question_type": "단답형",
+    "answer": "51^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0409",
+    "question_type": "단답형",
+    "answer": "46^\\circ",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0410",
+    "question_type": "단답형",
+    "answer": "35",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0411",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0412",
+    "question_type": "단답형",
+    "answer": "60",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0413",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "04 원주각",
+    "level": "A"
+  },
+  {
+    "problem_code": "0414",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0415",
+    "question_type": "단답형",
+    "answer": "48^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0416",
+    "question_type": "단답형",
+    "answer": "112^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0417",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0418",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0419",
+    "question_type": "단답형",
+    "answer": "28^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0420",
+    "question_type": "단답형",
+    "answer": "24^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0421",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0422",
+    "question_type": "단답형",
+    "answer": "64^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0423",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0424",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0425",
+    "question_type": "단답형",
+    "answer": "120^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0426",
+    "question_type": "단답형",
+    "answer": "(2+2\\sqrt{3}) cm",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0427",
+    "question_type": "단답형",
+    "answer": "72^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0428",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0429",
+    "question_type": "단답형",
+    "answer": "117^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0430",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0431",
+    "question_type": "단답형",
+    "answer": "70^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0432",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0433",
+    "question_type": "단답형",
+    "answer": "55^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0434",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0435",
+    "question_type": "단답형",
+    "answer": "180^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0436",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0437",
+    "question_type": "단답형",
+    "answer": "92^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0438",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0439",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0440",
+    "question_type": "단답형",
+    "answer": "75^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0441",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0442",
+    "question_type": "단답형",
+    "answer": "\\sqrt{61}",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0443",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0444",
+    "question_type": "단답형",
+    "answer": "3\\sqrt{2} cm",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0445",
+    "question_type": "단답형",
+    "answer": "\\frac{4\\sqrt{3}}{3}",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0446",
+    "question_type": "단답형",
+    "answer": "\\frac{43}{20}",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0447",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0448",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{3}}{7}",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0449",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0450",
+    "question_type": "단답형",
+    "answer": "12+4\\sqrt{3}",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0451",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0452",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0453",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0454",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0455",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0456",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0457",
+    "question_type": "단답형",
+    "answer": "36^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0458",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0459",
+    "question_type": "단답형",
+    "answer": "55^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0460",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0461",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0462",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0463",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0464",
+    "question_type": "단답형",
+    "answer": "40^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0465",
+    "question_type": "단답형",
+    "answer": "7\\pi",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0466",
+    "question_type": "단답형",
+    "answer": "24 cm",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0467",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0468",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0469",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0470",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0471",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0472",
+    "question_type": "단답형",
+    "answer": "100^\\circ",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0473",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "04 원주각",
+    "level": "B"
+  },
+  {
+    "problem_code": "0474",
+    "question_type": "단답형",
+    "answer": "2\\pi",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0475",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0476",
+    "question_type": "단답형",
+    "answer": "59^\\circ",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0477",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0478",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0479",
+    "question_type": "단답형",
+    "answer": "(\\frac{25\\sqrt{3}}{3}+\\frac{250}{3}\\pi) m^2",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0480",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0481",
+    "question_type": "단답형",
+    "answer": "80^\\circ",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0482",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0483",
+    "question_type": "단답형",
+    "answer": "100^\\circ",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0484",
+    "question_type": "단답형",
+    "answer": "9",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0485",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0486",
+    "question_type": "단답형",
+    "answer": "14\\sqrt{3}",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0487",
+    "question_type": "단답형",
+    "answer": "\\frac{\\pi}{2}-1",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0488",
+    "question_type": "단답형",
+    "answer": "\\frac{\\sqrt{3}}{2}",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0489",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{3} cm",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0490",
+    "question_type": "단답형",
+    "answer": "18\\sqrt{3} cm^2",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0491",
+    "question_type": "단답형",
+    "answer": "5\\pi cm",
+    "unit_path": "04 원주각",
+    "level": "C"
+  },
+  {
+    "problem_code": "0492",
+    "question_type": "단답형",
+    "answer": "38^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0493",
+    "question_type": "단답형",
+    "answer": "20^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0494",
+    "question_type": "단답형",
+    "answer": "77^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0495",
+    "question_type": "단답형",
+    "answer": "25^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0496",
+    "question_type": "단답형",
+    "answer": "(가) 180 (나) 180 (다) \\angle DCE",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0497",
+    "question_type": "단답형",
+    "answer": "\\angle x=97^\\circ, \\angle y=73^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0498",
+    "question_type": "단답형",
+    "answer": "\\angle x=80^\\circ, \\angle y=100^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0499",
+    "question_type": "단답형",
+    "answer": "93^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0500",
+    "question_type": "단답형",
+    "answer": "67^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0501",
+    "question_type": "단답형",
+    "answer": "65^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0502",
+    "question_type": "단답형",
+    "answer": "70^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0503",
+    "question_type": "단답형",
+    "answer": "55^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0504",
+    "question_type": "단답형",
+    "answer": "68^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0505",
+    "question_type": "단답형",
+    "answer": "72^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0506",
+    "question_type": "단답형",
+    "answer": "105^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0507",
+    "question_type": "단답형",
+    "answer": "48^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0508",
+    "question_type": "단답형",
+    "answer": "68^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "A"
+  },
+  {
+    "problem_code": "0509",
+    "question_type": "객관식",
+    "answer": "2, 5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0510",
+    "question_type": "단답형",
+    "answer": "35^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0511",
+    "question_type": "단답형",
+    "answer": "45^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0512",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0513",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0514",
+    "question_type": "단답형",
+    "answer": "14 cm",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0515",
+    "question_type": "단답형",
+    "answer": "50^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0516",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0517",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0518",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0519",
+    "question_type": "단답형",
+    "answer": "142^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0520",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0521",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0522",
+    "question_type": "단답형",
+    "answer": "115^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0523",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0524",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0525",
+    "question_type": "단답형",
+    "answer": "70^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0526",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0527",
+    "question_type": "단답형",
+    "answer": "96^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0528",
+    "question_type": "단답형",
+    "answer": "10^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0529",
+    "question_type": "단답형",
+    "answer": "16\\pi cm^2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0530",
+    "question_type": "단답형",
+    "answer": "95^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0531",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0532",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0533",
+    "question_type": "단답형",
+    "answer": "216^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0534",
+    "question_type": "단답형",
+    "answer": "360^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0535",
+    "question_type": "단답형",
+    "answer": "59^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0536",
+    "question_type": "단답형",
+    "answer": "20^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0537",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0538",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0539",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0540",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0541",
+    "question_type": "단답형",
+    "answer": "186^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0542",
+    "question_type": "단답형",
+    "answer": "16^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0543",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0544",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0545",
+    "question_type": "단답형",
+    "answer": "100^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0546",
+    "question_type": "단답형",
+    "answer": "(가) \\angle APB (나) \\angle CRD (다) 360 (라) 180",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0547",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0548",
+    "question_type": "단답형",
+    "answer": "55^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0549",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0550",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0551",
+    "question_type": "단답형",
+    "answer": "84^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0552",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0553",
+    "question_type": "단답형",
+    "answer": "20^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0554",
+    "question_type": "단답형",
+    "answer": "119^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0555",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0556",
+    "question_type": "단답형",
+    "answer": "88^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0557",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0558",
+    "question_type": "단답형",
+    "answer": "44^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0559",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0560",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0561",
+    "question_type": "단답형",
+    "answer": "44^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0562",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0563",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0564",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0565",
+    "question_type": "단답형",
+    "answer": "8 cm",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0566",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0567",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0568",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{6} cm",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0569",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0570",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0571",
+    "question_type": "단답형",
+    "answer": "63^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0572",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0573",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0574",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0575",
+    "question_type": "단답형",
+    "answer": "65^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0576",
+    "question_type": "단답형",
+    "answer": "70^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "B"
+  },
+  {
+    "problem_code": "0577",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0578",
+    "question_type": "단답형",
+    "answer": "55^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0579",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0580",
+    "question_type": "단답형",
+    "answer": "95^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0581",
+    "question_type": "단답형",
+    "answer": "82^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0582",
+    "question_type": "단답형",
+    "answer": "65^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0583",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0584",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0585",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0586",
+    "question_type": "단답형",
+    "answer": "3\\sqrt{5}\\pi",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0587",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0588",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0589",
+    "question_type": "단답형",
+    "answer": "94^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0590",
+    "question_type": "단답형",
+    "answer": "66^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0591",
+    "question_type": "단답형",
+    "answer": "76^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0592",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0593",
+    "question_type": "단답형",
+    "answer": "105^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  },
+  {
+    "problem_code": "0594",
+    "question_type": "단답형",
+    "answer": "84^\\circ",
+    "unit_path": "05 원주각의 활용",
+    "level": "C"
+  }
+]

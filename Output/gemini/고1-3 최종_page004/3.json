@@ -1,0 +1,1234 @@
+[
+  {
+    "problem_code": "0938",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0939",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0940",
+    "question_type": "단답형",
+    "answer": "y=f(x)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0941",
+    "question_type": "단답형",
+    "answer": "b",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0942",
+    "question_type": "단답형",
+    "answer": "c",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0943",
+    "question_type": "단답형",
+    "answer": "(-2, -2)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0944",
+    "question_type": "단답형",
+    "answer": "(1, 1)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0945",
+    "question_type": "단답형",
+    "answer": "(3, 3)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0946",
+    "question_type": "단답형",
+    "answer": "(1) f(x)=x+1 (2) f(x)=-x-3 (3) y=f(x), 치역: {y|y>=-1}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0947",
+    "question_type": "단답형",
+    "answer": "|x|+|y|=1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0948",
+    "question_type": "단답형",
+    "answer": "|x|-|y|=2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0949",
+    "question_type": "단답형",
+    "answer": "y=|x|+|x-3|",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0950",
+    "question_type": "단답형",
+    "answer": "y=|x+2|+|x-1|",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0951",
+    "question_type": "단답형",
+    "answer": "y=|f(x)|",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0952",
+    "question_type": "단답형",
+    "answer": "y=f(|x|)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0953",
+    "question_type": "단답형",
+    "answer": "|y|=f(x)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0954",
+    "question_type": "단답형",
+    "answer": "|y|=f(|x|)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0955",
+    "question_type": "단답형",
+    "answer": "y=|x+1|",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0956",
+    "question_type": "단답형",
+    "answer": "y=2|x|-3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0957",
+    "question_type": "단답형",
+    "answer": "|y|=-x^2+4x+3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0958",
+    "question_type": "단답형",
+    "answer": "|y|=|x^2-6|x|+5|",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "0959",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0960",
+    "question_type": "객관식",
+    "answer": "ㄱ, ㄹ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0961",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0962",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0963",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0964",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0965",
+    "question_type": "단답형",
+    "answer": "\\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0966",
+    "question_type": "단답형",
+    "answer": "384",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0967",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0968",
+    "question_type": "단답형",
+    "answer": "17",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0969",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0970",
+    "question_type": "단답형",
+    "answer": "-2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0971",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0972",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0973",
+    "question_type": "단답형",
+    "answer": "1 \\le a \\le \\frac{5}{2}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0974",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0975",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0976",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0977",
+    "question_type": "단답형",
+    "answer": "{2, 3}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0978",
+    "question_type": "단답형",
+    "answer": "{1}, {3}, {1, 3}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0979",
+    "question_type": "객관식",
+    "answer": "ㄴ, ㅁ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0980",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0981",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0982",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0983",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0984",
+    "question_type": "단답형",
+    "answer": "\\frac{29}{4}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0985",
+    "question_type": "단답형",
+    "answer": "-2<a<2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0986",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0987",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0988",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0989",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0990",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0991",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0992",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0993",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0994",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0995",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0996",
+    "question_type": "단답형",
+    "answer": "9",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0997",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0998",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "0999",
+    "question_type": "단답형",
+    "answer": "-8",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1000",
+    "question_type": "단답형",
+    "answer": "-2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1001",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1002",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1003",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1004",
+    "question_type": "단답형",
+    "answer": "(-3, -3)",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1005",
+    "question_type": "단답형",
+    "answer": "-12",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1006",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1007",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1008",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1009",
+    "question_type": "단답형",
+    "answer": "\\sqrt{10}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1010",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1011",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1012",
+    "question_type": "단답형",
+    "answer": "(1) h(x)=-\\frac{1}{3}x+1 (2) k(x)=\\frac{1}{3}x+\\frac{1}{3}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1013",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1014",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1015",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1016",
+    "question_type": "단답형",
+    "answer": "f_n(x)={-x+2 (n은 홀수), x (n은 짝수)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1017",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1018",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1019",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1020",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1021",
+    "question_type": "단답형",
+    "answer": "16",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1022",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1023",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1024",
+    "question_type": "단답형",
+    "answer": "\\frac{11}{4}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1025",
+    "question_type": "단답형",
+    "answer": "13",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1026",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1027",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1028",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1029",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1030",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1031",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1032",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1033",
+    "question_type": "단답형",
+    "answer": "k<-1 또는 k>1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1034",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1035",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1036",
+    "question_type": "단답형",
+    "answer": "h^{-1}(x)=-\\frac{1}{2}x-\\frac{11}{2}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1037",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1038",
+    "question_type": "단답형",
+    "answer": "\\frac{5}{2}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1039",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1040",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1041",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1042",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1043",
+    "question_type": "단답형",
+    "answer": "(1) \\frac{28}{3} (2) -25",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1044",
+    "question_type": "단답형",
+    "answer": "-6",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1045",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1046",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1047",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1048",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1049",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1050",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1051",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1052",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1053",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1054",
+    "question_type": "단답형",
+    "answer": "2\\sqrt{2}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1055",
+    "question_type": "단답형",
+    "answer": "2 \\le a < \\frac{9}{4}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1056",
+    "question_type": "단답형",
+    "answer": "243",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1057",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1058",
+    "question_type": "객관식",
+    "answer": "ㄴ, ㄱ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1059",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1060",
+    "question_type": "단답형",
+    "answer": "-25",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1061",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1062",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1063",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1064",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1065",
+    "question_type": "단답형",
+    "answer": "88",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1066",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1067",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1068",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1069",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1070",
+    "question_type": "단답형",
+    "answer": "40",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1071",
+    "question_type": "단답형",
+    "answer": "-\\frac{7}{4} < a < \\frac{9}{4}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1072",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{2}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1073",
+    "question_type": "객관식",
+    "answer": "ㄴ, ㄷ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1074",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1075",
+    "question_type": "단답형",
+    "answer": "16",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1076",
+    "question_type": "단답형",
+    "answer": "\\frac{361}{16}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1077",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1078",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1079",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{2} < m < \\frac{7}{5}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1080",
+    "question_type": "객관식",
+    "answer": "ㄴ, ㄷ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1081",
+    "question_type": "객관식",
+    "answer": "ㄱ, ㄹ, ㅁ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1082",
+    "question_type": "단답형",
+    "answer": "\\frac{3b^2x}{6a^3bx^2y}, \\frac{2ay}{6a^3bx^2y}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1083",
+    "question_type": "단답형",
+    "answer": "\\frac{(x+1)(x+2)}{(x-1)(x-2)(x+2)}, \\frac{(x-1)^2}{(x-1)(x-2)(x+2)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1084",
+    "question_type": "단답형",
+    "answer": "\\frac{3z}{4y}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1085",
+    "question_type": "단답형",
+    "answer": "x+2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1086",
+    "question_type": "단답형",
+    "answer": "-\\frac{2x-1}{(x+2)(x+5)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1087",
+    "question_type": "단답형",
+    "answer": "\\frac{x+6}{x+3}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1088",
+    "question_type": "단답형",
+    "answer": "\\frac{2x+1}{(x+2)(x-2)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1089",
+    "question_type": "단답형",
+    "answer": "\\frac{(x+2)(x-1)}{(x+3)(2x-1)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1090",
+    "question_type": "단답형",
+    "answer": "\\frac{4x-7}{(x-3)(x-2)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1091",
+    "question_type": "단답형",
+    "answer": "\\frac{3x-5}{(x+1)(x-1)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1092",
+    "question_type": "단답형",
+    "answer": "\\frac{2}{(x+1)(x+3)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1093",
+    "question_type": "단답형",
+    "answer": "\\frac{3}{x(x+3)}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1094",
+    "question_type": "단답형",
+    "answer": "\\frac{x}{x-1}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1095",
+    "question_type": "단답형",
+    "answer": "x-1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1096",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{5}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1097",
+    "question_type": "단답형",
+    "answer": "\\frac{13}{25}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1098",
+    "question_type": "객관식",
+    "answer": "ㄱ, ㄹ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1099",
+    "question_type": "객관식",
+    "answer": "ㄴ, ㄷ, ㅁ",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1100",
+    "question_type": "단답형",
+    "answer": "{x|x\\ne-\\frac{3}{2}인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1101",
+    "question_type": "단답형",
+    "answer": "{x|x\\ne5인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1102",
+    "question_type": "단답형",
+    "answer": "{x|x\\ne\\pm2인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1103",
+    "question_type": "단답형",
+    "answer": "실수 전체의 집합",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1104",
+    "question_type": "단답형",
+    "answer": "y=\\frac{2}{x}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1105",
+    "question_type": "단답형",
+    "answer": "y=-\\frac{1}{2x}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1106",
+    "question_type": "단답형",
+    "answer": "y=\\frac{1}{2x}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1107",
+    "question_type": "단답형",
+    "answer": "y=-\\frac{4}{x}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1108",
+    "question_type": "단답형",
+    "answer": "y=\\frac{1}{x-1}+2",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1109",
+    "question_type": "단답형",
+    "answer": "y=-\\frac{2}{x+2}-1",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1110",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ne0인 실수}, 치역: {y|y\\ne-2인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1111",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ne-1인 실수}, 치역: {y|y\\ne0인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1112",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ne-2인 실수}, 치역: {y|y\\ne3인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1113",
+    "question_type": "단답형",
+    "answer": "정의역: {x|x\\ne2인 실수}, 치역: {y|y\\ne-1인 실수}",
+    "unit_path": "09 유리식과 유리함수",
+    "level": "A"
+  }
+]

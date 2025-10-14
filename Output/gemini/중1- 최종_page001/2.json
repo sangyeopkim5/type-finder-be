@@ -1,0 +1,2305 @@
+[
+  {
+    "problem_code": "0001",
+    "question_type": "객관식",
+    "answer": "×",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0002",
+    "question_type": "객관식",
+    "answer": "○",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0003",
+    "question_type": "객관식",
+    "answer": "×",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0004",
+    "question_type": "객관식",
+    "answer": "○",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0005",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0006",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0007",
+    "question_type": "객관식",
+    "answer": "6",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0008",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0009",
+    "question_type": "단답형",
+    "answer": "꼭짓점 F",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0010",
+    "question_type": "단답형",
+    "answer": "꼭짓점 D",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0011",
+    "question_type": "단답형",
+    "answer": "모서리 CG",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0012",
+    "question_type": "단답형",
+    "answer": "\\overline{PQ}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0013",
+    "question_type": "단답형",
+    "answer": "\\overline{PQ}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0014",
+    "question_type": "단답형",
+    "answer": "\\overline{QP}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0015",
+    "question_type": "단답형",
+    "answer": "\\overrightarrow{PQ}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0016",
+    "question_type": "단답형",
+    "answer": "\\overline{AB}, \\overline{AC}, \\overline{BC}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0017",
+    "question_type": "단답형",
+    "answer": "\\overline{AB}, \\overline{AC}, \\overline{BA}, \\overline{BC}, \\overline{CA}, \\overline{CB}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0018",
+    "question_type": "단답형",
+    "answer": "\\overrightarrow{AB}, \\overrightarrow{AC}, \\overrightarrow{BC}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0019",
+    "question_type": "단답형",
+    "answer": "\\overrightarrow{AB}와 \\overrightarrow{BD}, \\overrightarrow{AC}와 \\overrightarrow{CA}, \\overrightarrow{DB}와 \\overrightarrow{DC}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0020",
+    "question_type": "단답형",
+    "answer": "8 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0021",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0022",
+    "question_type": "단답형",
+    "answer": "6, 6",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0023",
+    "question_type": "단답형",
+    "answer": "2, 4",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0024",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0025",
+    "question_type": "단답형",
+    "answer": "9 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0026",
+    "question_type": "단답형",
+    "answer": "\\frac{1}{2}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0027",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0028",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0029",
+    "question_type": "단답형",
+    "answer": "\\angle ABC 또는 \\angle CBA",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0030",
+    "question_type": "단답형",
+    "answer": "\\angle BCD 또는 \\angle DCB",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0031",
+    "question_type": "객관식",
+    "answer": "(ㄴ), (ㅁ)",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0032",
+    "question_type": "객관식",
+    "answer": "(ㄹ)",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0033",
+    "question_type": "객관식",
+    "answer": "(ㄷ), (ㅂ)",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0034",
+    "question_type": "객관식",
+    "answer": "(ㄱ)",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0035",
+    "question_type": "단답형",
+    "answer": "60",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0036",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0037",
+    "question_type": "단답형",
+    "answer": "55",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0038",
+    "question_type": "단답형",
+    "answer": "42",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0039",
+    "question_type": "단답형",
+    "answer": "\\angle BOD",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0040",
+    "question_type": "단답형",
+    "answer": "\\angle AOF",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0041",
+    "question_type": "단답형",
+    "answer": "\\angle BOC",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0042",
+    "question_type": "단답형",
+    "answer": "45",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0043",
+    "question_type": "단답형",
+    "answer": "75",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0044",
+    "question_type": "단답형",
+    "answer": "\\angle x=140^\\circ, \\angle y=40^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0045",
+    "question_type": "단답형",
+    "answer": "\\angle x=70^\\circ, \\angle y=70^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0046",
+    "question_type": "단답형",
+    "answer": "\\angle x=50^\\circ, \\angle y=100^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0047",
+    "question_type": "단답형",
+    "answer": "\\angle x=36^\\circ, \\angle y=54^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0048",
+    "question_type": "단답형",
+    "answer": "20",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0049",
+    "question_type": "단답형",
+    "answer": "60",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0050",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0051",
+    "question_type": "단답형",
+    "answer": "90^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0052",
+    "question_type": "단답형",
+    "answer": "\\overline{AB} \\perp \\overleftrightarrow{CD}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0053",
+    "question_type": "단답형",
+    "answer": "점 O",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0054",
+    "question_type": "단답형",
+    "answer": "\\overline{CO}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0055",
+    "question_type": "단답형",
+    "answer": "\\overline{BC}",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0056",
+    "question_type": "단답형",
+    "answer": "점 H",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0057",
+    "question_type": "단답형",
+    "answer": "8 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0058",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0059",
+    "question_type": "단답형",
+    "answer": "4.8 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "A"
+  },
+  {
+    "problem_code": "0060",
+    "question_type": "단답형",
+    "answer": "13",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0061",
+    "question_type": "객관식",
+    "answer": "1, 2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0062",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0063",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0064",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0065",
+    "question_type": "단답형",
+    "answer": "2쌍",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0066",
+    "question_type": "단답형",
+    "answer": "3개",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0067",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0068",
+    "question_type": "객관식",
+    "answer": "3, 5",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0069",
+    "question_type": "단답형",
+    "answer": "9",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0070",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0071",
+    "question_type": "단답형",
+    "answer": "40",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0072",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0073",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0074",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0075",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0076",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0077",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0078",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ), (ㄷ)",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0079",
+    "question_type": "단답형",
+    "answer": "점 G",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0080",
+    "question_type": "단답형",
+    "answer": "15 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0081",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0082",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0083",
+    "question_type": "단답형",
+    "answer": "\\frac{20}{3} cm",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0084",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0085",
+    "question_type": "단답형",
+    "answer": "9 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0086",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0087",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0088",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0089",
+    "question_type": "단답형",
+    "answer": "(1) 13 cm (2) 3 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0090",
+    "question_type": "단답형",
+    "answer": "\\frac{2}{3}배",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0091",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0092",
+    "question_type": "단답형",
+    "answer": "\\angle x=40^\\circ, \\angle y=50^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0093",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0094",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0095",
+    "question_type": "단답형",
+    "answer": "87^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0096",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0097",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0098",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0099",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0100",
+    "question_type": "단답형",
+    "answer": "64^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0101",
+    "question_type": "단답형",
+    "answer": "36^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0102",
+    "question_type": "단답형",
+    "answer": "50^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0103",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0104",
+    "question_type": "단답형",
+    "answer": "91^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0105",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0106",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0107",
+    "question_type": "단답형",
+    "answer": "140^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0108",
+    "question_type": "단답형",
+    "answer": "2시 \\frac{480}{11}분",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0109",
+    "question_type": "단답형",
+    "answer": "29",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0110",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0111",
+    "question_type": "단답형",
+    "answer": "60",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0112",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0113",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0114",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0115",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0116",
+    "question_type": "단답형",
+    "answer": "125",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0117",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0118",
+    "question_type": "단답형",
+    "answer": "6쌍",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0119",
+    "question_type": "단답형",
+    "answer": "12쌍",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0120",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0121",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0122",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0123",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "B"
+  },
+  {
+    "problem_code": "0124",
+    "question_type": "객관식",
+    "answer": "1, 3",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0125",
+    "question_type": "단답형",
+    "answer": "-2",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0126",
+    "question_type": "단답형",
+    "answer": "37",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0127",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0128",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0129",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0130",
+    "question_type": "단답형",
+    "answer": "18 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0131",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0132",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0133",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0134",
+    "question_type": "단답형",
+    "answer": "120^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0135",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0136",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0137",
+    "question_type": "단답형",
+    "answer": "9 cm",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0138",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0139",
+    "question_type": "단답형",
+    "answer": "54^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0140",
+    "question_type": "단답형",
+    "answer": "33",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0141",
+    "question_type": "단답형",
+    "answer": "120^\\circ",
+    "unit_path": "01 Basic Figures",
+    "level": "C"
+  },
+  {
+    "problem_code": "0142",
+    "question_type": "단답형",
+    "answer": "점 B, 점 E",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0143",
+    "question_type": "단답형",
+    "answer": "점 A, 점 C, 점 D",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0144",
+    "question_type": "단답형",
+    "answer": "점 C, 점 D, 점 E",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0145",
+    "question_type": "단답형",
+    "answer": "점 A, 점 B",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0146",
+    "question_type": "단답형",
+    "answer": "\\overline{AB}, \\overline{AD}, \\overline{AE}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0147",
+    "question_type": "단답형",
+    "answer": "점 C, 점 G",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0148",
+    "question_type": "단답형",
+    "answer": "점 E, 점 F, 점 G, 점 H",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0149",
+    "question_type": "단답형",
+    "answer": "\\overline{DC}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0150",
+    "question_type": "단답형",
+    "answer": "\\overline{AD}, \\overline{BC}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0151",
+    "question_type": "단답형",
+    "answer": "\\overline{BC}, \\overline{CD}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0152",
+    "question_type": "객관식",
+    "answer": "(ㄷ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0153",
+    "question_type": "객관식",
+    "answer": "(ㄴ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0154",
+    "question_type": "객관식",
+    "answer": "(ㄱ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0155",
+    "question_type": "단답형",
+    "answer": "평행하다.",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0156",
+    "question_type": "단답형",
+    "answer": "한 점에서 만난다.",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0157",
+    "question_type": "단답형",
+    "answer": "꼬인 위치에 있다.",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0158",
+    "question_type": "단답형",
+    "answer": "\\overline{AB}, \\overline{BF}, \\overline{CD}, \\overline{CG}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0159",
+    "question_type": "단답형",
+    "answer": "\\overline{AD}, \\overline{EH}, \\overline{FG}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0160",
+    "question_type": "단답형",
+    "answer": "\\overline{AE}, \\overline{DH}, \\overline{EF}, \\overline{HG}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0161",
+    "question_type": "단답형",
+    "answer": "\\overline{AB}, \\overline{BC}, \\overline{CA}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0162",
+    "question_type": "단답형",
+    "answer": "면 ADEB, 면 DEF",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0163",
+    "question_type": "단답형",
+    "answer": "\\overline{CD}, \\overline{CG}, \\overline{DH}, \\overline{GH}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0164",
+    "question_type": "단답형",
+    "answer": "면 AEHD, 면 EFGH",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0165",
+    "question_type": "단답형",
+    "answer": "\\overline{AB}, \\overline{DC}, \\overline{EF}, \\overline{HG}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0166",
+    "question_type": "단답형",
+    "answer": "면 ABCD, 면 EFGH",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0167",
+    "question_type": "단답형",
+    "answer": "\\overline{AE}, \\overline{BF}, \\overline{CG}, \\overline{DH}",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0168",
+    "question_type": "단답형",
+    "answer": "6 cm",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0169",
+    "question_type": "단답형",
+    "answer": "4 cm",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0170",
+    "question_type": "단답형",
+    "answer": "3 cm",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0171",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㅁ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0172",
+    "question_type": "단답형",
+    "answer": "면 ABFE, 면 BFGC",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0173",
+    "question_type": "단답형",
+    "answer": "면 ABFE, 면 BFGC, 면 CGHD, 면 AEHD",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0174",
+    "question_type": "단답형",
+    "answer": "면 EFGH",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0175",
+    "question_type": "단답형",
+    "answer": "면 ABCD, 면 BFGC, 면 EFGH, 면 AEHD",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0176",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0177",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0178",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "A"
+  },
+  {
+    "problem_code": "0179",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0180",
+    "question_type": "단답형",
+    "answer": "점 C, 점 D",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0181",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0182",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0183",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0184",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0185",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0186",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0187",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0188",
+    "question_type": "객관식",
+    "answer": "1, 4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0189",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0190",
+    "question_type": "객관식",
+    "answer": "1, 3",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0191",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0192",
+    "question_type": "단답형",
+    "answer": "\\overline{DH}",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0193",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0194",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0195",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0196",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0197",
+    "question_type": "객관식",
+    "answer": "2, 5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0198",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0199",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0200",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0201",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0202",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0203",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0204",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0205",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0206",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄹ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0207",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0208",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0209",
+    "question_type": "단답형",
+    "answer": "4 cm",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0210",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0211",
+    "question_type": "단답형",
+    "answer": "24",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0212",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0213",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0214",
+    "question_type": "단답형",
+    "answer": "면 AEHD",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0215",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0216",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0217",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0218",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0219",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0220",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0221",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0222",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0223",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0224",
+    "question_type": "단답형",
+    "answer": "\\overline{BD}",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0225",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0226",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0227",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0228",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0229",
+    "question_type": "단답형",
+    "answer": "l \\parallel P",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0230",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0231",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "B"
+  },
+  {
+    "problem_code": "0232",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0233",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0234",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0235",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0236",
+    "question_type": "단답형",
+    "answer": "8개",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0237",
+    "question_type": "객관식",
+    "answer": "(ㄴ), (ㄹ)",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0238",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0239",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0240",
+    "question_type": "단답형",
+    "answer": "꼬인 위치에 있다.",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0241",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0242",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0243",
+    "question_type": "단답형",
+    "answer": "a \\parallel e",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0244",
+    "question_type": "단답형",
+    "answer": "26",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0245",
+    "question_type": "단답형",
+    "answer": "풀이 20쪽",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0246",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0247",
+    "question_type": "단답형",
+    "answer": "\\overline{GH}",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0248",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "02 Positional Relationships",
+    "level": "C"
+  },
+  {
+    "problem_code": "0249",
+    "question_type": "단답형",
+    "answer": "\\angle e",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0250",
+    "question_type": "단답형",
+    "answer": "\\angle g",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0251",
+    "question_type": "단답형",
+    "answer": "\\angle b",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0252",
+    "question_type": "단답형",
+    "answer": "\\angle g",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0253",
+    "question_type": "단답형",
+    "answer": "\\angle b",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0254",
+    "question_type": "단답형",
+    "answer": "40^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0255",
+    "question_type": "단답형",
+    "answer": "140^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0256",
+    "question_type": "단답형",
+    "answer": "120^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0257",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0258",
+    "question_type": "단답형",
+    "answer": "\\angle x=45^\\circ, \\angle y=45^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0259",
+    "question_type": "단답형",
+    "answer": "\\angle x=50^\\circ, \\angle y=130^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0260",
+    "question_type": "단답형",
+    "answer": "\\angle a, \\angle c, \\angle g",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0261",
+    "question_type": "객관식",
+    "answer": "○",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0262",
+    "question_type": "객관식",
+    "answer": "×",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0263",
+    "question_type": "객관식",
+    "answer": "○",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0264",
+    "question_type": "객관식",
+    "answer": "○",
+    "unit_path": "03 Parallel Lines",
+    "level": "A"
+  },
+  {
+    "problem_code": "0265",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0266",
+    "question_type": "단답형",
+    "answer": "200^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0267",
+    "question_type": "단답형",
+    "answer": "245^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0268",
+    "question_type": "객관식",
+    "answer": "1, 3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0269",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0270",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0271",
+    "question_type": "단답형",
+    "answer": "160^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0272",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0273",
+    "question_type": "단답형",
+    "answer": "\\angle x=95^\\circ, \\angle y=25^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0274",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0275",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0276",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0277",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0278",
+    "question_type": "단답형",
+    "answer": "55^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0279",
+    "question_type": "단답형",
+    "answer": "l \\parallel n, q \\parallel r",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0280",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0281",
+    "question_type": "단답형",
+    "answer": "65^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0282",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0283",
+    "question_type": "단답형",
+    "answer": "260^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0284",
+    "question_type": "단답형",
+    "answer": "50^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0285",
+    "question_type": "단답형",
+    "answer": "90^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0286",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0287",
+    "question_type": "단답형",
+    "answer": "20^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0288",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0289",
+    "question_type": "단답형",
+    "answer": "\\angle x=120^\\circ, \\angle y=95^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0290",
+    "question_type": "단답형",
+    "answer": "170^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0291",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0292",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0293",
+    "question_type": "단답형",
+    "answer": "70^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0294",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0295",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0296",
+    "question_type": "단답형",
+    "answer": "14",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0297",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0298",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0299",
+    "question_type": "단답형",
+    "answer": "80",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0300",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0301",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0302",
+    "question_type": "단답형",
+    "answer": "65^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0303",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0304",
+    "question_type": "단답형",
+    "answer": "90^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0305",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0306",
+    "question_type": "단답형",
+    "answer": "27^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0307",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0308",
+    "question_type": "단답형",
+    "answer": "64^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0309",
+    "question_type": "단답형",
+    "answer": "60^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0310",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0311",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0312",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0313",
+    "question_type": "단답형",
+    "answer": "115^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0314",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0315",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0316",
+    "question_type": "단답형",
+    "answer": "30^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0317",
+    "question_type": "단답형",
+    "answer": "50^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0318",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0319",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "03 Parallel Lines",
+    "level": "B"
+  },
+  {
+    "problem_code": "0320",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0321",
+    "question_type": "단답형",
+    "answer": "a \\parallel q, d \\parallel s",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0322",
+    "question_type": "단답형",
+    "answer": "10^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0323",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0324",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0325",
+    "question_type": "단답형",
+    "answer": "300^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0326",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0327",
+    "question_type": "단답형",
+    "answer": "140^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0328",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  },
+  {
+    "problem_code": "0329",
+    "question_type": "단답형",
+    "answer": "720^\\circ",
+    "unit_path": "03 Parallel Lines",
+    "level": "C"
+  }
+]

@@ -1,0 +1,1150 @@
+[
+  {
+    "problem_code": "0595",
+    "question_type": "단답형",
+    "answer": "평균: \\frac{14}{5}, 중앙값: 3, 최빈값: 3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0596",
+    "question_type": "단답형",
+    "answer": "평균: \\frac{17}{3}, 중앙값: 5, 최빈값: 4",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0597",
+    "question_type": "단답형",
+    "answer": "평균: 8, 중앙값: 8, 최빈값: 8, 9",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0598",
+    "question_type": "단답형",
+    "answer": "B형",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0599",
+    "question_type": "단답형",
+    "answer": "중앙값: 27초, 최빈값: 34초",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0600",
+    "question_type": "단답형",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0601",
+    "question_type": "단답형",
+    "answer": "중앙값: 4개, 최빈값: 3개, 5개",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0602",
+    "question_type": "단답형",
+    "answer": "10장",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0603",
+    "question_type": "단답형",
+    "answer": "2장, -2장, 5장, -1장, -4장",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0604",
+    "question_type": "단답형",
+    "answer": "-5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0605",
+    "question_type": "단답형",
+    "answer": "27시간",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0606",
+    "question_type": "단답형",
+    "answer": "41개",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0607",
+    "question_type": "단답형",
+    "answer": "\\frac{576}{7}",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0608",
+    "question_type": "단답형",
+    "answer": "\\frac{24\\sqrt{7}}{7}개",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "A"
+  },
+  {
+    "problem_code": "0609",
+    "question_type": "단답형",
+    "answer": "18분",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0610",
+    "question_type": "단답형",
+    "answer": "2시간",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0611",
+    "question_type": "단답형",
+    "answer": "B 바구니",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0612",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0613",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0614",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0615",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0616",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0617",
+    "question_type": "단답형",
+    "answer": "13.5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0618",
+    "question_type": "단답형",
+    "answer": "71.5 dB",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0619",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0620",
+    "question_type": "단답형",
+    "answer": "53 kg",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0621",
+    "question_type": "단답형",
+    "answer": "8편",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0622",
+    "question_type": "단답형",
+    "answer": "19",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0623",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0624",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0625",
+    "question_type": "단답형",
+    "answer": "b<a<c",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0626",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0627",
+    "question_type": "단답형",
+    "answer": "최빈값, 275 mm",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0628",
+    "question_type": "단답형",
+    "answer": "평균: 4.1권, 중앙값: 1.5권, 중앙값",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0629",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0630",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0631",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0632",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0633",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0634",
+    "question_type": "단답형",
+    "answer": "23, 24, 25",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0635",
+    "question_type": "단답형",
+    "answer": "15세",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0636",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0637",
+    "question_type": "단답형",
+    "answer": "-9",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0638",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0639",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0640",
+    "question_type": "단답형",
+    "answer": "78점",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0641",
+    "question_type": "단답형",
+    "answer": "47회",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0642",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0643",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0644",
+    "question_type": "단답형",
+    "answer": "2개",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0645",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0646",
+    "question_type": "단답형",
+    "answer": "1점",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0647",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0648",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0649",
+    "question_type": "단답형",
+    "answer": "\\sqrt{30}점",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0650",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0651",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0652",
+    "question_type": "단답형",
+    "answer": "102",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0653",
+    "question_type": "단답형",
+    "answer": "평균: 8, 분산: 4.6",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0654",
+    "question_type": "단답형",
+    "answer": "-6",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0655",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0656",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0657",
+    "question_type": "단답형",
+    "answer": "평균: 15, 분산: 9",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0658",
+    "question_type": "단답형",
+    "answer": "\\frac{2\\sqrt{15}}{5}회",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0659",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0660",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0661",
+    "question_type": "단답형",
+    "answer": "평균: 16, 분산: 9",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0662",
+    "question_type": "단답형",
+    "answer": "\\sqrt{6}",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0663",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0664",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0665",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0666",
+    "question_type": "단답형",
+    "answer": "1반",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0667",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0668",
+    "question_type": "단답형",
+    "answer": "선환",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0669",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0670",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0671",
+    "question_type": "단답형",
+    "answer": "D반",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0672",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0673",
+    "question_type": "단답형",
+    "answer": "A반: \\frac{6}{5}, B반: \\frac{8}{5}, A반",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "B"
+  },
+  {
+    "problem_code": "0674",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0675",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0676",
+    "question_type": "단답형",
+    "answer": "35",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0677",
+    "question_type": "단답형",
+    "answer": "2",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0678",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0679",
+    "question_type": "단답형",
+    "answer": "412",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0680",
+    "question_type": "단답형",
+    "answer": "1",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0681",
+    "question_type": "단답형",
+    "answer": "60",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0682",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0683",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0684",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0685",
+    "question_type": "단답형",
+    "answer": "\\frac{2}{3}",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0686",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0687",
+    "question_type": "단답형",
+    "answer": "\\frac{31}{3}명",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0688",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0689",
+    "question_type": "단답형",
+    "answer": "\\frac{11}{3}",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0690",
+    "question_type": "단답형",
+    "answer": "90점, 9",
+    "unit_path": "06 대푯값과 산포도",
+    "level": "C"
+  },
+  {
+    "problem_code": "0691",
+    "question_type": "단답형",
+    "answer": "산점도는 풀이 참조",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0692",
+    "question_type": "단답형",
+    "answer": "영어: 80점, 국어: 100점",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0693",
+    "question_type": "단답형",
+    "answer": "4명",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0694",
+    "question_type": "단답형",
+    "answer": "6명",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0695",
+    "question_type": "단답형",
+    "answer": "6명",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0696",
+    "question_type": "단답형",
+    "answer": "4명",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0697",
+    "question_type": "단답형",
+    "answer": "3명",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0698",
+    "question_type": "객관식",
+    "answer": "(ㄴ), (ㄹ)",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0699",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0700",
+    "question_type": "객관식",
+    "answer": "(ㅂ)",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0701",
+    "question_type": "단답형",
+    "answer": "양",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0702",
+    "question_type": "객관식",
+    "answer": "×",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0703",
+    "question_type": "단답형",
+    "answer": "음",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0704",
+    "question_type": "단답형",
+    "answer": "음",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0705",
+    "question_type": "단답형",
+    "answer": "양",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0706",
+    "question_type": "객관식",
+    "answer": "×",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0707",
+    "question_type": "단답형",
+    "answer": "음",
+    "unit_path": "07 상관관계",
+    "level": "A"
+  },
+  {
+    "problem_code": "0708",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0709",
+    "question_type": "단답형",
+    "answer": "16",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0710",
+    "question_type": "단답형",
+    "answer": "양의 상관관계",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0711",
+    "question_type": "단답형",
+    "answer": "40 %",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0712",
+    "question_type": "단답형",
+    "answer": "7점",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0713",
+    "question_type": "단답형",
+    "answer": "28 %",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0714",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0715",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0716",
+    "question_type": "객관식",
+    "answer": "3, 5",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0717",
+    "question_type": "단답형",
+    "answer": "8명",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0718",
+    "question_type": "단답형",
+    "answer": "4명",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0719",
+    "question_type": "단답형",
+    "answer": "(1) 20명 (2) 40 %",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0720",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0721",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0722",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0723",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0724",
+    "question_type": "단답형",
+    "answer": "40 %",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0725",
+    "question_type": "단답형",
+    "answer": "30 %",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0726",
+    "question_type": "단답형",
+    "answer": "180점",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0727",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0728",
+    "question_type": "단답형",
+    "answer": "6회",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0729",
+    "question_type": "단답형",
+    "answer": "20 %",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0730",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0731",
+    "question_type": "객관식",
+    "answer": "3, 4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0732",
+    "question_type": "단답형",
+    "answer": "34",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0733",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0734",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄹ)",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0735",
+    "question_type": "객관식",
+    "answer": "2, 4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0736",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0737",
+    "question_type": "단답형",
+    "answer": "음의 상관관계",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0738",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0739",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0740",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0741",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0742",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0743",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0744",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "07 상관관계",
+    "level": "B"
+  },
+  {
+    "problem_code": "0745",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0746",
+    "question_type": "단답형",
+    "answer": "70 %",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0747",
+    "question_type": "단답형",
+    "answer": "3.5회",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0748",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0749",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0750",
+    "question_type": "단답형",
+    "answer": "4명",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0751",
+    "question_type": "단답형",
+    "answer": "(1) 음의 상관관계 (2) 남학생: 110분, 여학생: 85분",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0752",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0753",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0754",
+    "question_type": "단답형",
+    "answer": "8.25점",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0755",
+    "question_type": "단답형",
+    "answer": "40 %",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0756",
+    "question_type": "단답형",
+    "answer": "65점",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0757",
+    "question_type": "단답형",
+    "answer": "34",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  },
+  {
+    "problem_code": "0758",
+    "question_type": "단답형",
+    "answer": "(1) 상관관계가 없다. (2) 음의 상관관계",
+    "unit_path": "07 상관관계",
+    "level": "C"
+  }
+]

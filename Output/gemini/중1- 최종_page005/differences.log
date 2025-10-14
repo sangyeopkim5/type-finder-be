@@ -1,0 +1,3406 @@
+Gemini 응답 불일치/실패 리포트
+총 호출 수: 3
+성공한 호출 수: 3
+
+[응답 1]
+[
+  {
+    "problem_code": "1113",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1114",
+    "question_type": "단답형",
+    "answer": "40분 이상 50분 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1115",
+    "question_type": "단답형",
+    "answer": "20 cm",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1116",
+    "question_type": "단답형",
+    "answer": "150 cm",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1117",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1118",
+    "question_type": "단답형",
+    "answer": "180 cm 이상 200 cm 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1119",
+    "question_type": "단답형",
+    "answer": "200 cm 이상 220 cm 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1120",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1121",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1122",
+    "question_type": "단답형",
+    "answer": "5시간",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1123",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1124",
+    "question_type": "단답형",
+    "answer": "10시간 이상 15시간 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1125",
+    "question_type": "단답형",
+    "answer": "40",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1126",
+    "question_type": "단답형",
+    "answer": "32.5시간",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1127",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1128",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1129",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1130",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1131",
+    "question_type": "단답형",
+    "answer": "1시간",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1132",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1133",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1134",
+    "question_type": "단답형",
+    "answer": "7시간 이상 8시간 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1135",
+    "question_type": "단답형",
+    "answer": "18분",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1136",
+    "question_type": "단답형",
+    "answer": "B 바구니",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1137",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1138",
+    "question_type": "단답형",
+    "answer": "81점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1139",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1140",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1141",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1142",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1143",
+    "question_type": "단답형",
+    "answer": "13.5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1144",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1145",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1146",
+    "question_type": "단답형",
+    "answer": "53 kg",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1147",
+    "question_type": "단답형",
+    "answer": "8편",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1148",
+    "question_type": "단답형",
+    "answer": "19",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1149",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1150",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1151",
+    "question_type": "단답형",
+    "answer": "240",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1152",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1153",
+    "question_type": "단답형",
+    "answer": "중앙값, 230만 원",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1154",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1155",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1156",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1157",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1158",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1159",
+    "question_type": "단답형",
+    "answer": "23, 24, 25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1160",
+    "question_type": "단답형",
+    "answer": "15세",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1161",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1162",
+    "question_type": "단답형",
+    "answer": "(1) 4편 (2) 44분",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1163",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1164",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1165",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1166",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1167",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄹ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1168",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1169",
+    "question_type": "단답형",
+    "answer": "(1) 21 (2) 26",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1170",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1171",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1172",
+    "question_type": "단답형",
+    "answer": "60 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1173",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1174",
+    "question_type": "단답형",
+    "answer": "44 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1175",
+    "question_type": "객관식",
+    "answer": "(ㄱ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1176",
+    "question_type": "객관식",
+    "answer": "2, 5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1177",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1178",
+    "question_type": "단답형",
+    "answer": "56",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1179",
+    "question_type": "단답형",
+    "answer": "(1) 55 % (2) 75점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1180",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1181",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1182",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1183",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1184",
+    "question_type": "단답형",
+    "answer": "5배",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1185",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1186",
+    "question_type": "단답형",
+    "answer": "10명",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1187",
+    "question_type": "단답형",
+    "answer": "1800",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1188",
+    "question_type": "단답형",
+    "answer": "50점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1189",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1190",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1191",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1192",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1193",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1194",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1195",
+    "question_type": "단답형",
+    "answer": "(1) 40 (2) 9",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1196",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1197",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ), (ㄷ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1198",
+    "question_type": "객관식",
+    "answer": "3, 5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1199",
+    "question_type": "단답형",
+    "answer": "(1) A반: 25, B반: 25 (2) 24 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1200",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1201",
+    "question_type": "단답형",
+    "answer": "35",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1202",
+    "question_type": "단답형",
+    "answer": "163 cm",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1203",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1204",
+    "question_type": "객관식",
+    "answer": "3, 4",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1205",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1206",
+    "question_type": "단답형",
+    "answer": "160 cm 이상 165 cm 미만",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1207",
+    "question_type": "단답형",
+    "answer": "115 g",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1208",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1209",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1210",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1211",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1212",
+    "question_type": "단답형",
+    "answer": "(1) 45 % (2) 전국 중학교보다 A 중학교의 20~30대 선생님의 비율이 더 높다.",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1213",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1214",
+    "question_type": "단답형",
+    "answer": "7 : 5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1215",
+    "question_type": "단답형",
+    "answer": "30 %",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1216",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1217",
+    "question_type": "단답형",
+    "answer": "15회 이상 20회 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1218",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1219",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1220",
+    "question_type": "단답형",
+    "answer": "4회",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1221",
+    "question_type": "단답형",
+    "answer": "8회 이상 12회 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1222",
+    "question_type": "단답형",
+    "answer": "6명",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1223",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1224",
+    "question_type": "단답형",
+    "answer": "풀이 참조",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1225",
+    "question_type": "단답형",
+    "answer": "여학생",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1226",
+    "question_type": "단답형",
+    "answer": "여학생",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1227",
+    "question_type": "단답형",
+    "answer": "0.35",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1228",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1229",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1230",
+    "question_type": "단답형",
+    "answer": "0.36",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1231",
+    "question_type": "단답형",
+    "answer": "15.35",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1232",
+    "question_type": "단답형",
+    "answer": "0.1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1233",
+    "question_type": "단답형",
+    "answer": "6.35",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1234",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1235",
+    "question_type": "단답형",
+    "answer": "90점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1236",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1237",
+    "question_type": "단답형",
+    "answer": "(1) 50 (2) A=16, B=11, C=0.06 (3) 28 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1238",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1239",
+    "question_type": "단답형",
+    "answer": "0.1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1240",
+    "question_type": "단답형",
+    "answer": "15명",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1241",
+    "question_type": "단답형",
+    "answer": "8.4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1242",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1243",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1244",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1245",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1246",
+    "question_type": "단답형",
+    "answer": "162.5 cm",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1247",
+    "question_type": "단답형",
+    "answer": "(1) 65 kg 이상 70 kg 미만 (2) 35 % (3) 12명",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1248",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1249",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1250",
+    "question_type": "단답형",
+    "answer": "(1) 300 (2) 50점 이상 60점 미만 (3) 78",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1251",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1252",
+    "question_type": "단답형",
+    "answer": "200",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1253",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1254",
+    "question_type": "단답형",
+    "answer": "14",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1255",
+    "question_type": "단답형",
+    "answer": "0.36",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1256",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1257",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1258",
+    "question_type": "단답형",
+    "answer": "80점 이상 90점 미만",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1259",
+    "question_type": "단답형",
+    "answer": "남학생",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1260",
+    "question_type": "단답형",
+    "answer": "0.25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1261",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1262",
+    "question_type": "단답형",
+    "answer": "24 : 25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1263",
+    "question_type": "단답형",
+    "answer": "2 : 1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1264",
+    "question_type": "단답형",
+    "answer": "5 : 3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1265",
+    "question_type": "객관식",
+    "answer": "1, 4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1266",
+    "question_type": "단답형",
+    "answer": "(1) 80점 이상 90점 미만 (2) 40 (3) 2반",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1267",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1268",
+    "question_type": "단답형",
+    "answer": "0.25",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1269",
+    "question_type": "단답형",
+    "answer": "0.35",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1270",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1271",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1272",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1273",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1274",
+    "question_type": "단답형",
+    "answer": "0.4",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1275",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1276",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1277",
+    "question_type": "단답형",
+    "answer": "28",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  }
+]
+
+[응답 2]
+[
+  {
+    "problem_code": "1113",
+    "question_type": "단답형",
+    "answer": "도수: 3, 6, 6, 4, 1",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1114",
+    "question_type": "단답형",
+    "answer": "40분 이상 50분 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1115",
+    "question_type": "단답형",
+    "answer": "20 cm",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1116",
+    "question_type": "단답형",
+    "answer": "150 cm",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1117",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1118",
+    "question_type": "단답형",
+    "answer": "180 cm 이상 200 cm 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1119",
+    "question_type": "단답형",
+    "answer": "200 cm 이상 220 cm 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1120",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1121",
+    "question_type": "단답형",
+    "answer": "도수: 4, 6, 9, 13, 8",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1122",
+    "question_type": "단답형",
+    "answer": "5시간",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1123",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1124",
+    "question_type": "단답형",
+    "answer": "10시간 이상 15시간 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1125",
+    "question_type": "단답형",
+    "answer": "40",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1126",
+    "question_type": "단답형",
+    "answer": "32.5시간",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1127",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1128",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1129",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1130",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1131",
+    "question_type": "단답형",
+    "answer": "1시간",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1132",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1133",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1134",
+    "question_type": "단답형",
+    "answer": "7시간 이상 8시간 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1135",
+    "question_type": "단답형",
+    "answer": "18분",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1136",
+    "question_type": "단답형",
+    "answer": "B 바구니",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1137",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1138",
+    "question_type": "단답형",
+    "answer": "81점",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1139",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1140",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1141",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1142",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1143",
+    "question_type": "단답형",
+    "answer": "13.5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1144",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ)",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1145",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1146",
+    "question_type": "단답형",
+    "answer": "53 kg",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1147",
+    "question_type": "단답형",
+    "answer": "8편",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1148",
+    "question_type": "단답형",
+    "answer": "19",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1149",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1150",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1151",
+    "question_type": "단답형",
+    "answer": "240",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1152",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1153",
+    "question_type": "단답형",
+    "answer": "중앙값: 230만 원",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1154",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1155",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1156",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1157",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1158",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1159",
+    "question_type": "단답형",
+    "answer": "23, 24, 25",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1160",
+    "question_type": "단답형",
+    "answer": "15세",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1161",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1162",
+    "question_type": "단답형",
+    "answer": "(1) 4편 (2) 44분",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1163",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1164",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1165",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1166",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1167",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄹ)",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1168",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1169",
+    "question_type": "단답형",
+    "answer": "(1) 21 (2) 26",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1170",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1171",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1172",
+    "question_type": "단답형",
+    "answer": "60 %",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1173",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1174",
+    "question_type": "단답형",
+    "answer": "44 %",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1175",
+    "question_type": "객관식",
+    "answer": "(ㄱ)",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1176",
+    "question_type": "객관식",
+    "answer": "2, 5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1177",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1178",
+    "question_type": "단답형",
+    "answer": "56",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1179",
+    "question_type": "단답형",
+    "answer": "(1) 55 % (2) 75점",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1180",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1181",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1182",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1183",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1184",
+    "question_type": "단답형",
+    "answer": "5배",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1185",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1186",
+    "question_type": "단답형",
+    "answer": "10명",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1187",
+    "question_type": "단답형",
+    "answer": "1800",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1188",
+    "question_type": "단답형",
+    "answer": "50점",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1189",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1190",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1191",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1192",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1193",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1194",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1195",
+    "question_type": "단답형",
+    "answer": "(1) 40 (2) 9",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1196",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1197",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ), (ㄷ)",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1198",
+    "question_type": "객관식",
+    "answer": "3, 5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1199",
+    "question_type": "단답형",
+    "answer": "(1) A 반: 25, B 반: 25 (2) 24 %",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1200",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1201",
+    "question_type": "단답형",
+    "answer": "35",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1202",
+    "question_type": "단답형",
+    "answer": "163 cm",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1203",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1204",
+    "question_type": "객관식",
+    "answer": "3, 4",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1205",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1206",
+    "question_type": "단답형",
+    "answer": "160 cm 이상 165 cm 미만",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1207",
+    "question_type": "단답형",
+    "answer": "115 g",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1208",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1209",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1210",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1211",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1212",
+    "question_type": "단답형",
+    "answer": "(1) 45 % (2) 전국 중학교보다 A 중학교의 20~30대 선생님의 비율이 더 높다.",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1213",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1214",
+    "question_type": "단답형",
+    "answer": "7 : 5",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1215",
+    "question_type": "단답형",
+    "answer": "30 %",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1216",
+    "question_type": "단답형",
+    "answer": "상대도수: 0.1, 0.15, 0.45, 0.2, 0.1",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1217",
+    "question_type": "단답형",
+    "answer": "15회 이상 20회 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1218",
+    "question_type": "단답형",
+    "answer": "상대도수: 0.16, 0.26, 0.32, 0.14, 0.12",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1219",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1220",
+    "question_type": "단답형",
+    "answer": "4회",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1221",
+    "question_type": "단답형",
+    "answer": "8회 이상 12회 미만",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1222",
+    "question_type": "단답형",
+    "answer": "6명",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1223",
+    "question_type": "단답형",
+    "answer": "남학생 상대도수: 0.2, 0.4, 0.3, 0.1, 여학생 상대도수: 0.1, 0.2, 0.4, 0.3",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1224",
+    "question_type": "단답형",
+    "answer": "그래프 참조",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1225",
+    "question_type": "단답형",
+    "answer": "여학생",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1226",
+    "question_type": "단답형",
+    "answer": "여학생",
+    "unit_path": "11. 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1227",
+    "question_type": "단답형",
+    "answer": "0.35",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1228",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1229",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1230",
+    "question_type": "단답형",
+    "answer": "0.36",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1231",
+    "question_type": "단답형",
+    "answer": "15.35",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1232",
+    "question_type": "단답형",
+    "answer": "0.1",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1233",
+    "question_type": "단답형",
+    "answer": "6.35",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1234",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1235",
+    "question_type": "단답형",
+    "answer": "90점",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1236",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1237",
+    "question_type": "단답형",
+    "answer": "(1) 50 (2) A=16, B=11, C=0.06 (3) 28 %",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1238",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1239",
+    "question_type": "단답형",
+    "answer": "0.1",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1240",
+    "question_type": "단답형",
+    "answer": "15명",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1241",
+    "question_type": "단답형",
+    "answer": "8.4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1242",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1243",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1244",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1245",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1246",
+    "question_type": "단답형",
+    "answer": "162.5 cm",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1247",
+    "question_type": "단답형",
+    "answer": "(1) 65 kg 이상 70 kg 미만 (2) 35 % (3) 12명",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1248",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1249",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1250",
+    "question_type": "단답형",
+    "answer": "(1) 300 (2) 50점 이상 60점 미만 (3) 78",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1251",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1252",
+    "question_type": "단답형",
+    "answer": "200",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1253",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1254",
+    "question_type": "단답형",
+    "answer": "14",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1255",
+    "question_type": "단답형",
+    "answer": "0.36",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1256",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1257",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1258",
+    "question_type": "단답형",
+    "answer": "80점 이상 90점 미만",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1259",
+    "question_type": "단답형",
+    "answer": "남학생",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1260",
+    "question_type": "단답형",
+    "answer": "0.25",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1261",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1262",
+    "question_type": "단답형",
+    "answer": "24 : 25",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1263",
+    "question_type": "단답형",
+    "answer": "2 : 1",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1264",
+    "question_type": "단답형",
+    "answer": "5 : 3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1265",
+    "question_type": "객관식",
+    "answer": "1, 4",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1266",
+    "question_type": "단답형",
+    "answer": "(1) 80점 이상 90점 미만 (2) 40 (3) 2반",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1267",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11. 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1268",
+    "question_type": "단답형",
+    "answer": "0.25",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1269",
+    "question_type": "단답형",
+    "answer": "0.35",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1270",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1271",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1272",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1273",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1274",
+    "question_type": "단답형",
+    "answer": "0.4",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1275",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1276",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1277",
+    "question_type": "단답형",
+    "answer": "28",
+    "unit_path": "11. 상대도수",
+    "level": "C"
+  }
+]
+
+[응답 3]
+[
+  {
+    "problem_code": "1114",
+    "question_type": "단답형",
+    "answer": "40분 이상 50분 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1115",
+    "question_type": "단답형",
+    "answer": "20 cm",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1116",
+    "question_type": "단답형",
+    "answer": "150 cm",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1117",
+    "question_type": "단답형",
+    "answer": "12",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1118",
+    "question_type": "단답형",
+    "answer": "180 cm 이상 200 cm 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1119",
+    "question_type": "단답형",
+    "answer": "200 cm 이상 220 cm 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1122",
+    "question_type": "단답형",
+    "answer": "5시간",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1123",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1124",
+    "question_type": "단답형",
+    "answer": "10시간 이상 15시간 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1125",
+    "question_type": "단답형",
+    "answer": "40",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1126",
+    "question_type": "단답형",
+    "answer": "32.5시간",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1131",
+    "question_type": "단답형",
+    "answer": "1시간",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1132",
+    "question_type": "단답형",
+    "answer": "6",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1133",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1134",
+    "question_type": "단답형",
+    "answer": "7시간 이상 8시간 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1135",
+    "question_type": "단답형",
+    "answer": "18분",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1136",
+    "question_type": "단답형",
+    "answer": "B 바구니",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1137",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1138",
+    "question_type": "단답형",
+    "answer": "81점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1139",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1140",
+    "question_type": "단답형",
+    "answer": "18",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1141",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1142",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1143",
+    "question_type": "단답형",
+    "answer": "13.5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1144",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1145",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1146",
+    "question_type": "단답형",
+    "answer": "53 kg",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1147",
+    "question_type": "단답형",
+    "answer": "8편",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1148",
+    "question_type": "단답형",
+    "answer": "19",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1149",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1150",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1151",
+    "question_type": "단답형",
+    "answer": "240",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1152",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1153",
+    "question_type": "단답형",
+    "answer": "중앙값, 230만 원",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1154",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄷ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1155",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1156",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1157",
+    "question_type": "단답형",
+    "answer": "25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1158",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1159",
+    "question_type": "단답형",
+    "answer": "23, 24, 25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1160",
+    "question_type": "단답형",
+    "answer": "15세",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1161",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1162",
+    "question_type": "단답형",
+    "answer": "(1) 4편 (2) 44분",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1163",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1164",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1165",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1166",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1167",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄹ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1168",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1169",
+    "question_type": "단답형",
+    "answer": "(1) 21 (2) 26",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1170",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1171",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1172",
+    "question_type": "단답형",
+    "answer": "60 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1173",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1174",
+    "question_type": "단답형",
+    "answer": "44 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1175",
+    "question_type": "객관식",
+    "answer": "(ㄱ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1176",
+    "question_type": "객관식",
+    "answer": "2, 5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1177",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1178",
+    "question_type": "단답형",
+    "answer": "56",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1179",
+    "question_type": "단답형",
+    "answer": "(1) 55 % (2) 75점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1180",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1181",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1182",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1183",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1184",
+    "question_type": "단답형",
+    "answer": "5배",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1185",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1186",
+    "question_type": "단답형",
+    "answer": "10명",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1187",
+    "question_type": "단답형",
+    "answer": "1800",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1188",
+    "question_type": "단답형",
+    "answer": "50점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1189",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1190",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1191",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1192",
+    "question_type": "단답형",
+    "answer": "7",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1193",
+    "question_type": "단답형",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1194",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1195",
+    "question_type": "단답형",
+    "answer": "(1) 40 (2) 9",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1196",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1197",
+    "question_type": "객관식",
+    "answer": "(ㄱ), (ㄴ), (ㄷ)",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1198",
+    "question_type": "객관식",
+    "answer": "3, 5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1199",
+    "question_type": "단답형",
+    "answer": "(1) A반: 25, B반: 25 (2) 24 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1200",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1201",
+    "question_type": "단답형",
+    "answer": "35",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1202",
+    "question_type": "단답형",
+    "answer": "163 cm",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1203",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1204",
+    "question_type": "객관식",
+    "answer": "3, 4",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1205",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1206",
+    "question_type": "단답형",
+    "answer": "160 cm 이상 165 cm 미만",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1207",
+    "question_type": "단답형",
+    "answer": "115 g",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1208",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1209",
+    "question_type": "단답형",
+    "answer": "15",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1210",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1211",
+    "question_type": "단답형",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1212",
+    "question_type": "단답형",
+    "answer": "(1) 45 % (2) 전국 중학교보다 A 중학교의 20~30대 선생님의 비율이 더 높다.",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1213",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1214",
+    "question_type": "단답형",
+    "answer": "7 : 5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1215",
+    "question_type": "단답형",
+    "answer": "30 %",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1217",
+    "question_type": "단답형",
+    "answer": "15회 이상 20회 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1220",
+    "question_type": "단답형",
+    "answer": "4회",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1221",
+    "question_type": "단답형",
+    "answer": "8회 이상 12회 미만",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1222",
+    "question_type": "단답형",
+    "answer": "6명",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1225",
+    "question_type": "단답형",
+    "answer": "여학생",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1226",
+    "question_type": "단답형",
+    "answer": "여학생",
+    "unit_path": "11 상대도수",
+    "level": "A"
+  },
+  {
+    "problem_code": "1227",
+    "question_type": "단답형",
+    "answer": "0.35",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1228",
+    "question_type": "단답형",
+    "answer": "30",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1229",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1230",
+    "question_type": "단답형",
+    "answer": "0.36",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1231",
+    "question_type": "단답형",
+    "answer": "15.35",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1232",
+    "question_type": "단답형",
+    "answer": "0.1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1233",
+    "question_type": "단답형",
+    "answer": "6.35",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1234",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1235",
+    "question_type": "단답형",
+    "answer": "90점",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1236",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1237",
+    "question_type": "단답형",
+    "answer": "(1) 50 (2) A=16, B=11, C=0.06 (3) 28 %",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1238",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1239",
+    "question_type": "단답형",
+    "answer": "0.1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1240",
+    "question_type": "단답형",
+    "answer": "15명",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1241",
+    "question_type": "단답형",
+    "answer": "8.4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1242",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1243",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1244",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1245",
+    "question_type": "객관식",
+    "answer": "2",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1246",
+    "question_type": "단답형",
+    "answer": "162.5 cm",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1247",
+    "question_type": "단답형",
+    "answer": "(1) 65 kg 이상 70 kg 미만 (2) 35 % (3) 12명",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1248",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1249",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1250",
+    "question_type": "단답형",
+    "answer": "(1) 300 (2) 50점 이상 60점 미만 (3) 78",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1251",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1252",
+    "question_type": "단답형",
+    "answer": "200",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1253",
+    "question_type": "단답형",
+    "answer": "8",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1254",
+    "question_type": "단답형",
+    "answer": "14",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1255",
+    "question_type": "단답형",
+    "answer": "0.36",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1256",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1257",
+    "question_type": "객관식",
+    "answer": "4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1258",
+    "question_type": "단답형",
+    "answer": "80점 이상 90점 미만",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1259",
+    "question_type": "단답형",
+    "answer": "남학생",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1260",
+    "question_type": "단답형",
+    "answer": "0.25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1261",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1262",
+    "question_type": "단답형",
+    "answer": "24 : 25",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1263",
+    "question_type": "단답형",
+    "answer": "2 : 1",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1264",
+    "question_type": "단답형",
+    "answer": "5 : 3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1265",
+    "question_type": "객관식",
+    "answer": "1, 4",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1266",
+    "question_type": "단답형",
+    "answer": "(1) 80점 이상 90점 미만 (2) 40 (3) 2반",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1267",
+    "question_type": "객관식",
+    "answer": "3",
+    "unit_path": "11 상대도수",
+    "level": "B"
+  },
+  {
+    "problem_code": "1268",
+    "question_type": "단답형",
+    "answer": "0.25",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1269",
+    "question_type": "단답형",
+    "answer": "0.35",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1270",
+    "question_type": "단답형",
+    "answer": "10",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1271",
+    "question_type": "단답형",
+    "answer": "50",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1272",
+    "question_type": "객관식",
+    "answer": "5",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1273",
+    "question_type": "객관식",
+    "answer": "1",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1274",
+    "question_type": "단답형",
+    "answer": "0.4",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1275",
+    "question_type": "단답형",
+    "answer": "90",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1276",
+    "question_type": "단답형",
+    "answer": "11",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  },
+  {
+    "problem_code": "1277",
+    "question_type": "단답형",
+    "answer": "28",
+    "unit_path": "11 상대도수",
+    "level": "C"
+  }
+]
+
+=== 응답 그룹 ===
+응답 동일 그룹: 호출 [1]
+[{"answer": "풀이 참조", "level": "A", "problem_code": "1113", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "40분 이상 50분 미만", "level": "A", "problem_code": "1114", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "20 cm", "level": "A", "problem_code": "1115", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "150 cm", "level": "A", "problem_code": "1116", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "12", "level": "A", "problem_code": "1117", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "180 cm 이상 200 cm 미만", "level": "A", "problem_code": "1118", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "200 cm 이상 220 cm 미만", "level": "A", "problem_code": "1119", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1120", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1121", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5시간", "level": "A", "problem_code": "1122", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6", "level": "A", "problem_code": "1123", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "10시간 이상 15시간 미만", "level": "A", "problem_code": "1124", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "40", "level": "A", "problem_code": "1125", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "32.5시간", "level": "A", "problem_code": "1126", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1127", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1128", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1129", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1130", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1시간", "level": "A", "problem_code": "1131", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6", "level": "A", "problem_code": "1132", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30", "level": "A", "problem_code": "1133", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "7시간 이상 8시간 미만", "level": "A", "problem_code": "1134", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "18분", "level": "B", "problem_code": "1135", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "B 바구니", "level": "B", "problem_code": "1136", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1137", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "81점", "level": "B", "problem_code": "1138", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "10", "level": "B", "problem_code": "1139", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "18", "level": "B", "problem_code": "1140", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8", "level": "B", "problem_code": "1141", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1", "level": "B", "problem_code": "1142", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "13.5", "level": "B", "problem_code": "1143", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄴ)", "level": "B", "problem_code": "1144", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1145", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "53 kg", "level": "B", "problem_code": "1146", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8편", "level": "B", "problem_code": "1147", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "19", "level": "B", "problem_code": "1148", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1149", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1150", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "240", "level": "B", "problem_code": "1151", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1152", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "중앙값, 230만 원", "level": "B", "problem_code": "1153", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄷ)", "level": "B", "problem_code": "1154", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1155", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "1", "level": "B", "problem_code": "1156", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "25", "level": "B", "problem_code": "1157", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "90", "level": "B", "problem_code": "1158", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "23, 24, 25", "level": "B", "problem_code": "1159", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15세", "level": "B", "problem_code": "1160", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1161", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 4편 (2) 44분", "level": "B", "problem_code": "1162", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1163", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1164", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1165", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1166", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄹ)", "level": "B", "problem_code": "1167", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1168", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 21 (2) 26", "level": "B", "problem_code": "1169", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1170", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "7", "level": "B", "problem_code": "1171", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "60 %", "level": "B", "problem_code": "1172", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1173", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "44 %", "level": "B", "problem_code": "1174", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(ㄱ)", "level": "B", "problem_code": "1175", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "2, 5", "level": "B", "problem_code": "1176", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1177", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "56", "level": "B", "problem_code": "1178", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(1) 55 % (2) 75점", "level": "B", "problem_code": "1179", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1180", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1181", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1182", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1183", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5배", "level": "B", "problem_code": "1184", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1185", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "10명", "level": "B", "problem_code": "1186", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1800", "level": "B", "problem_code": "1187", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "50점", "level": "B", "problem_code": "1188", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1189", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1190", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15", "level": "B", "problem_code": "1191", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "7", "level": "B", "problem_code": "1192", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1193", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1194", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 40 (2) 9", "level": "B", "problem_code": "1195", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1196", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄴ), (ㄷ)", "level": "B", "problem_code": "1197", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3, 5", "level": "B", "problem_code": "1198", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) A반: 25, B반: 25 (2) 24 %", "level": "B", "problem_code": "1199", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1200", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "35", "level": "C", "problem_code": "1201", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "163 cm", "level": "C", "problem_code": "1202", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1203", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3, 4", "level": "C", "problem_code": "1204", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "11", "level": "C", "problem_code": "1205", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "160 cm 이상 165 cm 미만", "level": "C", "problem_code": "1206", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "115 g", "level": "C", "problem_code": "1207", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30", "level": "C", "problem_code": "1208", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15", "level": "C", "problem_code": "1209", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1210", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1211", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(1) 45 % (2) 전국 중학교보다 A 중학교의 20~30대 선생님의 비율이 더 높다.", "level": "C", "problem_code": "1212", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8", "level": "C", "problem_code": "1213", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "7 : 5", "level": "C", "problem_code": "1214", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30 %", "level": "C", "problem_code": "1215", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1216", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15회 이상 20회 미만", "level": "A", "problem_code": "1217", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1218", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1219", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4회", "level": "A", "problem_code": "1220", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8회 이상 12회 미만", "level": "A", "problem_code": "1221", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6명", "level": "A", "problem_code": "1222", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1223", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "풀이 참조", "level": "A", "problem_code": "1224", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "여학생", "level": "A", "problem_code": "1225", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "여학생", "level": "A", "problem_code": "1226", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.35", "level": "B", "problem_code": "1227", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30", "level": "B", "problem_code": "1228", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1229", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.36", "level": "B", "problem_code": "1230", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15.35", "level": "B", "problem_code": "1231", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.1", "level": "B", "problem_code": "1232", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6.35", "level": "B", "problem_code": "1233", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1234", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "90점", "level": "B", "problem_code": "1235", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1236", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 50 (2) A=16, B=11, C=0.06 (3) 28 %", "level": "B", "problem_code": "1237", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1238", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.1", "level": "B", "problem_code": "1239", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15명", "level": "B", "problem_code": "1240", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8.4", "level": "B", "problem_code": "1241", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1242", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1243", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1244", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1245", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "162.5 cm", "level": "B", "problem_code": "1246", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(1) 65 kg 이상 70 kg 미만 (2) 35 % (3) 12명", "level": "B", "problem_code": "1247", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1248", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1249", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 300 (2) 50점 이상 60점 미만 (3) 78", "level": "B", "problem_code": "1250", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1251", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "200", "level": "B", "problem_code": "1252", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8", "level": "B", "problem_code": "1253", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "14", "level": "B", "problem_code": "1254", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.36", "level": "B", "problem_code": "1255", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1256", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1257", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "80점 이상 90점 미만", "level": "B", "problem_code": "1258", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "남학생", "level": "B", "problem_code": "1259", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.25", "level": "B", "problem_code": "1260", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1261", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "24 : 25", "level": "B", "problem_code": "1262", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2 : 1", "level": "B", "problem_code": "1263", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5 : 3", "level": "B", "problem_code": "1264", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1, 4", "level": "B", "problem_code": "1265", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 80점 이상 90점 미만 (2) 40 (3) 2반", "level": "B", "problem_code": "1266", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1267", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.25", "level": "C", "problem_code": "1268", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.35", "level": "C", "problem_code": "1269", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "10", "level": "C", "problem_code": "1270", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "50", "level": "C", "problem_code": "1271", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1272", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "1", "level": "C", "problem_code": "1273", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.4", "level": "C", "problem_code": "1274", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "90", "level": "C", "problem_code": "1275", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "11", "level": "C", "problem_code": "1276", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "28", "level": "C", "problem_code": "1277", "question_type": "단답형", "unit_path": "11 상대도수"}]
+
+응답 동일 그룹: 호출 [2]
+[{"answer": "도수: 3, 6, 6, 4, 1", "level": "A", "problem_code": "1113", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "40분 이상 50분 미만", "level": "A", "problem_code": "1114", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "20 cm", "level": "A", "problem_code": "1115", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "150 cm", "level": "A", "problem_code": "1116", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "12", "level": "A", "problem_code": "1117", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "180 cm 이상 200 cm 미만", "level": "A", "problem_code": "1118", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "200 cm 이상 220 cm 미만", "level": "A", "problem_code": "1119", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1120", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "도수: 4, 6, 9, 13, 8", "level": "A", "problem_code": "1121", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5시간", "level": "A", "problem_code": "1122", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "6", "level": "A", "problem_code": "1123", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "10시간 이상 15시간 미만", "level": "A", "problem_code": "1124", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "40", "level": "A", "problem_code": "1125", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "32.5시간", "level": "A", "problem_code": "1126", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1127", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1128", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1129", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1130", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "1시간", "level": "A", "problem_code": "1131", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "6", "level": "A", "problem_code": "1132", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "30", "level": "A", "problem_code": "1133", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "7시간 이상 8시간 미만", "level": "A", "problem_code": "1134", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "18분", "level": "B", "problem_code": "1135", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "B 바구니", "level": "B", "problem_code": "1136", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1137", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "81점", "level": "B", "problem_code": "1138", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "10", "level": "B", "problem_code": "1139", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "18", "level": "B", "problem_code": "1140", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "8", "level": "B", "problem_code": "1141", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "1", "level": "B", "problem_code": "1142", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "13.5", "level": "B", "problem_code": "1143", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "(ㄱ), (ㄴ)", "level": "B", "problem_code": "1144", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1145", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "53 kg", "level": "B", "problem_code": "1146", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "8편", "level": "B", "problem_code": "1147", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "19", "level": "B", "problem_code": "1148", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1149", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1150", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "240", "level": "B", "problem_code": "1151", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1152", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "중앙값: 230만 원", "level": "B", "problem_code": "1153", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "(ㄱ), (ㄷ)", "level": "B", "problem_code": "1154", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1155", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "1", "level": "B", "problem_code": "1156", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "25", "level": "B", "problem_code": "1157", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "90", "level": "B", "problem_code": "1158", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "23, 24, 25", "level": "B", "problem_code": "1159", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "15세", "level": "B", "problem_code": "1160", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1161", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) 4편 (2) 44분", "level": "B", "problem_code": "1162", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1163", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1164", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1165", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1166", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(ㄱ), (ㄹ)", "level": "B", "problem_code": "1167", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1168", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) 21 (2) 26", "level": "B", "problem_code": "1169", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1170", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "7", "level": "B", "problem_code": "1171", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "60 %", "level": "B", "problem_code": "1172", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1173", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "44 %", "level": "B", "problem_code": "1174", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "(ㄱ)", "level": "B", "problem_code": "1175", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "2, 5", "level": "B", "problem_code": "1176", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1177", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "56", "level": "B", "problem_code": "1178", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "(1) 55 % (2) 75점", "level": "B", "problem_code": "1179", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1180", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1181", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1182", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1183", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "5배", "level": "B", "problem_code": "1184", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1185", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "10명", "level": "B", "problem_code": "1186", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "1800", "level": "B", "problem_code": "1187", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "50점", "level": "B", "problem_code": "1188", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1189", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1190", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "15", "level": "B", "problem_code": "1191", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "7", "level": "B", "problem_code": "1192", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1193", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1194", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) 40 (2) 9", "level": "B", "problem_code": "1195", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1196", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(ㄱ), (ㄴ), (ㄷ)", "level": "B", "problem_code": "1197", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3, 5", "level": "B", "problem_code": "1198", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) A 반: 25, B 반: 25 (2) 24 %", "level": "B", "problem_code": "1199", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1200", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "35", "level": "C", "problem_code": "1201", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "163 cm", "level": "C", "problem_code": "1202", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1203", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3, 4", "level": "C", "problem_code": "1204", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "11", "level": "C", "problem_code": "1205", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "160 cm 이상 165 cm 미만", "level": "C", "problem_code": "1206", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "115 g", "level": "C", "problem_code": "1207", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "30", "level": "C", "problem_code": "1208", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "15", "level": "C", "problem_code": "1209", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1210", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1211", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "(1) 45 % (2) 전국 중학교보다 A 중학교의 20~30대 선생님의 비율이 더 높다.", "level": "C", "problem_code": "1212", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "8", "level": "C", "problem_code": "1213", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "7 : 5", "level": "C", "problem_code": "1214", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "30 %", "level": "C", "problem_code": "1215", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "상대도수: 0.1, 0.15, 0.45, 0.2, 0.1", "level": "A", "problem_code": "1216", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "15회 이상 20회 미만", "level": "A", "problem_code": "1217", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "상대도수: 0.16, 0.26, 0.32, 0.14, 0.12", "level": "A", "problem_code": "1218", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1219", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4회", "level": "A", "problem_code": "1220", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "8회 이상 12회 미만", "level": "A", "problem_code": "1221", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "6명", "level": "A", "problem_code": "1222", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "남학생 상대도수: 0.2, 0.4, 0.3, 0.1, 여학생 상대도수: 0.1, 0.2, 0.4, 0.3", "level": "A", "problem_code": "1223", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "그래프 참조", "level": "A", "problem_code": "1224", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "여학생", "level": "A", "problem_code": "1225", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "여학생", "level": "A", "problem_code": "1226", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "0.35", "level": "B", "problem_code": "1227", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "30", "level": "B", "problem_code": "1228", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1229", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "0.36", "level": "B", "problem_code": "1230", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "15.35", "level": "B", "problem_code": "1231", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "0.1", "level": "B", "problem_code": "1232", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "6.35", "level": "B", "problem_code": "1233", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1234", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "90점", "level": "B", "problem_code": "1235", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1236", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) 50 (2) A=16, B=11, C=0.06 (3) 28 %", "level": "B", "problem_code": "1237", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1238", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "0.1", "level": "B", "problem_code": "1239", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "15명", "level": "B", "problem_code": "1240", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "8.4", "level": "B", "problem_code": "1241", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1242", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1243", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1244", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1245", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "162.5 cm", "level": "B", "problem_code": "1246", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "(1) 65 kg 이상 70 kg 미만 (2) 35 % (3) 12명", "level": "B", "problem_code": "1247", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1248", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1249", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) 300 (2) 50점 이상 60점 미만 (3) 78", "level": "B", "problem_code": "1250", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1251", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "200", "level": "B", "problem_code": "1252", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "8", "level": "B", "problem_code": "1253", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "14", "level": "B", "problem_code": "1254", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "0.36", "level": "B", "problem_code": "1255", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1256", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1257", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "80점 이상 90점 미만", "level": "B", "problem_code": "1258", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "남학생", "level": "B", "problem_code": "1259", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "0.25", "level": "B", "problem_code": "1260", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1261", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "24 : 25", "level": "B", "problem_code": "1262", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "2 : 1", "level": "B", "problem_code": "1263", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5 : 3", "level": "B", "problem_code": "1264", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "1, 4", "level": "B", "problem_code": "1265", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "(1) 80점 이상 90점 미만 (2) 40 (3) 2반", "level": "B", "problem_code": "1266", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1267", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "0.25", "level": "C", "problem_code": "1268", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "0.35", "level": "C", "problem_code": "1269", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "10", "level": "C", "problem_code": "1270", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "50", "level": "C", "problem_code": "1271", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1272", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "1", "level": "C", "problem_code": "1273", "question_type": "객관식", "unit_path": "11. 상대도수"}, {"answer": "0.4", "level": "C", "problem_code": "1274", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "90", "level": "C", "problem_code": "1275", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "11", "level": "C", "problem_code": "1276", "question_type": "단답형", "unit_path": "11. 상대도수"}, {"answer": "28", "level": "C", "problem_code": "1277", "question_type": "단답형", "unit_path": "11. 상대도수"}]
+
+응답 동일 그룹: 호출 [3]
+[{"answer": "40분 이상 50분 미만", "level": "A", "problem_code": "1114", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "20 cm", "level": "A", "problem_code": "1115", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "150 cm", "level": "A", "problem_code": "1116", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "12", "level": "A", "problem_code": "1117", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "180 cm 이상 200 cm 미만", "level": "A", "problem_code": "1118", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "200 cm 이상 220 cm 미만", "level": "A", "problem_code": "1119", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5시간", "level": "A", "problem_code": "1122", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6", "level": "A", "problem_code": "1123", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "10시간 이상 15시간 미만", "level": "A", "problem_code": "1124", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "40", "level": "A", "problem_code": "1125", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "32.5시간", "level": "A", "problem_code": "1126", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1시간", "level": "A", "problem_code": "1131", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6", "level": "A", "problem_code": "1132", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30", "level": "A", "problem_code": "1133", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "7시간 이상 8시간 미만", "level": "A", "problem_code": "1134", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "18분", "level": "B", "problem_code": "1135", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "B 바구니", "level": "B", "problem_code": "1136", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1137", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "81점", "level": "B", "problem_code": "1138", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "10", "level": "B", "problem_code": "1139", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "18", "level": "B", "problem_code": "1140", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8", "level": "B", "problem_code": "1141", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1", "level": "B", "problem_code": "1142", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "13.5", "level": "B", "problem_code": "1143", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄴ)", "level": "B", "problem_code": "1144", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1145", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "53 kg", "level": "B", "problem_code": "1146", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8편", "level": "B", "problem_code": "1147", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "19", "level": "B", "problem_code": "1148", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1149", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1150", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "240", "level": "B", "problem_code": "1151", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1152", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "중앙값, 230만 원", "level": "B", "problem_code": "1153", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄷ)", "level": "B", "problem_code": "1154", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1155", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "1", "level": "B", "problem_code": "1156", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "25", "level": "B", "problem_code": "1157", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "90", "level": "B", "problem_code": "1158", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "23, 24, 25", "level": "B", "problem_code": "1159", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15세", "level": "B", "problem_code": "1160", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1161", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 4편 (2) 44분", "level": "B", "problem_code": "1162", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1163", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1164", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1165", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1166", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄹ)", "level": "B", "problem_code": "1167", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1168", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 21 (2) 26", "level": "B", "problem_code": "1169", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1170", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "7", "level": "B", "problem_code": "1171", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "60 %", "level": "B", "problem_code": "1172", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1173", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "44 %", "level": "B", "problem_code": "1174", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(ㄱ)", "level": "B", "problem_code": "1175", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "2, 5", "level": "B", "problem_code": "1176", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1177", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "56", "level": "B", "problem_code": "1178", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(1) 55 % (2) 75점", "level": "B", "problem_code": "1179", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1180", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1181", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1182", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1183", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5배", "level": "B", "problem_code": "1184", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1185", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "10명", "level": "B", "problem_code": "1186", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1800", "level": "B", "problem_code": "1187", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "50점", "level": "B", "problem_code": "1188", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1189", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1190", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15", "level": "B", "problem_code": "1191", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "7", "level": "B", "problem_code": "1192", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1193", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1194", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 40 (2) 9", "level": "B", "problem_code": "1195", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1196", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(ㄱ), (ㄴ), (ㄷ)", "level": "B", "problem_code": "1197", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3, 5", "level": "B", "problem_code": "1198", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) A반: 25, B반: 25 (2) 24 %", "level": "B", "problem_code": "1199", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1200", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "35", "level": "C", "problem_code": "1201", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "163 cm", "level": "C", "problem_code": "1202", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1203", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3, 4", "level": "C", "problem_code": "1204", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "11", "level": "C", "problem_code": "1205", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "160 cm 이상 165 cm 미만", "level": "C", "problem_code": "1206", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "115 g", "level": "C", "problem_code": "1207", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30", "level": "C", "problem_code": "1208", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15", "level": "C", "problem_code": "1209", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1210", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1211", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(1) 45 % (2) 전국 중학교보다 A 중학교의 20~30대 선생님의 비율이 더 높다.", "level": "C", "problem_code": "1212", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8", "level": "C", "problem_code": "1213", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "7 : 5", "level": "C", "problem_code": "1214", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30 %", "level": "C", "problem_code": "1215", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15회 이상 20회 미만", "level": "A", "problem_code": "1217", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4회", "level": "A", "problem_code": "1220", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8회 이상 12회 미만", "level": "A", "problem_code": "1221", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6명", "level": "A", "problem_code": "1222", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "여학생", "level": "A", "problem_code": "1225", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "여학생", "level": "A", "problem_code": "1226", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.35", "level": "B", "problem_code": "1227", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "30", "level": "B", "problem_code": "1228", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1229", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.36", "level": "B", "problem_code": "1230", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15.35", "level": "B", "problem_code": "1231", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.1", "level": "B", "problem_code": "1232", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "6.35", "level": "B", "problem_code": "1233", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1234", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "90점", "level": "B", "problem_code": "1235", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1236", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 50 (2) A=16, B=11, C=0.06 (3) 28 %", "level": "B", "problem_code": "1237", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1238", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.1", "level": "B", "problem_code": "1239", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "15명", "level": "B", "problem_code": "1240", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8.4", "level": "B", "problem_code": "1241", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1242", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1243", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1244", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "2", "level": "B", "problem_code": "1245", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "162.5 cm", "level": "B", "problem_code": "1246", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "(1) 65 kg 이상 70 kg 미만 (2) 35 % (3) 12명", "level": "B", "problem_code": "1247", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1248", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1249", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 300 (2) 50점 이상 60점 미만 (3) 78", "level": "B", "problem_code": "1250", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1251", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "200", "level": "B", "problem_code": "1252", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "8", "level": "B", "problem_code": "1253", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "14", "level": "B", "problem_code": "1254", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.36", "level": "B", "problem_code": "1255", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1256", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "4", "level": "B", "problem_code": "1257", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "80점 이상 90점 미만", "level": "B", "problem_code": "1258", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "남학생", "level": "B", "problem_code": "1259", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.25", "level": "B", "problem_code": "1260", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "B", "problem_code": "1261", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "24 : 25", "level": "B", "problem_code": "1262", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "2 : 1", "level": "B", "problem_code": "1263", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5 : 3", "level": "B", "problem_code": "1264", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "1, 4", "level": "B", "problem_code": "1265", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "(1) 80점 이상 90점 미만 (2) 40 (3) 2반", "level": "B", "problem_code": "1266", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "3", "level": "B", "problem_code": "1267", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.25", "level": "C", "problem_code": "1268", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "0.35", "level": "C", "problem_code": "1269", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "10", "level": "C", "problem_code": "1270", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "50", "level": "C", "problem_code": "1271", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "5", "level": "C", "problem_code": "1272", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "1", "level": "C", "problem_code": "1273", "question_type": "객관식", "unit_path": "11 상대도수"}, {"answer": "0.4", "level": "C", "problem_code": "1274", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "90", "level": "C", "problem_code": "1275", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "11", "level": "C", "problem_code": "1276", "question_type": "단답형", "unit_path": "11 상대도수"}, {"answer": "28", "level": "C", "problem_code": "1277", "question_type": "단답형", "unit_path": "11 상대도수"}]
